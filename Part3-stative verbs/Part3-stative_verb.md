@@ -11,15 +11,13 @@
   * [1\. Overview](#1-overview)
   * [2\. 我的女神](#2-我的女神)
   * [3\. 静态动词](#3-静态动词)
-  * [4\. 想不到吧<a href="\./1602063273528\.png" target="\_blank" rel="noopener noreferrer"><img src="\./1602063273528\.png" alt="@||100x0" style="max\-width:100%;"></a>](#4-想不到吧)
+  * [4\. 想不到吧](#4-想不到吧)
     * [4\.1 语法是对语言的抽象](#41-语法是对语言的抽象)
   * [5\. 改错题](#5-改错题)
     * [5\.1  I've been loving chocolate since childhood](#51--ive-been-loving-chocolate-since-childhood)
     * [5\.2 不及物动词，没有被动语态](#52-不及物动词没有被动语态)
   * [6\. References &amp; Connection](#6-references--connection)
   * [7\. 文档修订记录](#7-文档修订记录)
-
-
 
 
 
@@ -70,8 +68,9 @@
 
 反之，如果动词是「静态动词」、并不代表「动作」，自然也就没有所谓的「正在做」或「一直做」的进行状态可言。因此，以传统文法的角度来说：静态动词不能用于进行式。换言之，**静态动词不适合加上-ing字尾成为现在分词的形容词**。
 
+## 4. 想不到吧
 
-## 4. 想不到吧![@||100x0](./1602063273528.png)
+## ![@||100x0](./1602063273528.png)
 
 然而我还是找到了一首歌曲叫《[I've Been Loving You Too Long](https://en.wikipedia.org/wiki/I%27ve_Been_Loving_You_Too_Long)》,是一个叫[Otis Redding](https://en.wikipedia.org/wiki/Otis_Redding "Otis Redding") 的美国黑人歌手兼歌词家的作品。
 
