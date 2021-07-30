@@ -3,6 +3,27 @@
 
 [toc]
 
+* [文法俱乐部6 \- 语气(Mood)](#文法俱乐部6---语气mood)
+  * [陈述语气(Indicative mood)](#陈述语气indicative-mood)
+  * [条件语气](#条件语气)
+  * [虚拟语气 (Subjunctive mood)](#虚拟语气-subjunctive-mood)
+    * [描述](#描述)
+      * [虚拟语气三种形式](#虚拟语气三种形式)
+      * [虚拟语气误区](#虚拟语气误区)
+      * [省略虚拟条件](#省略虚拟条件)
+        * [1\. 省略连词if](#1-省略连词if)
+        * [2\. 省略主语和动词be](#2-省略主语和动词be)
+        * [3\. 省略“it\+be”](#3-省略itbe)
+        * [4\. 省略条件从句](#4-省略条件从句)
+      * [含蓄条件句中](#含蓄条件句中)
+      * [条件状语从句用法及动词形式:](#条件状语从句用法及动词形式)
+  * [混杂时间或语气](#混杂时间或语气)
+  * [命令语气 / 祈使句  (imperative mood)](#命令语气--祈使句--imperative-mood)
+  * [直接命令句](#直接命令句)
+  * [间接命令句](#间接命令句)
+
+
+
 本章摘录对应《旋元佑文法》的第 ***12章 语句***
 
 In grammar, the mood of a clause is the way in which the verb forms are used to show whether the clause is, for example, a statement, a question, or an instruction.
@@ -220,5 +241,4 @@ Invalid new password: needs to be min. 8 characters long and contain one number,
 > 
 
 ## 间接命令句
-
 
