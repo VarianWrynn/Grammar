@@ -1,4 +1,4 @@
-  
+
 #常见翻译清单-Part 4 高频出错词汇
 @(星瑞格)[翻译, 公司, 公司业务, dbAudit翻译]
 
@@ -9,7 +9,7 @@
 
 最近在开发过程种，发现有些词汇拼写错误率非常高。都是靠**Resharper**指出来了。因此有必要在这里记录并时不时复习一下。
 
-| <span style="display:block; width:160px; ">词语 <span> |    <span style="display:block; width:140px;"> 错拼</span>|   备注|
+| 词语 |    <span style="display:block; width:140px;"> 错拼</span>|   备注|
 | :-------- | --------:| :------ |
 |**Label**|Lable|老喜欢把e放在最尾巴...|
 |**Field**|Filed|同上....|
@@ -27,9 +27,10 @@
 |**Issue**||这次我经常习惯性打成了Issues，虽然没有错，但是在表示单个的时候应该用**Issue**|
 |**Although**|aloutht|1\. 漏掉th; 2. 多打 t|
 |**occasionally**|occationaly|1\. `sion` 拼成了 `tion` 2. y前面少了一个l|
-|**unconscious** | unconcious|![Alt text](./1614735332542.png)|
+|**unconscious** | unconcious|<img src="./1614735332542.png" alt="Alt text" style="zoom: 67%;" />|
 |**configured** |configed | 2021-7-14 |
 |**Merge**| merg| 2021-7-14|
+|**negotiate**| negociate | 2021-8-13 |
 
 ## 2. 高频写错的句子
 
