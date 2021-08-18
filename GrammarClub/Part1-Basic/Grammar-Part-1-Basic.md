@@ -323,7 +323,9 @@ Either it is going to rain soon or it is not.
 1. Jasmine is a woman.
 2. I trust the woman completely.
 
-![@||300x0](./1612940280228.png)
+<img src="./1612940280228.png" alt="@||300x0" style="zoom:50%;" />
+
+
 
 这两个句子中，第2句 the woman是动词trust的宾语，如果改成普通代名词的话应该是宾格的**her**； 
 
@@ -363,7 +365,7 @@ Jasmine is a woman I trust completely.
 
 因此，这里的 To who it may concern, 需要调整为 To whom it may concern. 
 
-![@||660x0](./1612942001259.png)
+<img src="./1612942001259.png" alt="@||660x0" style="zoom: 67%;" />
 
 
 
@@ -375,7 +377,55 @@ Jasmine is a woman I trust completely.
 
 最后，也可以参考[Google Ngram Viewer](https://books.google.com/ngrams/graph?content=To%20who%20it%20may%20concern,%20To%20whom%20it%20may%20concern&year_start=1800&year_end=2019&corpus=26&smoothing=3&direct_url=t1;,To%20who%20it%20may%20concern;,c0;.t1;,To%20whom%20it%20may%20concern;,c0#t1;,To%20who%20it%20may%20concern;,c0;.t1;,To%20whom%20it%20may%20concern;,c0)关于这两个词组的用法统计：
 
-![Alt text](./1612942057305.png)
+<img src="./1612942057305.png" alt="Alt text" style="zoom:50%;" />
+
+
+
+### 6.3 主语从句
+
+
+
+> What Joe Biden has done with Afghanistan is legendary. It will go down as one of the greatest defeats in American history!
+>
+>  译：乔·拜登在阿富汗所做的一切都是传奇，这将成为美国历史上最伟大的失败之一。
+>
+> Donald J. Trump
+
+
+
+Who Joe Biden has done with Afghanistan is legendary.
+
+
+
+前半句分析：
+
+1. **what** 引导了一个**主语从句**，整句话是个***主系表结构***。
+2. **do with** 表示“处理、应对”，比如：How will you do with the current situation?（你将如何处理当下这个局面？）
+3. **legendary** 这词太尖酸刻薄了，字面意思是“传奇的”，这里是在讽刺拜登“干啥啥不行，搞砸第一名”，真是个“传奇”...
+
+
+
+后半句分析：
+
+It will go down as one of the greatest defeats in American history
+
+1. 主语 it 指代拜登在阿富汗做的事情
+
+2. **go down as…**这个句型很地道，表示“to come to be remembered especially”（将会作为…而被后世记住），比如
+
+   >  Will he go down in history as a great president?（他会作为一个伟大的总统而被后世记住吗？）
+
+3. one of the greatest defeats：巨大的失败之一
+
+
+
+**The pot calls the kettle black.** 五十步笑百步
+
+>  Elliott accused me of being selfish. Talk about the pot calling the kettle black!
+
+
+
+1. [阿富汗大乱：川普用这个单词骂拜登，不愧为嘴炮王！ --侃英语](https://mp.weixin.qq.com/s/E2vt2SR01ynr9g-orXAabw)
 
 
 
@@ -396,6 +446,7 @@ Jasmine is a woman I trust completely.
 | V1.0|   建立| 新建文档 |2020-9-2  | Lee|
 | V2.0|   修改| 把动词时态这个章节拆分出去 |2020-11-16  | Lee|
 |V2.1|增加| 添加`系统词`章节描述|2021-1-28|Lee|
+|v2.2|增加| 添加 主语从句 例子 |2021-8-18|Lee|
 
 *变化状态：建立，修改，增加，删除
 
