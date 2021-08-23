@@ -59,7 +59,7 @@ At that moment, the specks of light surrounding Han Li’s cave residence became
 
 Above the small mountain of Han Li’s residence, a half-kilometer wide sphere of light glistened brilliantly, blinding anyone who dared to look directly at it.
 
-Suddenly, a world shaking boom clapped through the sky, swaying through the entire mountain. At that moment an azure pillar of light shot towards the sky from the mountain, piercing straight through the sphere of light in the sky.
+Suddenly, a world shaking boom clapped through the sky, swaying through the entire mountain. At that moment an azure【 [ˈæʒər] 】 pillar of light shot towards the sky from the mountain, piercing straight through the sphere of light in the sky.
 
 The huge sphere of light immediately became covered in dark clouds, bringing about a storm of lightning and wind. Within this storm, the light began to shrink, but its colorful flashes of light only became more dazzling.
 
