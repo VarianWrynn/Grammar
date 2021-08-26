@@ -1,5 +1,4 @@
-
-#常见翻译清单-Part 4 高频出错词汇
+# 常见翻译清单-Part 4 高频出错词汇
 @(星瑞格)[翻译, 公司, 公司业务, dbAudit翻译]
 
 [toc]
@@ -27,7 +26,7 @@
 |**Issue**||这次我经常习惯性打成了Issues，虽然没有错，但是在表示单个的时候应该用**Issue**|
 |**Although**|aloutht|1\. 漏掉th; 2. 多打 t|
 |**occasionally**|occationaly|1\. `sion` 拼成了 `tion` 2. y前面少了一个l|
-|**unconscious** | unconcious|<img src="./1614735332542.png" alt="Alt text" style="zoom: 67%;" />|
+|**unconscious** | unconcious|<img src="./img/1614735332542.png" alt="Alt text" style="zoom: 67%;" />|
 |**configured** |configed | 2021-7-14 |
 |**Merge**| merg| 2021-7-14|
 |**negotiate**| negociate | 2021-8-13 |

@@ -1,4 +1,4 @@
-#常见翻译清单-Part 1
+# 常见翻译清单-Part 1
 @(星瑞格)[翻译, 公司, 公司业务, dbAudit翻译]
 
 [toc]
@@ -90,7 +90,7 @@
 | 添加 | 新增 | Add |
 |查找| 搜尋 |Search| 
 
- 
+
 ## 3. 校验 Validation
 
 | 对象 | 简体     |     繁体 |   英文   |
@@ -100,8 +100,10 @@
 | 电话/传真 | IP地址格式不正确  | |
 |xx已存在|xx已存在||xx already exists[^4]|
 |密码校验|Invalid new password: needs to be min. 8 characters long and contain one number, one uppercase and one lowercase character[^5]||
+
+
 [^4]: The Record Already Exists, UUID already exists. 若翻译为xxx has already exists. has本身是动词，exist也是动词；
-{^5}: 参考了 BrightPearl的UI
+[^5]: 参考了 BrightPearl的UI
 
 ### 3.1 邮件
 主要参考[Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new)的:
@@ -181,7 +183,7 @@
 >2. [信息安全技术 公共及商用服务信息系统个人信息保护指南 [现行有效] ](http://www.lawinfochina.com/display.aspx?id=23476&lib=law)
 ><br>
 > 3. [信息安全技术 公共及商用服务信息系统个人信息保护指南 [现行有效] ](http://www.lawinfochina.com/display.aspx?id=23476&lib=law)
->   <br>
+>     <br>
 
 #### 等保法：
 > [公安部、国家保密局、国家密码管理局、国务院信息工作办公室关于印发《信息安全等级保护管理办法》的通知 [现行有效]](http://www.lawinfochina.com/display.aspx?id=6401&lib=law&SearchKeyword=&SearchCKeyword=%d0%c5%cf%a2%b0%b2%c8%ab%b5%c8%bc%b6%b1%a3%bb%a4)
@@ -191,7 +193,7 @@
 #### 小结：
 1. Graded:等级； Classification:分类。
 2. 关于法规法条的设计，参考这篇文章[dbAudit专项记录–法规法条](https://www.evernote.com/l/ALr2spaNAbJImoyNLosUqjzL-ehlXfm0Q7A/)
- 
+
 
 
 ## 5.  奇怪的知识又增加了
@@ -218,7 +220,7 @@
 eg:
 > It’s important to know that moats change over time as conditions change. Before the arrival of recorded music, what used to be scarce was the actual music itself — required an in-person artist.  After recorded music, the music itself became abundant and [what became scarce was curation](https://eriktorenberg.substack.com/p/build-personal-moats), distribution, and self space. *护城河会随着条件的变化而变化。比如，录音技术诞生之前，稀缺的是音乐本身，你想听音乐，就需要有一个艺术家给你现场表演。现在，音乐录音到处都是，稀缺的是策划、发行和个性的展示。*
 
- 
+
 ### 5.4  as-is / as it is (原样)
 
 > Edit merchant info including name, wms parameters, and schedules. [Any fields left off will be left as-is.](https://developers.cartrover.com/?version=latest#079c1875-9b93-4b23-9b43-736d928bdf44) （任何未完成的字段将按原样保留）。
@@ -230,6 +232,8 @@ eg:
 (or **as it is**)： in the existing state of affairs /  in the state that something is in at the present time.
 > Will you wait till it's finished or take it home as-is?  你是等着它完全做好呢，还是就这样拿回家？
 
+
+
 ### 5.5 Schema
 
 [A schema defines](https://developer.akamai.com/blog/2019/04/08/graphql-101-what-why-and-how) the structure of objects and the relationship between them. 
@@ -238,25 +242,7 @@ eg:
 
 在做GraphQL的Query和Mutation过程中，经常遇到一些不符合Schema的校验导致报错的情况，比如：
 
-![@||360x0](./1603768908412.png) ![@||350x0](./1603769422092.png) ![@||330x0](./1603769431812.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="./img/1603768908412.png" alt="@||360x0" style="zoom:67%;" /> <img src="./img/1603769422092.png" alt="@||350x0" style="zoom:67%;" /> <img src="./img/1603769431812.png" alt="@||330x0" style="zoom:67%;" />
 
 
 
@@ -292,6 +278,8 @@ Are you signing up [on behalf of](https://zoom.us/activate?code=zDNPISAQHYi5ySD1
 You can [specify certain criteria in a search condition](http://www.cs.toronto.edu/~nn/csc309/guide/pointbase/docs/html/htmlfiles/dev_searchcondandpredicates.html) and predicate for an SQL statement to perform to the database. 
 
 #### 3. Criteria vs Criteras
+
+
 
 ### 7.8 orchestration  /[ˌɔrkɪ'streɪʃn/
 
