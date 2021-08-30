@@ -213,6 +213,7 @@ The HTTP adaptors the following authentication types:
 #### 什么是凭证（Credentials）
 
 **实现认证和授权的前提**是需要一种**媒介（证书）** 来标记访问者的身份。
+
 > 在战国时期，商鞅变法，发明了照身帖。照身帖由官府发放，是一块打磨光滑细密的竹板，上面刻有持有人的头像和籍贯信息。国人必须持有，如若没有就被认为是黑户，或者间谍之类的。
 
 
@@ -229,6 +230,12 @@ The HTTP adaptors the following authentication types:
  2. [傻傻分不清之 Cookie、Session、Token、JWT -- 掘金网](https://juejin.im/post/6844904034181070861)
 
 
+
+#### bearer 持票人
+
+**baron ['bær(ə)n]** n.男爵；大亨；巨头。
+
+1066年诺曼征服后，征服者威廉将英国的土地逐步分封给了效忠于自己的骑士，这些有了封地骑士们被称为baron。或来自法兰克语（法国，法兰克人的土地），与bear熊有关。日耳曼民族尚武，战争中勇猛的战士似“熊”附体，这些baron都是国王的**bear-like warriors**。
 
 ### 6.11 独立的组件:Stand-alone(而不是independent)
 
