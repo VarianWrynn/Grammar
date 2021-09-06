@@ -5,6 +5,71 @@
 
  
 
+## [Minister](https://mp.weixin.qq.com/s/YqjWyrjx1h9L0b62NYp6rg) (大臣、部长)
+
+在中国历史上，再大的官见了皇帝也得自称“奴才”、“小的”。西方也一样，大臣在国王面前自称**minister**，字面意思就是“小人、奴仆”。
+
+**minister**可以分解为两部分:
+
+- 前面的**minis**表示“小”，和单词minus（减去，负的）、minor（较小的、次要的）同源
+- 后面的-ter是个比较级后缀。
+
+合起来整个单词的字面意思就是“较小的人，地位较低的人”，引申为“奴仆”。
+
+在英语中，**minister**原本表示:
+
+- 牧师（上帝的奴仆）
+- 大臣（国王的奴仆）。
+
+
+
+------------------
+
+
+
+**prime minister**就是首相、主要的大臣。后来英国实行了君主立宪制，国王的大臣变成了政府的部长，但**minister**的称呼并没有变化，只是一般翻译为“部长”而不再是“大臣”。
+
+**minister**派生出单词**ministry**：
+
+- 前面的**`ministr-`**等于**minister**，
+- 后面附加了一个抽象名词后缀-y。
+
+**ministry**原本是一个抽象名词，表示“*牧师或部长的身份和职责*”，后来转用做**具体名词**，***表示部长履行职责的场所和机构***，也就是政府下面的一个部，比如**the ministry of education**（教育部）。
+
+
+
+-------------------------
+
+
+
+单词**administrate**也来自**`minister`**:
+
+- 前缀**`ad-`**表示“去、趋近”，
+- 中间的**`ministr-`**等于**minister**，
+- 末尾的**`-ate`**来自***拉丁语动词的过去分词后缀***，在此用作**动词后缀**。
+
+整个单词的字面意思就是“*去当大臣、去辅助国王*”，***引申为“管理、行政”***。
+
+它还派生出名词**administration**（管理、行政、行政机构）和**administrator**（管理员、行政人员）。
+
+
+
+------------------------
+
+- **minus**：[ˈmaɪnəs] adj.负的，零下的，稍差的prep.减去，零下n.减号，负号；不足
+- **minor**：[ˈmaɪnə(r)] adj.较小的，未成年的，次要的，小调的n.未成年人，小调，辅修科目
+- **minister**：[ˈmɪnɪstə(r)] n.部长，大臣，牧师vi.执行牧师职务，照料，伺候
+- **ministry**：[ˈmɪnɪstri] n.（政府）部门；牧师职务和任期
+- **administrate**：[ədˈmɪnɪstreɪt] vt.管理，行政，经营
+- **administration**：[ədˌmɪnɪˈstreɪʃn] n.管理，行政，行政机构，经营
+- **administrator**：[ədˈmɪnɪstreɪtə(r)] n.管理员，行政人员
+
+
+
+Reference: [词源趣谈：再大的minister（大臣、部长），其实也只是一个小“奴仆”。--钱磊博士](https://mp.weixin.qq.com/s/YqjWyrjx1h9L0b62NYp6rg)
+
+
+
 ## Indenture(契约)
 
 在中世纪的欧洲，人们在签订契约时，往往会把两份内容相同的契约写在同一张羊皮纸上，然后在中间以锯齿状边缘分割开，双方各持一份。以后需要比对契约真伪，只需要查看两份契约的锯齿状边缘能否对上即可。
@@ -87,4 +152,12 @@
 
 
 引用： [词源趣谈：magic——神奇的拜火教祭司--钱磊博士](https://mp.weixin.qq.com/s/4U8Py1gjj_yIkYF4ujrqUQ)
+
+
+
+
+
+## Reference:
+
+[英语词源趣谈](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4NTQ4NzIzNg==&action=getalbum&album_id=1297162942844207107&scene=173&from_msgid=2651803449&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
