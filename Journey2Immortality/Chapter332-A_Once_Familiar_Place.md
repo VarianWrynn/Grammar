@@ -86,13 +86,13 @@ It was unknown how long this subtle mood continued before Chen Qiaoqian broke it
 
 “Junior Martial Brother Han, after the great battle is concluded, I fear that I am going to be married off!”
 
-> “韩师弟，大战结束后，我恐怕就要嫁人了！”
+> “韩师弟，大战结束后，我恐怕就要嫁人了！”:sob:
 
 
 
 Upon hearing those words, Han Li couldn’t help but tilt his head and reveal an expression of astonishment.
 
-> 听到此话，韩立一怔，不禁侧脸望去，露出了吃惊之色。
+> 听到此话，韩立一怔，不禁侧脸望去，露出了吃惊之色。:open_mouth:
 
 
 
