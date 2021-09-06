@@ -11,7 +11,59 @@
 
 
 
+## yet
 
+![360x0](F:\Lee\Githubs\Grammar\RootOrigin\images\1613658492310.png)
+
+> Such power, yet so blind. Allow me to lift the veil from your eyes, my Archon.
+
+柯林斯英汉双解
+
+1. ***ADV*** You use **`yet`** in negative statements to indicate that something has not happened up to the present time, although it probably will happen. You can also use yet in questions to ask if something has happened up to the present time. 尚 (用于否定句); 已经 (用于疑问句)
+
+- 例：They haven't finished yet. 他们还没有结束。
+- 例：No decision has yet been made.尚未作出决定。
+- 例：She hasn't yet set a date for her marriage. 她尚未定下她结婚的日子。
+
+2. ***ADV*** You use **`yet`** with a negative statement when you are talking about the past, to report something that was not the case then, although it became the case later. (当时) 还 (用于否定句)
+
+- 例：There was so much that Sam didn't know yet.有那么多萨姆当时还不知道的。
+
+3. ***ADV*** If you say that something should not or cannot be done **`yet`**, you mean that it should not or cannot be done now, although it will have to be done at a later time. (此时) 还 (用于否定句) [with brd-neg, ADV with v]
+
+- 例：Don't get up yet. 还别起床。
+- 例：The hostages cannot go home just yet.人质们这时还不能回家。
+
+4. ***ADV*** You use **`yet`** after a superlative to indicate, for example, that something is the worst or the best of its kind up to the present time. 迄今 (最…)
+
+- 例：This is the network's worst idea yet.这是到目前为止该网络最糟糕的点子。
+- 例：Her latest novel is her best yet.她的最新小说是到目前为止她的最好的小说。
+
+5. ***ADV*** You can use **`yet`** to say that there is still a possibility that something will happen. 仍 (用以表示某事仍有发生的可能性) [ADV before v]
+
+- 例：Like the best stories, this one may yet have a happy ending.像那些最好的故事一样，这个故事可能仍有个幸福的结局。
+
+6. ***ADV*** You can use **`yet`** after expressions that refer to a period of time, when you want to say how much longer a situation will continue for. 还 (会继续某段时间) [n ADV]
+
+- 例：Unemployment will go on rising for some time yet.失业人数还会继续增长一段时间。
+- 例：Nothing will happen for a few years yet.几年内还不会发生什么事。
+
+7. ***ADV*** If you say that you have `yet` to do something, you mean that you have never done it, especially when this is surprising or bad. 还 (不曾做某事) [ADV to-inf]
+
+- 例：She has yet to spend a Christmas with her husband. 她还不曾跟丈夫一起度过一个圣诞节。
+
+8. ***CONJ*** You can use **`yet`** to **introduce a fact that is rather surprising after the previous fact you have just mentioned**. 然而
+
+- 例：I don't eat much, yet I am a size 16. 我吃得不多，然而我是个穿16号的人。
+
+9. ***ADV*** You can use **`yet`** to emphasize a word, especially when you are saying that something is surprising because it is more extreme than previous things of its kind, or a further case of them. 还 (尤用以强调令人吃惊的事物) [强调]
+
+- 例： I saw yet another doctor.我还看了另一位医生。
+- 例：They would criticize me, or worse yet, pay me no attention.他们会批评我，甚或更糟，会不理我。
+
+10. **PHRASE** You use **`as yet`** with negative statements to describe a situation that has existed up until the present time. 迄今还 (用于否定陈述句中) [正式]
+
+- 例：As yet it is not known whether the crash was the result of an accident.迄今尚不知该撞击是否是由于一起事故。
 
 
 
@@ -209,3 +261,28 @@ john
  - vi.冒烟，发怒
 
 ### Toilet water
+
+
+
+## vaccine
+
+vacc-
+
+> =bull, 表示*牛*，来源于拉丁语**vacca**.
+
+-ine
+
+> 表名词，“状态，药物，化学物品”等
+
+琴纳（Edward Jenner,18世纪英国医生）将用于人体接种的牛痘苗称为vaccine virus，其中vaccine来自拉丁语vaccinus（母牛的），原本是个形容词，后来演变为名词。不仅可用来表示用于预防天花的牛痘苗，还可以表示任何一种用于接种的疫苗。
+
+- vaccinate: `/'væksɪneɪt/`  vt.给……接种疫苗vi.接种疫苗
+- vaccination ：[,væksɪ'neɪʃən] n.接种疫苗
+
+| -ine          |                                                解释 |
+| :------------ | --------------------------------------------------: |
+| Caffe-ine     |                                                     |
+| dis-cip-l-ine |                                                     |
+| doctr-ine     | = to teach, 表示“教”。源自拉丁语 docere "to teach." |
+| famine        |                      fam-来自拉丁语fames,饥饿，饥荒 |
+

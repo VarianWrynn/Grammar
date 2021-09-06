@@ -5,13 +5,72 @@
 
 
 
+## [Aegis](https://mp.weixin.qq.com/s?__biz=MzA4NTQ4NzIzNg==&mid=2651800934&idx=1&sn=35ceebf8622625188190dad1cec81bbf&chksm=842cde8db35b579bbf0b3a20050a3517ebcd0efecdcf6932711b453aa4825f91d474fc4a66b3&scene=178&cur_album_id=1297162942844207107#rd) （宙斯盾）
+
+在古希腊神话中，神王宙斯拥有一块神盾。它是火神赫菲斯托斯特地为宙斯锻造的，上面还蒙有一块曾经哺育过宙斯的母山羊阿玛尔忒亚的毛皮。这块盾牌拥有巨大的魔力，只要摇晃一下，就会天摇地动，电闪雷鸣。
+
+<img src="./images/image-20210906150211896.png" alt="image-20210906150211896" style="zoom:67%;" />
+
+后来，宙斯因为宠爱女儿雅典娜，就把这块盾牌送给了雅典娜。雅典娜在盾牌中间安上了蛇发女妖美杜莎的头，进一步增强了神盾的魔力，任何被其光芒照到的人都会化为石头。从此以后雅典娜战无不胜、所向披靡。
+
+<img src="./images/image-20210906150250758.png" alt="image-20210906150250758" style="zoom: 50%;" />
+
+这块神奇的盾牌在希腊语中叫做**aigis**，可能源自名词**aigos（山羊）**，因为它上面蒙有一块山羊皮。
+
+这个单词进入拉丁语后拼写为**aegis**，后来进入英语，常常翻译为“宙斯盾”。
+
+美国海军的防御作战系统就被称为**AEGIS（宙斯盾）**，因为它可以有效地防御敌人从各个方向发起的攻击，构成了海军舰队的防护盾牌。
+
+单词**aigis**常常被用来比喻“保护、庇护”或“支持、赞助”，常见短语**under the aegis of**意思就是“在……的保护下”，比如:
+
+- The space programwill continue under the aegis of the armed forces.
+
+  > 这项太空计划将在武装力量保护下继续进行。
+
+它还可以表示“由……主办或赞助”，比如
+
+- A conference underthe aegis of the United Nations. 
+
+  > 一个联合国主办的会议。
 
 
 
+**aegis**：['iːdʒɪs] n.保护，庇护，支持，赞助
+
+## lieutenant [luːˈtenənt]
+
+（中尉）：代理指挥官职位的军官
+
+英语单词**lieutenant**来自法语短语**lieu tenant**，由:
+
+- **lieu**（代替）
+- **tenant**（持有人）
+
+组成，字面意思就是“代替行使指挥权的人”，指的是在战场上当指挥官牺牲或受伤而无法指挥时，代替行使指挥权的人。
+
+16世纪70年代后用来表示中尉军衔，仅次于上尉（**captain**）。
+
+- **lieutenant：[lef'tenənt]** n.中尉，副官，助理人员
+- **lieutenancy：[lef'tenənsɪ]** n. 代理官员；中尉之军衔
+- **tenant：['tɛnənt]** n. 承租人；房客；佃户；居住者vt. 租借
 
 
 
+## [admiral](https://mp.weixin.qq.com/s?__biz=MzA4NTQ4NzIzNg==&mid=2651800919&idx=1&sn=4c88c003130ce5a91517adc4b9f599e1&chksm=842cdebcb35b57aada37b62afe3e5390cf6908392e0888c42ca1f972937c54e01b755b57d9e6&scene=178&cur_album_id=1297162942844207107#rd) （海军上将）
 
+英语单词**admiral**（海军上将）和**emir**（埃米尔，穆斯林酋长）同源，都源自阿拉伯语单词**amir**。**amir**是某些穆斯林国家的酋长、首领的称号，它在16世纪90年代进入英语，演变为英语单词**emir**，中文音译为“埃米尔”。
+
+中世纪时，阿拉伯商船在出海时，常常结队行动，以对抗海盗。在阿拉伯语中，指挥整个船队的首领叫作**`amir-al-bahr`**，末尾的**bahr**表示“船队”，中间的al原本是阿拉伯语中的定冠词，相当于英语中的**the**。这个词组流传至欧洲后，欧洲人把中间那个定冠词**al**也当成了单词的一部分，把这个词组简写为**amiral**，用来表示船队首领。
+
+后来，受到单词**admirable**（令人敬佩的）的影响，单词**amiral**的拼写方式逐渐变成**admiral**，中间插入了一个字母`d`。现在，这个单词被用来表示海军舰队的最高指挥官，即舰队司令。admiral还可以表示海军中的高级军衔，常常翻译为“海军上将”。
+
+在记单词时，我们可以利用**admirable**（令人敬佩的）来帮助记忆单词**admiral**（海军上将、舰队司令）。海军上将（**admiral**）这样的人，自然是令人敬佩的（**admirable**）。
+
+- **admiral**：['ædmərəl] n.海军上将，舰队司令
+
+- **admirable**：[ˈædmərəbl] adj.令人敬佩的
+
+- **emir**：[eˈmɪə(r); ˈeɪmɪə(r)] n.埃米尔，穆斯林酋长
 
 
 
@@ -21,59 +80,6 @@
 - meritocratic: adj.  评功论赏的，任人唯才的，以功绩定地位的；
 
 
-
-## yet
-![360x0](./images/1613658492310.png)
-
-> Such power, yet so blind. Allow me to lift the veil from your eyes, my Archon.
-
-柯林斯英汉双解
-
-1. ***ADV*** You use **`yet`** in negative statements to indicate that something has not happened up to the present time, although it probably will happen. You can also use yet in questions to ask if something has happened up to the present time. 尚 (用于否定句); 已经 (用于疑问句)
-
-- 例：They haven't finished yet. 他们还没有结束。
-- 例：No decision has yet been made.尚未作出决定。
-- 例：She hasn't yet set a date for her marriage. 她尚未定下她结婚的日子。
-
-2. ***ADV*** You use **`yet`** with a negative statement when you are talking about the past, to report something that was not the case then, although it became the case later. (当时) 还 (用于否定句)
-
-- 例：There was so much that Sam didn't know yet.有那么多萨姆当时还不知道的。
-
-3. ***ADV*** If you say that something should not or cannot be done **`yet`**, you mean that it should not or cannot be done now, although it will have to be done at a later time. (此时) 还 (用于否定句) [with brd-neg, ADV with v]
-
-- 例：Don't get up yet. 还别起床。
-- 例：The hostages cannot go home just yet.人质们这时还不能回家。
-
-4. ***ADV*** You use **`yet`** after a superlative to indicate, for example, that something is the worst or the best of its kind up to the present time. 迄今 (最…)
-
-- 例：This is the network's worst idea yet.这是到目前为止该网络最糟糕的点子。
-- 例：Her latest novel is her best yet.她的最新小说是到目前为止她的最好的小说。
-
-5. ***ADV*** You can use **`yet`** to say that there is still a possibility that something will happen. 仍 (用以表示某事仍有发生的可能性) [ADV before v]
-
-- 例：Like the best stories, this one may yet have a happy ending.像那些最好的故事一样，这个故事可能仍有个幸福的结局。
-
-6. ***ADV*** You can use **`yet`** after expressions that refer to a period of time, when you want to say how much longer a situation will continue for. 还 (会继续某段时间) [n ADV]
-
-- 例：Unemployment will go on rising for some time yet.失业人数还会继续增长一段时间。
-- 例：Nothing will happen for a few years yet.几年内还不会发生什么事。
-
-7. ***ADV*** If you say that you have `yet` to do something, you mean that you have never done it, especially when this is surprising or bad. 还 (不曾做某事) [ADV to-inf]
-
-- 例：She has yet to spend a Christmas with her husband. 她还不曾跟丈夫一起度过一个圣诞节。
-
-8. ***CONJ*** You can use **`yet`** to **introduce a fact that is rather surprising after the previous fact you have just mentioned**. 然而
-
-- 例：I don't eat much, yet I am a size 16. 我吃得不多，然而我是个穿16号的人。
-
-9. ***ADV*** You can use **`yet`** to emphasize a word, especially when you are saying that something is surprising because it is more extreme than previous things of its kind, or a further case of them. 还 (尤用以强调令人吃惊的事物) [强调]
-
-- 例： I saw yet another doctor.我还看了另一位医生。
-- 例：They would criticize me, or worse yet, pay me no attention.他们会批评我，甚或更糟，会不理我。
-
-10. **PHRASE** You use **`as yet`** with negative statements to describe a situation that has existed up until the present time. 迄今还 (用于否定陈述句中) [正式]
-
-- 例：As yet it is not known whether the crash was the result of an accident.迄今尚不知该撞击是否是由于一起事故。
 
 
 ## Aspirant /əˈspaɪərənt/
@@ -159,16 +165,18 @@ archon：['ɑrkɑn] n. 执政官（古代雅典九名统治者之一）；统治
 
 
 
-
-paragon（模范）：用来检验金子纯度的试金石。
+**paragon**（模范）：用来检验金子纯度的试金石。
 
 古代西方人为了检验金子的纯度，常常使用一种用纹理细密的深色玉石做成的试金石（touchstone）。将要检验的金子在试金石上摩擦，就可以根据划痕颜色来判断金子的纯度。
 
-这种试金石在意大利语中被称为paragone，它来自希腊语parakonan，由para（并列、对抗）+ akone（磨石）构成。英语单词paragon就来源于此，本意就是这种试金石。因为试金石是衡量价值的标准，因此衍生出“完美之物、模范”之意。
+这种试金石在意大利语中被称为paragone，它来自希腊语parakonan，由:
 
-paragon： ['pærəg(ə)n] 
-- n. 完美之物，模范，试金石
-- adj. 完美的
+- para（并列、对抗）
+-  akone（磨石）构成。
+
+英语单词**paragon**就来源于此，本意就是这种试金石。因为试金石是衡量价值的标准，因此衍生出“完美之物、模范”之意。
+
+- paragon： ['pærəg(ə)n]  n. 完美之物，模范，试金石 adj. 完美的
 
 ##  centurion /sen'tʊriən/
 
@@ -351,23 +359,4 @@ weird：[wɪəd] adj.怪异的，不可思议的n.命运，预言
 >  B: That’s strange! I bought a dozen only yesterday.
 >   
 >  D: You’ve been acting weird all day. What's going on?
-
-## vaccine
-vacc-
-> =bull, 表示*牛*，来源于拉丁语**vacca**.
-
--ine
-> 表名词，“状态，药物，化学物品”等
-
-琴纳（Edward Jenner,18世纪英国医生）将用于人体接种的牛痘苗称为vaccine virus，其中vaccine来自拉丁语vaccinus（母牛的），原本是个形容词，后来演变为名词。不仅可用来表示用于预防天花的牛痘苗，还可以表示任何一种用于接种的疫苗。
-
-- vaccinate: `/'væksɪneɪt/`  vt.给……接种疫苗vi.接种疫苗
-- vaccination ：[,væksɪ'neɪʃən] n.接种疫苗
-
-| -ine|     解释|   
-| :-------- | --------:| 
-| Caffe-ine|   | 
-| dis-cip-l-ine|    |  
-| doctr-ine| = to teach, 表示“教”。源自拉丁语 docere "to teach."  | 
-|famine|fam-来自拉丁语fames,饥饿，饥荒|
 
