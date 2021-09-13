@@ -483,3 +483,14 @@ Locale seems to be used less often, and it is not interchangeable with the word 
 - **Anthony **will share the current Aurora subscription - **both Production and Staging**
 - **NH team **will confirm back the desired Reserved Instance subscription
 
+
+
+### 6.23 [Braces, brackets and parentheses](https://www.cis.upenn.edu/~matuszek/General/JavaSyntax/parentheses.html)
+
+The following terminology is used in American English (British English may be different.)
+
+| { }  | Braces ("curly braces") Braces are used to group statements and declarations. The contents of a class or interface are enclosed in braces. Method bodies and constructor bodies are enclosed in braces. Braces are used to group the statements in an if statement, a loop, or other control structures. |
+| ---- | ------------------------------------------------------------ |
+| [ ]  | Brackets ("square brackets") Brackets are used to index into an array. |
+| ( )  | Parentheses Parentheses are used for two purposes: (1) to control the order of operations in an expression, and (2) to supply parameters to a constructor or method. |
+
