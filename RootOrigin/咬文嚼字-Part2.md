@@ -7,10 +7,6 @@
 
 
 
-
-
-
-
 ## yet
 
 ![360x0](F:\Lee\Githubs\Grammar\RootOrigin\images\1613658492310.png)

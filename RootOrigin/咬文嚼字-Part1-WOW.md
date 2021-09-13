@@ -140,7 +140,39 @@ A person with a strong desire to achieve a position of importance or to win a co
 |nominee. <br>n. 被提名者| 〔辨析〕通常指某一职位、奖项等的提名候选人。 <br><br> 〔例证〕 <br> a presidential nominee. <br> an Oscar nominee. <br> He is the nominee for the position.|
 
 
+
+## Ascendant [əˈsendənt] 运星
+
+**ascendant**（运星）：西方占星术中的上升星座。
+
+在西方占星术中，影响人的性格和命运的除了
+
+- “太阳星座”（出生时太阳所处的黄道十二宫位置）
+- “月亮星座”（出生时月亮所处的黄道十二宫位置）外，还有一个重要的星座，那就是
+- “上升星座”（ascendant sign）。
+
+所谓“上升星座”，指的是出生时东方地平线上升起的第一个星座。单词**ascendant**是动词**ascend**（上升）的形容词，字面意思就是“上升的”。
+
+由于占星术认为，出生时上升的这个星座对人的性格和命运具有支配性影响，它的地位比其他星座更加优越，因此单词**ascendant**一词便从“上升的”衍生出“优越的、支配性的”等含义。
+
+- **ascend**：[ə'send] v.上升，攀爬
+- **ascendant**：[ə'send(ə)nt] adj.上升的，优越的，支配性的n.优势，支配地位，运星
+- **ascendancy**：[ə'sɛndənsi] n.优势，支配地位
+
+| a.scend /əˈsend/ | v. 上升;升高;登高 |      |
+| ---------------- | ----------------- | ---- |
+| a.scent          |                   |      |
+| con.de.scens.ion |                   |      |
+| de.scend         |                   |      |
+| de.scent         |                   |      |
+| tran.scend       |                   |      |
+| ascens.ion       |                   |      |
+| a.scens.ive      |                   |      |
+
+
+
 ## Archon  ['ɑrkɑn]
+
 > n.	执政官；古希腊雅典九人执政官之一；主要官员
 > Web	光明执政官；统治者；神族的执政官
 
@@ -360,3 +392,4 @@ weird：[wɪəd] adj.怪异的，不可思议的n.命运，预言
 >   
 >  D: You’ve been acting weird all day. What's going on?
 
+​	
