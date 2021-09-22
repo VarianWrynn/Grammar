@@ -17,49 +17,49 @@
 
 1. ***ADV*** You use **`yet`** in negative statements to indicate that something has not happened up to the present time, although it probably will happen. You can also use yet in questions to ask if something has happened up to the present time. 尚 (用于否定句); 已经 (用于疑问句)
 
-- 例：They haven't finished yet. 他们还没有结束。
-- 例：No decision has yet been made.尚未作出决定。
-- 例：She hasn't yet set a date for her marriage. 她尚未定下她结婚的日子。
+    - 例：They haven't finished yet. 他们还没有结束。
+    - 例：No decision has yet been made.尚未作出决定。
+    - 例：She hasn't yet set a date for her marriage. 她尚未定下她结婚的日子。
 
 2. ***ADV*** You use **`yet`** with a negative statement when you are talking about the past, to report something that was not the case then, although it became the case later. (当时) 还 (用于否定句)
 
-- 例：There was so much that Sam didn't know yet.有那么多萨姆当时还不知道的。
+    - 例：There was so much that Sam didn't know yet.有那么多萨姆当时还不知道的。
 
 3. ***ADV*** If you say that something should not or cannot be done **`yet`**, you mean that it should not or cannot be done now, although it will have to be done at a later time. (此时) 还 (用于否定句) [with brd-neg, ADV with v]
 
-- 例：Don't get up yet. 还别起床。
-- 例：The hostages cannot go home just yet.人质们这时还不能回家。
+    - 例：Don't get up yet. 还别起床。
+    - 例：The hostages cannot go home just yet.人质们这时还不能回家。
 
 4. ***ADV*** You use **`yet`** after a superlative to indicate, for example, that something is the worst or the best of its kind up to the present time. 迄今 (最…)
 
-- 例：This is the network's worst idea yet.这是到目前为止该网络最糟糕的点子。
-- 例：Her latest novel is her best yet.她的最新小说是到目前为止她的最好的小说。
+    - 例：This is the network's worst idea yet.这是到目前为止该网络最糟糕的点子。
+    - 例：Her latest novel is her best yet.她的最新小说是到目前为止她的最好的小说。
 
 5. ***ADV*** You can use **`yet`** to say that there is still a possibility that something will happen. 仍 (用以表示某事仍有发生的可能性) [ADV before v]
 
-- 例：Like the best stories, this one may yet have a happy ending.像那些最好的故事一样，这个故事可能仍有个幸福的结局。
+    - 例：Like the best stories, this one may yet have a happy ending.像那些最好的故事一样，这个故事可能仍有个幸福的结局。
 
 6. ***ADV*** You can use **`yet`** after expressions that refer to a period of time, when you want to say how much longer a situation will continue for. 还 (会继续某段时间) [n ADV]
 
-- 例：Unemployment will go on rising for some time yet.失业人数还会继续增长一段时间。
-- 例：Nothing will happen for a few years yet.几年内还不会发生什么事。
+    - 例：Unemployment will go on rising for some time yet.失业人数还会继续增长一段时间。
+    - 例：Nothing will happen for a few years yet.几年内还不会发生什么事。
 
 7. ***ADV*** If you say that you have `yet` to do something, you mean that you have never done it, especially when this is surprising or bad. 还 (不曾做某事) [ADV to-inf]
 
-- 例：She has yet to spend a Christmas with her husband. 她还不曾跟丈夫一起度过一个圣诞节。
+    - 例：She has yet to spend a Christmas with her husband. 她还不曾跟丈夫一起度过一个圣诞节。
 
 8. ***CONJ*** You can use **`yet`** to **introduce a fact that is rather surprising after the previous fact you have just mentioned**. 然而
 
-- 例：I don't eat much, yet I am a size 16. 我吃得不多，然而我是个穿16号的人。
+    - 例：I don't eat much, yet I am a size 16. 我吃得不多，然而我是个穿16号的人。
 
 9. ***ADV*** You can use **`yet`** to emphasize a word, especially when you are saying that something is surprising because it is more extreme than previous things of its kind, or a further case of them. 还 (尤用以强调令人吃惊的事物) [强调]
 
-- 例： I saw yet another doctor.我还看了另一位医生。
-- 例：They would criticize me, or worse yet, pay me no attention.他们会批评我，甚或更糟，会不理我。
+    - 例： I saw yet another doctor.我还看了另一位医生。
+    - 例：They would criticize me, or worse yet, pay me no attention.他们会批评我，甚或更糟，会不理我。
 
 10. **PHRASE** You use **`as yet`** with negative statements to describe a situation that has existed up until the present time. 迄今还 (用于否定陈述句中) [正式]
 
-- 例：As yet it is not known whether the crash was the result of an accident.迄今尚不知该撞击是否是由于一起事故。
+    - 例：As yet it is not known whether the crash was the result of an accident.迄今尚不知该撞击是否是由于一起事故。
 
 
 
@@ -164,6 +164,32 @@ anim-（生命）：代表生命之源的灵魂
 - chaotic： [keɪ'ɒtɪk] adj.混乱的、无秩序的
 - chasm：['kæzəm] n. 峡谷；裂口；分歧；深坑
 - gas：[ɡæs] n. 气体；瓦斯；汽油；毒气
+
+
+
+## pan-（众、全）Pandora
+
+**pan-（众、全）**：***众神的礼物潘多拉***
+
+宙斯发现人类掌握了火的使用方法后，下决心要惩罚人类，就让火神仿造女神的模样，用水和土创造了一个美女，再让爱与美神阿芙洛狄忒为她喷上令男人心醉神迷的香气，让雅典娜为她披上华丽的衣服，神使赫尔墨斯赋予她言语的天赋。
+
+当这个女人做好后，宙斯给她起名为**Pandora**（潘多拉），让她带着一个宝盒来到人间，并欲擒故纵地警告她不要打开盒子。埃庇米修斯不顾普罗米修斯的警告，娶了潘多拉为妻。潘多拉果然禁不起好奇心，打开了宝盒，放出了里面的各种灾难，仅仅保留了希望在里面。
+
+潘多拉的名字**Pandora**是“**众神的礼物**”的意思。在希腊语中，**pan**表示“**所有**”，英语词根**`pan-`**（全部）便来源于此；**dora**的意思是“礼物”，源自原始印欧语词根do-（给），英语词根do-/don-与此同源。
+
+- pan-：所有
+- pandemic： [pæn'demɪk] adj.全国流行的，普遍的n.流行性疾病
+- panorama：[pænə'rɑːmə] n.全景，概观
+- pansophic：adj.全知的，有广泛知识的
+- do-/don-：给，赠送，捐赠
+- donor： ['dəʊnə; -nɔː] n.捐赠者
+- donate：[də(ʊ)'neɪt] n.v.捐献，捐赠
+- pardon：['pɑːd(ə)n] n.vt.原谅
+- dose：[dos] n. 剂量；一剂，一服v. 服药；给药
+- dowry：['daʊri] n. 嫁妆；天资；亡夫遗产
+- Dorothy：['dɒrəθɪ] n. 桃乐茜，女子名字，意为“神的礼物”，缩写为Dora。
+
+
 
 ##  Gem
 

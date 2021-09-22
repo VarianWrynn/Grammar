@@ -5,6 +5,45 @@
 
  
 
+## Villain /ˈvɪlən/
+
+`villain -` 今指“坏蛋”或“恶棍”的**villain**一词原先并不含贬义。它源自中世纪拉丁语**vīllānus 'farmhand'**，通过法语vilain于14世纪进入英语的。
+
+从终极词源来看，**villain**和另一个词**villa**（别墅）都源于拉丁语***vīlla 'country house'***。在中世纪封建时代，这两个词是密切相关的，villa原指“农庄住宅”或“庄园”，而villain则指为villa的主人工作的“农奴”或“农民”。
+
+后来，贵族由于阶级优越感以及他们对农民的阶级偏见，往往把意指农民、乡下人的词语同“愚昧”、“粗野”、“邪恶”等概念联系起来。这样，**villain**的词义就逐渐发生贬降。19世纪出现了一个戏谑性短语**villain of the piece**，指“剧中反面人物”或“首恶”，被德莱塞（Theodore Dreiser）、墨多克（Iris Murdoch）等作家乃至普通人广泛使用。
+
+但**villa**和出自同一拉丁词源的**village**（乡村）一词至今却仍保留了原拉丁词中的含义。
+
+例:
+
+- The villain cheated the old lady out of her life's savings. (FWF) 这个恶棍骗走了老太太一生的积蓄。
+- He made his reputation as an actor playing villains. (CID) 他以演反派角色而出名。
+- A faulty fuse was the villain of the piece. 毛病就出在保险丝上。
+- The whole village turned out to watch the parade. 全村的人都出来看游行
+
+
+
+**villain**（恶棍）：在古罗马农场干活的奴隶。
+
+英语单词**villain**源自拉丁语***villanus***，本意为在villa（古罗马农场）干活的人，通常是奴隶或隶农。**villa**是古罗马贵族在乡村的房地产，包括居所和农场。英语单词**village**（农村）、**villager**（村民）等都源自拉丁语***villa***。
+
+由于在***villa***里面干活的奴隶或隶农地位很低，常常遭到贵族老爷的鄙视和呵斥，因此表示他的拉丁语villanus及其衍生的英语单词villain就不可避免地含有了强烈的贬义，并从表示社会地位的卑贱延伸至表示人品的卑贱，逐渐发展出“坏人、恶棍、反派”等负面含义。可以说，这个单词体现了一种强烈的阶级偏见。
+
+- villain：['vɪlən] n.坏人，恶棍，反派，罪犯
+- villainous：['vɪlənəs] adj.邪恶的，缺德的，恶毒的，堕落的
+- villa：['vɪlə] 乡村别墅，农场
+- village：['vɪlɪdʒ] n.农村，乡村，郊外
+- villager：['vɪlɪdʒə] n.村民，乡村居民
+
+
+
+*Avengers: Infinity War* depicts the beginning of the Avengers' attempt to protect the Infinity Stones from the **[villainous](https://www.cbr.com/were-in-endgame-now-infinity-war-meme/)** Thanos who wants to use them to erase half of humanity from existence. Thanks to his mystical training, [Doctor Strange](https://www.cbr.com/doctor-strange-2-prepares-filming-in-london/) is able to see each of the 14 million possible outcomes from their fight against Thanos. **All but one end in failure.** Much to Tony Stark's dismay, Doctor Strange gives up the Time Stone to Thanos. When Stark questions his motives, Doctor Strange simply states, "We're in the endgame now."
+
+<img src="./images/image-20210922113934344.png" alt="image-20210922113934344" style="zoom: 67%;" />
+
+
+
 ## [Minister](https://mp.weixin.qq.com/s/YqjWyrjx1h9L0b62NYp6rg) (大臣、部长)
 
 在中国历史上，再大的官见了皇帝也得自称“奴才”、“小的”。西方也一样，大臣在国王面前自称**minister**，字面意思就是“小人、奴仆”。
