@@ -393,3 +393,87 @@ weird：[wɪəd] adj.怪异的，不可思议的n.命运，预言
 >  D: You’ve been acting weird all day. What's going on?
 
 ​	
+
+## [Legionary v.s Legionnaire](https://inaciem.com/diary/legionary-vs-legionnaire)
+
+While I was creating this website, a question came to my mind : is it “legionnaire” or “legionary” in english? For a non native english speaker, it’s not obvious. In french, it’s the same word for both. I searched the web, and it was not easy to understand the subtle difference between them.
+
+After some good research, I discovered that :
+
+
+
+**Legionary**:
+
+<img src="./images/image-20210923093001783.png" alt="image-20210923093001783" style="zoom:80%;" />
+
+It’s the ancient roman soldier. He served in the legion. They were, in my opinion, probably the best warriors of all time. Our modern western civilization is mainly based on the ancient Roman Empire they have created.
+The legionary wears:
+
+- a sword or “gladius”
+- a shield or “scutum”
+- a helmet
+- a tunic or “tunica”
+- caligae
+- an armour or “lorica”… :)
+
+**Legionnaire**:
+
+<img src="./images/image-20210923092923143.png" alt="image-20210923092923143" style="zoom: 67%;" />
+
+It’s a “modern” legionary. He is a member of, for instance, the french foreign legion.
+
+Hope that helps you!
+
+As I said, in french we do not have the distinction, they both are members of a legion.
+To distinguish them, we say in french :
+
+- “légionnaire romain”: roman legionary
+- or “légionnaire de la légion étrangère”: foreign legion legionnaire
+
+
+
+所以: 超时空军团是：[Chrono Legionnaire](https://cnc.fandom.com/wiki/Chrono_legionnaire).
+
+
+
+古罗马军团（legion）在历史上赫赫有名，但从词源上看，legion原本居然是一帮临时工！真是让人大跌眼镜！
+
+英语单词**legion**来自拉丁语，由拉丁词根**`leg-`**（采集、挑选）派生出，字面意思就是“征集来的一群人”。古罗马最初没有常备军队，所有市民都有服兵役的义务。发生战争时，就从符合条件的市民中挑选一部分人临时组建军队。通过这种方式组建的一支军队就是**legion**。
+
+马略军事改革后，古罗马创建了常备军队，legion成为军队的建制单位之一，常常翻译为“军团”。一个军团的总人数在6000人左右，以步兵为主，辅以少量骑兵。在罗马共和国初期，一名执政官可以指挥两个军团。
+
+词根**`leg-`**的过去分词形式是**`lect-`**，后面加了一个过去分词后缀**`-t`**，末尾的字母**g**在t前面音变为**c**以便发音。常见单词**collect**（收集）、**select**（挑选）都派生自这个词根。
+
+- **legion**：[ˈliːdʒən]n.（古罗马）军团；众多；军队adj. 众多的；大量的
+- **collect**：[kəˈlekt] v.收集，聚集，募捐
+- **select**：[sɪˈlekt] v.选择，挑选
+
+**参考**:
+
+1. [词源趣谈：赫赫有名的古罗马军团（legion）原来不过是一群临时工？！](https://mp.weixin.qq.com/s/5s3DAl-SChixvMqvMixLcg)
+
+## Marshal v.s Marshall (司马氏)
+
+美国上世纪著名的军事家，陆军五星上将，曾任陆军参谋长、国防部长的马歇尔（Marshall）将军，曾经因为功勋卓绝而被国会计划授予“元帅”军衔。然而，马歇尔将军却断然拒绝了。这是为什么呢？
+
+<img src="./images/image-20210923103011005.png" alt="image-20210923103011005" style="zoom: 50%;" />
+
+原来，英语中表示“元帅”的单词是**marshal**，跟马歇尔将军的姓氏**Marshall**只少了一个字母。如果马歇尔将军变成了“马歇尔元帅”，在英语中就应该被称为“**Marshal Marshall**”，读起来是不是很别扭？。
+
+单词**marshal**（元帅）源自古日耳曼语，由**mar**（=mare，马）和**shal**（仆人）组成，字面意思就是“马夫，伺候马的人”。随着骑兵在军事历史上的日益重要，“**marshal**”这样一个职务变得越来越重要，逐渐升级，先后演变为“御马总管”、“骑兵队长”、“王室军务总管”等诸多职务，最终升级为最高军衔“元帅”也就不足为奇了。二战期间英国著名将军蒙哥马利的头衔就是**marshal**（元帅）。
+
+马歇尔将军的姓氏**Marshall**其实就来自单词**marshal**，只不过拼写稍微变了一点。显然是因为他家老祖宗是个**marshal**，所以就以此作为自己的姓氏。也是因为这个原因，马歇尔将军对于**marshal**（元帅）这个头衔不感冒，毕竟人家老祖宗就是干这个的。
+
+出于对马歇尔将军的尊重，以及其他一些原因，美国军队没有设置**marshal**（元帅）这个西方军队常见的最高军衔。现在，美国军队中最高的军衔就是五星上将，并且仅限于战争时期才授予。
+
+巧合的是，我们中国也有一个“司马”，它既是一个官职名称，又是一个常见的姓氏。作为官职的“司马”相当于英语中的**marshal**（元帅），原本是负责马匹的小吏，逐渐升级为掌管全国军队的高级官职。作为姓氏的“司马”相当于英语中的**Marshall**（马歇尔），在中国历史上也涌现出了不少名人，比如著名军事家司马懿。 
+
+- **marshal**：['mɑːʃ(ə)l] n.元帅，陆军元帅
+
+- **Marshall**：[ˈmɑ:ʃəl] n.（姓氏）马歇尔
+
+
+
+**参考：**
+
+1. [词源趣谈：震惊！马歇尔将军拒绝元帅头衔，居然是因为这件小事！](https://mp.weixin.qq.com/s/lduUgE4HL7bfGiNQkVi3Og)
