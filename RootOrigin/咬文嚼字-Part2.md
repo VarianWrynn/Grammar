@@ -191,18 +191,22 @@ anim-（生命）：代表生命之源的灵魂
 
 
 
-##  Gem
+## hydr-（水）：九头蛇海德拉
 
-Nick-name for the best woman a guy could ask for. A beautiful, smart, strong, and funny gal that could make your life a dream. Also can be mean if you [tick](https://www.urbandictionary.com/define.php?term=tick) her off. But she can really open up if you love and care for her. She is the perfect [soul mate](https://www.urbandictionary.com/define.php?term=soul%20mate) for anybody but stays loyal to one person when in a relationship. If you ever get a Gem, hold her and never let go. Not to mention the nice curves on her body, she's very [sexy and cute](https://www.urbandictionary.com/define.php?term=sexy%20and%20cute) but doesn't think so. Amazing girl all around and should be loved by only her soul mate forever. That...is Gem.
+海德拉（**[Hydra](https://en.wikipedia.org/wiki/Lernaean_Hydra)**）是希腊神话中巨大的的九头蛇，是希腊神话中最强悍的怪物之父提丰（***Typhon***）和女首蛇身怪爱克特娜（***Echidina***）交配所生。赫拉克勒斯要完成的第二项艰巨任务就是杀死九头蛇海德拉。它吞食田地，蹂躏人畜，无恶不作，所吐出来的毒气还使得当地成为的瘟疫沼泽。海德拉的血液和呼出的气息都有毒。并且它有九个头，砍掉每一个头都会再生，而且中间的那一个头还是永生不死的，让赫拉克勒斯大伤脑筋，还好后来他的侄子交给他一个火把，让他每砍掉一个头就用火把烧伤口，让他再也长不出头来。而最后一个头在砍下之后，赫拉克勒斯就把它的头用大石头压着，让它再也不能作怪，最后还把身上所有的箭都沾上了海德拉的毒血，成为赫拉克勒斯后来的武器。
+在希腊语中，海德拉的名字**Hydra**是***hydros***（水蛇）的阴性形式，而后者来自名词***hydor***（水）。希腊词根和英语词根**`hydr-`**（水）就来源于此。英语中用**hydra**来命名水螅，因为它头部拥有很多触手，形状与传说中的九头蛇很像。
 
-- Whoa that girl is amazing, she must be a Gem. 
+<img src="./images/image-20210924152845355.png" alt="image-20210924152845355" style="zoom:67%;" />
 
------------------------------
-
-A girl who is ridiculously perfect in all aspects of life. A [gem](https://www.urbandictionary.com/define.php?term=gem) is intelligent, witty, adventurous, beautiful, cute, and always classy. [Gems](https://www.urbandictionary.com/define.php?term=Gems) are extremely rare, but often get overlooked for dumb girls who are willing to put out on the first date. Please gentlemen! STOP making mistakes!! If you find a gem, and can [capture](https://www.urbandictionary.com/define.php?term=capture) her heart, keep her!
-
-- Ana and [Elena](https://www.urbandictionary.com/define.php?term=Elena) are fucking [gems](https://www.urbandictionary.com/define.php?term=gems);
-- Yeah, but they're probably too good for us.
+- hydr-：水
+- hydra：['haɪdrə] n.水螅，九头蛇，难以根除的祸害。
+- hydrant：['haɪdrənt] n. 消防栓；水龙头；给水栓
+- hydrate：['haɪdret] n. 水合物；氢氧化物vt. 使成水化合物vi. 与水化合
+- hydration：[haɪ'dreʃən] n. 水合作用
+- hydraulic：[haɪ'drɔlɪk] adj. 液压的；水力的；水力学的
+- dehydrate：[di'haɪdret] vt. 使…脱水vi. 脱水；去水
+- dehydration： [,dihaɪ'dreʃən] n. 脱水
+- carbohydrate： [,kɑrbo'haɪdret] n. 碳水化合物；糖类
 
 ## orthogonal
 
