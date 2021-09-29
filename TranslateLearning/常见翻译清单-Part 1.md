@@ -326,8 +326,16 @@ Github is a **cloud-based [host service](https://medium.com/swlh/things-about-gi
 
 ## 9. References & Connection
 1. [Laws and Regulations - sciencedirect. ](https://www.sciencedirect.com/topics/computer-science/laws-and-regulation)
+
 2. [What is the difference between a law and an act? -  StackExchange](https://law.stackexchange.com/questions/16660/what-is-the-difference-between-a-law-and-an-act)
-3. [常见外贸术语](https://www.evernote.com/l/ALrJb00sTXhFqJ7Sv7F7Wwi33x3UjE774Cw/)
+
+3. [哪些专业名词翻译得特别烂？](https://www.zhihu.com/question/27192923/answer/2068334212)
+
+   > 哪些专业名词翻译得特别烂？ - Gengius的回答 - 知乎 https://www.zhihu.com/question/27192923/answer/2068334212
+
+4. [北京市人民政府外事办公室](http://wb.beijing.gov.cn/so/s?tab=all&siteCode=1100000175&qt=%E8%8B%B1%E6%96%87%E8%AF%91%E5%86%99)
+
+5. [常见外贸术语](https://www.evernote.com/l/ALrJb00sTXhFqJ7Sv7F7Wwi33x3UjE774Cw/)
 
 
 ##  10. 文档修订记录
