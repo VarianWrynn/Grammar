@@ -3,7 +3,42 @@
 
 [toc]
 
- 
+ ## -wise
+
+### Otherwise
+
+一个单词有很多个意思，但都来自一个本质意思，你只要充分理解这个本质意思，所有的意思都一通百通。
+
+**otherwise**的本质意思就是 ***not this one, but something else***，很明显就是从**other**衍生过来的，其后缀**`wise`**是表示**「in a… way」**以…方式，**「in … respect」**在…方面。
+
+比如
+
+- likewise 类似的（in a "like" way）
+- clockwise 顺时针的 （沿着钟表走动的方向）
+- stepwise 逐步的 （像阶梯一样的方式）
+
+你自己也可以用wise创造新词，这种做法很常见，表示「在…方面」
+
+- timewise 在时间方面(Timewise, we are OK 在时间方面，我们还很充足）
+- moneywise 在钱方面
+- marketwise 在市场方面
+- healthwise 在健康方面
+
+我们再来看otherwise，就是在其他方面(other respect/other thing），即not this one but something else，就是指「除目前说的这个以外的其他…」，something else包罗万象，指代任何你想指代的东西。
+
+> 否则（if not）只是其中的一个意思，出现在是两个对立的情况中，只有Yes和No，才会让你觉得otherwise是「否则」的意思。
+
+如果在非对立的情况中，**otherwise就是指除此之外的「其他情况」**。
+
+反正这是个万能词，可以指代任何方面，既可以是副词，也可以是代词。比如:
+
+- Please follow my instructions. Don't do it ***otherwise**(副词，= don’t do it in a different way).*
+
+
+
+**Reference**:
+
+1. [把otherwise当「否则」理解，发现很多句子看不懂，正确的理解是什么？--知乎--史蒂芬的专栏 ](https://zhuanlan.zhihu.com/p/140503806)
 
 ## Villain /ˈvɪlən/
 
