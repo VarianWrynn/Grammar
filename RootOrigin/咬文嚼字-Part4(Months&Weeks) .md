@@ -1,6 +1,6 @@
 # 咬文嚼字-Part 4 
 
-@(星瑞格)[翻译, 公司, 公司业务, dbAudit翻译]
+@(TOEFL)[托福, TOEFL, 词根词缀,咬文嚼字]
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-![Image](./images/January-2021-8-9.png)
+<img src="./images/January-2021-8-9.png" alt="Image" style="zoom:50%;" />
 
 
 
@@ -90,7 +90,7 @@
 
 ## June 天后朱诺（Juno）
 
-![Image](./images/Juno-2021-8-9.png)	
+<img src="./images/Juno-2021-8-9.png" alt="Image" style="zoom:67%;" />	
 
 六月正值初夏之际，莺飞草长、百花盛开，是婚嫁的绝好时机，罗马人常常选择在这个季节结婚，于是就用掌管婚姻的天后朱诺（***Juno***）为其命名，英语中的六月June就来源于此。
 
@@ -154,7 +154,7 @@
 
 
 
-![Image](./images/CaiusJuliusCaesar.png)
+<img src="./images/CaiusJuliusCaesar.png" alt="Image" style="zoom: 50%;" />
 
 
 
