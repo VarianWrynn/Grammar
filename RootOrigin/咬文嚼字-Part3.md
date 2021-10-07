@@ -40,6 +40,25 @@
 
 1. [把otherwise当「否则」理解，发现很多句子看不懂，正确的理解是什么？--知乎--史蒂芬的专栏 ](https://zhuanlan.zhihu.com/p/140503806)
 
+
+
+## buccaneer /ˌbʌkəˈnɪr/
+
+**buccaneer**（海盗）：专门掠夺西班牙商船的“皇家海盗”。
+在大航海时代，西班牙和葡萄牙率先开展航海探险事业，积极在新发现的美洲大陆进行殖民，从美洲掠夺了大量财富，成为那个时代的霸主。1630年左右，一群在加勒比海域进行探险投机的法国人竞争不过西班牙人，被西班牙人赶到一座海岛上。从此以后，这群法国人以此为据点，做起了海盗生意，专门袭击西班牙商船，声势越来越大，越来越多的法国人以及英国人、荷兰人也加入进来，将这项专门针对西班牙商船的海盗事业越做越大，并且还赢得了本国政府的支持，获得政府颁发的“私掠许可证”，成为奉旨打劫的“皇家海盗”，就算被西班牙军队俘虏后还可以享受战俘待遇，而不是像普通海盗那样被绞死。在后来英国和西班牙的大海战中，***英国海军就依靠这些“皇家海盗”击败了西班牙的无敌舰队，终结了西班牙的霸主地位***。
+
+在法语中，这群海盗被称为“***boucanier***”，源自加勒比海土著语***buccan***（烤肉架），字面意思就是“使用烤肉架烤肉的人”，因为这群海盗也喜欢使用这种架子烤肉吃。英国人将其英语化为**buccaneer**。1684年，著名法国作家Alexandre Exquemelin描写17世纪加勒比海盗的名著《美洲海盗》的英译版本出版后，buccaneer一词更是广为流传，成为了“海盗”（pirate）的同义词。
+
+在荷兰语中，这群海盗被称为***vrijbuiten***，由**`vrij`**（free）+ **`buiten`**（booty，掠夺品），演变为英语中的**freebooter**和**filibuster**，都表示“海盗”。
+
+同样源于加勒比海土著语***buccan***（烤肉架）还有单词**barbecue**（烧烤），它是经由西班牙、法语进入英国的。
+
+- buccaneer：[,bʌkə'nɪə] n.海盗vi.做海盗
+- freebooter：['friːbuːtə] n.海盗
+- filibuster：['fɪlɪbʌstə] n.海盗，暴兵，阻挠议事的议员，阻挠议事的行为 vi. 掠夺，阻挠议事
+
+
+
 ## Villain /ˈvɪlən/
 
 `villain -` 今指“坏蛋”或“恶棍”的**villain**一词原先并不含贬义。它源自中世纪拉丁语**vīllānus 'farmhand'**，通过法语***vilain***于14世纪进入英语的。
@@ -78,6 +97,27 @@
 <img src="./images/image-20210922113934344.png" alt="image-20210922113934344" style="zoom: 67%;" />
 
 
+
+## palatial /pəˈleɪʃl/
+
+(a.):宫殿般的;富丽堂皇的
+
+![image-20211007140334285](./images/image-20211007140334285.png)
+
+相传，坐落在罗马七丘的古罗马城是战神之子***Romulus***于公元前753年前后创建的。
+
+我们如今用以表示“宫殿”和“豪华住宅”、“华丽建筑物”等义的**palace**一词可一直追溯到古罗马七丘之一的主丘***the Palatine Hill***（[帕拉蒂尼山](https://rome.us/ancient-rome/palatine-hill.html)）。
+
+<img src="./images/image-20211007140232874.png" alt="image-20211007140232874" style="zoom:80%;" />
+
+罗马帝国的第一代皇帝奥古斯都（Augustus）以及其后的提比略（Tiberius）和尼禄（Nero）等皇帝都先后把皇宫建在这座山丘上。有人说世界上第一座富丽堂皇的宫殿是尼禄所建。他在位时，建于该山丘上的罗马城已发展为华丽的住宅区，权贵名士都聚居于此，富人的住宅布满山坡。尼禄想把整座山丘据为己有，遂下令私人住宅一律拆除。然后建筑师们为他精心设计了一座皇宫，罗马人称之为palātium，字面义是on the site of the Palatine（位于帕拉蒂尼山上）。以后法国国王据此把他们的王宫叫做palais，英语借用了这个词，初作paleys，后来才演变成palace的。从palace的形容词形式palatial（宫殿的）我们能够更清楚地看到palace同palātium之间的联系。其实，至今英语里还有palatine一词，也作形容词用，同palatial词义相近。
+
+例　
+
+- The queen of England lives in Buckingham Palace. 英国女王住在白金汉宫。
+- Demonstrators gathered in front of the presidential palace. (CID) 示威者聚集在总统官邸门前。
+- A palace coup led by the general has toppled the dictator. (CID) 由将军领导的宫廷政变推翻了独裁者。
+- The palaces of the rich dot the coastline. (WBD) 海岸线上富人的豪华住宅星罗棋布。
 
 ## [Minister](https://mp.weixin.qq.com/s/YqjWyrjx1h9L0b62NYp6rg) (大臣、部长)
 

@@ -5,7 +5,28 @@
 
 
 
+## anecdote  /ˈænɪkdoʊt/
 
+**`anecdotage`** - 源出于公元6世纪拜占庭史学家[普罗科匹厄斯](https://en.wikipedia.org/wiki/Procopius)（**Procopius**, 490?-562?）所著一书的书名。他曾在君士坦丁堡为官多年而且身居要职。是拜占廷帝国著名的历史学家，其著作为后世研究查士丁尼时期历史提供了重要史料。
+
+他生前著作并出版了两部反映当代史的历史著作：《查士丁尼战争史》和《论查士丁尼时代的建筑》。在这两部著作中，普罗科匹阿斯大肆讴歌了当时的拜占庭皇帝查士丁尼在战争和建筑上的丰功伟绩，他本人也因此被擢升为君士坦丁堡长官。
+
+但是，当他死后1000多年后，人们在拜占庭帝国图书馆意外发现普罗科匹阿斯所编著的另一部并未出版的著作——《秘史》。与他的前两部作品的思想截然相反，这部作品其实是皇帝查士丁尼一世（Justinian I）与皇后狄奥多拉（Theodora）私生活的丑闻录。在这部作品中，作者揭露了查士丁尼时代宫廷生活的黑暗和残暴，反映了当时拜占庭人民在其统治下所遭受的痛苦。因此，作者著作完成后并未公开出版，而是偷偷藏在图书馆中，等待后人发现。
+
+该书名叫***Anékdota***，意为**unpublished tidbits**（秘闻录）。现在广为流行的英译本书名为**Secret History**（《秘史》）。从词源上来说，***Anékdota***源自希腊文，是***anékdotos***的复数形式，由**`an-`** 'not'和**`ékdotos`** 'published'两部分合成，含有**unpublished**（未曾发表的，秘而不宣的）之义。
+
+英语**anecdote**一词正是源出于此，17世纪借入时原采用拉丁文拼写形式***anecdota***，以后拼如法语***anecdotes***，初指“秘闻”，18世纪后多指“轶事”或“趣闻”。英国作家斯威夫特（Jonathan Swift, 1667-1745）在《格列佛游记》（Gulliver's Travels）里就是将anecdote用于后一词义的。此后有人将anecdote与dotage（老年昏聩）二词缩合成anecdotage，用以指“老年多言期”。据认为该词系英国记者、下院议员威尔克斯（John Wilkes, 1725-1797）所创。
+
+**例**
+
+- Gerald was a good talker. He told her amusing anecdotes of/about his childhood. 杰拉尔德是个健谈的人。他给她讲述了他幼年时的有趣轶事。
+- Try livening up speeches and talks with anecdotes that illustrate the point you're making. (LLA) 试试用趣闻轶事来丰富你的观点，使你的演说和谈话变得生动有趣。
+
+**单词**
+
+- anecdote：['ænɪkdəʊt] n.奇闻，轶事，秘史
+- anecdotal：[,ænɪk'dotl] adj. 轶事的；轶事一样的；多轶事的
+- anecdotage：['ænɛk,dotɪdʒ] n. 轶事集
 
 ## yet
 
