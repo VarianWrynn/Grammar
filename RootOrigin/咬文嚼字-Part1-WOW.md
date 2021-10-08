@@ -130,7 +130,7 @@ Duke is the highest, most powerful rank. There are but a handful of dukes. Willi
 
 Marquis (pronounced markwiss in England) is next, but we'll come back to it.
 
-Counts and Earls are equivalent ranks, so equivalent that the wives of earls have always been called countesses. (I assume that William the Conqueror brought/made counts, and the native English equivalent rank was Earl. But if that's true, then how can it be true that the wives of earls have always been countesses?) What is a count? He is the ruler of a county. And now we can go back to consider the marquises.
+**Counts and Earls are equivalent ranks**, so equivalent that the wives of earls have always been called countesses. (I assume that William the Conqueror brought/made counts, and the native English equivalent rank was Earl. But if that's true, then how can it be true that the wives of earls have always been countesses?) What is a count? He is the ruler of a county. And now we can go back to consider the marquises.
 
 Marquis: Some counties are border counties. A border county is where the action is. This is where the enemy starts their invasions. This is the jumping off point for your invasion of the enemy kingdom.
 
@@ -148,13 +148,82 @@ But, to hear some tell it, a baron is anybody who holds directly from the king. 
 
 Expect all of this to be wrong: Things can switch up on you every time you cross into a new country or a new century.
 
+
+
 ### peer（贵族）：与查理曼大帝平起平坐的十二骑士
+
 英语单词**peer**原本是“同等的人”之意，来自拉丁语par（equal，相等）。它还可以表示“贵族”，这是为什么呢？原来，在中世纪，法兰克王国的著名国王查理曼大帝身边有十二个武艺高强的骑士，一直追随查理曼大帝南征北战，立下赫赫战功。为了犒赏他们，查理曼大帝借鉴亚瑟王和十二圆桌骑士的故事，和这十二位骑士平起平坐，将他们称为**peer**，意思就是“平起平坐的人”。***由于这些骑士都是贵族，因此peer就衍生了“贵族”的含义***。
 
 - peer：[pɪə] n.贵族，同等的人vt.封……为贵族，与……同等
 - peerage：['pɪərɪdʒ] n.（全体）贵族，贵族地位，贵族阶级
 - peerless：['pɪrləs] adj. 无与伦比的；出类拔萃的；无比的
 - compeer：[kəm'pɪr] n. 同辈；同伴；地位相等的人
+
+
+
+### duke（公爵）：罗马帝国时期的蛮族军事统帅
+
+在古罗马时代，出身为日耳曼或凯尔特蛮族而作为雇佣军为罗马军队所用的将帅，由于没有正式的罗马军衔而统称为***Dux***，是“***军队首领***”的意思。该词来自拉丁语动词***ducere***（领导、引导），这就是英语单词**Duke**（公爵）的来源。英语词根**`duc-`**（引导）与此同源。
+
+罗马帝国灭亡之后，各部族的军事领袖成为欧洲各小国的国君，其中许多就以***Dux***为称号，他们统治的小国就被称为“***公国***”（**duchy**）或“***大公国***”（**Archduchy【ˈɑːtʃˈdʌtʃɪ 】**）。直到近代，意大利和德国统一之前的很多小国都以此为称号。这些小国的国君一般翻译为“***大公***”。
+
+欧洲现存的独立公国是卢森堡和安道尔公国。历史上的其它公国经过合并和并吞，逐渐丧失独立性，成为国家的一部分，其统治者也演变成了由国王授予的爵位，即“公爵”（**Duke**）。在欧洲各国，公爵都是最高爵位之一。
+
+英国的公爵爵位出现很晚。1337年，爱德华三世把康沃尔郡升为公国，将公爵爵号授予年方7岁的“黑太子”爱德华([the Black Prince](https://en.wikipedia.org/wiki/Edward_the_Black_Prince))。为突出公爵特殊地位，以后多年里除女王配偶和王子外，其他王亲国戚均不许称王，最高可获公爵爵位。自从1483年建立诺福克公国以后，公爵爵位开始授予王亲以外者，但很少建立公国。而且能获此最高爵位者多是军功显赫的统帅。
+
+- **`duc-`**：引导，领导
+- duct： [dʌkt] n. 输送管，导管vt. 用导管输送；以导管封住
+- duke：[djuːk] n.公爵
+- duchy：['dʌtʃɪ] n.公国，公爵领地
+- duchess：['dʌtʃɪs; -es] n.公爵夫人，女公爵
+- archduke： [,ɑrtʃ'duk] n. 大公，（奥地利）皇太子
+- ducal：['dukl] adj. 公爵的；公爵领地的；象公爵的
+- duce： ['duːtʃɪ] n.（意）领袖；首领
+
+
+
+###  marquis（侯爵）：镇守边疆的诸侯
+
+
+**marquis** 【ˈmɑːrkwɪs】（ (除英国外一些欧洲国家的) 侯爵）是欧洲贵族爵位中的一种，在公爵（**duke**）之下、伯爵（**count**）之上，也可拼写为**marquess**。该词来自法语***marchis***，字面意思是“镇守边疆的诸侯”，来自***marche***（边疆），与英语单词**march**（行军）都来自拉丁语***marca***（边疆）。欧洲中世纪边疆与内陆的概念区别源自于古罗马帝国时期对帝国行省的划分，比较稳定的内陆省份归于元老院管理，而不稳定的边疆省份归于皇帝管理。中世纪以后，则把封疆贵族按照相似的概念分为最受君主信赖、管理边疆的“侯爵”，和地位较低、管理内地一方领土的“伯爵”。
+
+- marquis：['mɑːkwɪs] n.侯爵
+- march： [mɑrtʃ] v.（使）前进，（使）行军，进军；游行示威；进展n. 前进；行军；游行示威；进行曲
+- marchioness：[,mɑrʃə'nɛs] n. 女侯爵，侯爵夫人
+
+
+
+### count（伯爵）：罗马皇帝的侍从
+
+在古罗马帝国时期，罗马皇帝身边的亲信往往能得到皇帝的宠爱，掌管帝国的军政大权，有时还会出任地方官吏，最常见的是担任某个行省的总督。欧洲大陆部分国家的伯爵爵位名称就出自拉丁文的***comes***，意为“***侍从***”。例如，法语中表示“伯爵”的单词为***counte*** ，出自拉丁文***comitem***，即***comes***的宾格，意思就是“伙伴，侍从”，进入英语后演变为英语单词**count**，表示“伯爵”，但通常指的是欧洲大陆地区的伯爵。
+
+英语单词**county**是英国的行政区划单位，通常被翻译为“郡”或“县”，其实，它在历史上指的就是[诺曼底公爵](https://baike.baidu.com/item/%E8%AF%BA%E6%9B%BC%E5%BA%95%E5%85%AC%E7%88%B5/4532925?fr=aladdin)征服英国后，封给手下各伯爵（**count**）的封地，从拼写上我们可以明显地看出它们之间的关系。
+
+- count：[kaʊnt] n.（法、德、南非）地区的伯爵
+- countess： ['kaʊntəs] n. 伯爵夫人；女伯爵
+- county： ['kaʊntɪ] n.郡，县
+
+
+
+### earl（伯爵）：北欧地区的“部落首领”
+
+欧洲国家贵族爵位中，从最低级以上的第三级一般在中文里译作“伯爵”，处在侯爵之下，在子爵之上。
+
+英国的“伯爵”**earl**源自古英语***eorl***，与北欧国家的“伯爵”Jarl同源，原意是“***部落首领***”。11世纪，丹麦国王克努特统治英国后，把伯爵（**earl**）爵位引进英国，以丹麦方式把英国划分为许多伯爵领地（**earldom**）。每个伯爵均是镇守一方的诸侯，相当于现在的总督职位。在英国，**earl**（伯爵）的历史最悠久。在1237年黑太子爱德华被封为公爵之前，它是英国最高的爵位。同时，**earl**还是欧洲五种爵位中唯一一个源自古英语的爵位。
+
+- earl： [ɜːl] n.伯爵
+- earldom：['ɜːldəm] n.伯爵领地
+
+
+
+### viscount（子爵）：法国的副伯爵
+
+英语单词**visecount**（子爵）来自法语，由**`vice`**（副的）+**`count`**（伯爵）构成，字面意思就是“副伯爵”。**visecount**常为郡守，地位在掌管一方的诸侯（伯爵）之下，在普通贵族男爵之上，但有时也可能是实力强大的诸侯。在英国，1440年比奥芒特的约翰被封为子爵，位居所有男爵之上。
+
+**`vis-`** 表示“改变、交流”，引申为“副职”或“代理牧师”。源自拉丁语 *vux (属格 vicis) "turn, situation, change."
+
+- viscount：['vaɪkaʊnt] n.子爵
+- vice：[vaɪs] adj. 副的；代替的
 
 
 
@@ -169,6 +238,8 @@ Expect all of this to be wrong: Things can switch up on you every time you cross
 - baroness：['bær(ə)nɪs; -nes] n.男爵夫人，女男爵
 - barony：['bærəni] n. 男爵领地；男爵爵位
 - baronet： ['bærənət] n. 从男爵；准男爵vt. 封…为准男爵
+
+
 
 ## Archon  ['ɑrkɑn]
 
