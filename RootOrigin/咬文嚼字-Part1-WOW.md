@@ -86,58 +86,7 @@
 
 A person with a strong desire to achieve a position of importance or to win a competition.
 
-### - ant 
 
-#### 表形容词，“…的，具有…性质的”
-
-- discordant adj. 不一致的
-> dis 不 + cord 心 + ant …的，具有…性质的 → 不是一条心的 → 不一致的
-- extravagant adj. 奢侈的
-> extra 超过 + vag 走 + ant …的，具有…性质的 → 漫游过多 → 奢侈的
-- exuberant adj. 茂盛的
-> ex 出 + uber 果实 + ant …的，具有…性质的 → 出果实的 → 茂盛的
-- intoxicant adj. 醉人的
-> in 使… + toxic 毒 + ant …的，具有…性质的 → 酒精中毒 → 酒精 → 醉人的
-- repentant adj. 后悔的
-> repent 后悔 + ant …的，具有…性质的 → 后悔的
-- resistant adj. 抵抗的
-> resist 抵抗 + ant …的，具有…性质的 → 抵抗的
-
-#### 表名词，“人”
-
-- accountant n. 会计
-> account 账目 + ant 人 → 打理账目的人 → 会计
-- adjutant n. 副手；副官
-> adjut 帮助 + ant 人 → 副手；副官
-- aspirant n. 有抱负者
-> aspire 热望，立志 + ant 人 → 有抱负者
-- assistant n. 助手
-> assist 帮助 + ant 人 → 助手
-- inhabitant n. 居民
-> inhabit 居住 + ant 人 → 居民
-- participant n. 参与者
-> participate 参加 + ant 人 → 参与者
-
-####  表名词，“…剂，…物”
-
-- lubricant n. 润滑剂
-> lubric 滑 + ant …剂，…物 → 润滑剂
-- retardant n. 阻化剂
-> retard 延迟，阻止 + ant …剂，…物 → 阻化剂
-- stimulant n. 兴奋剂
-> stimul 刺 + ant …剂，…物 → 刺激物 → 兴奋剂
-- suppressant n. 抑制物
-> suppress 抑制 + ant …剂，…物 → 抑制物
-
-
-### 同义词辨析
-
-| 单词 |     解释|  
-| :-------- | :--------|
-| **candidate** <br>n. 候选人；申请人  |   〔辨析〕指竞选的候选人或某一职位的申请人。<br><br> 〔例证〕 <br>Who will be the presidential candidate? <br>  The defeated candidate demanded a recount. <br> Tom is the strongest candidate for the position. |  
-|**applicant** <br>n. 申请者，求职者|〔辨析〕通常指正式提交书面材料申请某一职位、高校入学资格等的人。<br><br> 〔例证〕 <br> We give preference(优先权) to applicants with some experience. <br> He is the best applicant for the job.<br> There is no lack of applicants to this college |
-|**aspirant** <br>n. [正式]有志者| 〔辨析〕**通常指有雄心壮志要取得成功或荣誉的人**。 <br><br> 〔例证〕 <br> An aspirant for literary honor. <br> They're aspirants to the title of world champion|
-|nominee. <br>n. 被提名者| 〔辨析〕通常指某一职位、奖项等的提名候选人。 <br><br> 〔例证〕 <br> a presidential nominee. <br> an Oscar nominee. <br> He is the nominee for the position.|
 
 
 
@@ -170,6 +119,56 @@ A person with a strong desire to achieve a position of importance or to win a co
 | a.scens.ive      |                   |      |
 
 
+
+# [Peerage of England](https://en.wikipedia.org/wiki/Peerage_of_England) 
+
+### [Do men ever visit Boston](https://www.quora.com/What-is-the-difference-between-a-duke-an-earl-a-lord-a-marquis-a-baron-and-a-count)
+
+You can keep the ranking straight with this mnemonic: "Do men ever visit Boston?" Thus: duke, marquis, earl, viscount, baron.
+
+Duke is the highest, most powerful rank. There are but a handful of dukes. William the Conqueror was a duke.
+
+Marquis (pronounced markwiss in England) is next, but we'll come back to it.
+
+Counts and Earls are equivalent ranks, so equivalent that the wives of earls have always been called countesses. (I assume that William the Conqueror brought/made counts, and the native English equivalent rank was Earl. But if that's true, then how can it be true that the wives of earls have always been countesses?) What is a count? He is the ruler of a county. And now we can go back to consider the marquises.
+
+Marquis: Some counties are border counties. A border county is where the action is. This is where the enemy starts their invasions. This is the jumping off point for your invasion of the enemy kingdom.
+
+If a border count doesn't wind up dead, it's probably because he's rich enough to keep an unusually large military force. So, the border count is rich and well armed. Plus, he's a war hero, right? Surviving all those battles? Plus he captures all that loot?
+
+So a border count tends to be more prominent, powerful, and respected than other counts. And a border (and by extension, a border county) is called a "mark" or a "march." It's not called that because that's where the armies march; that's just coincidence, though often enough you have to send out for new peasants since the armies of both sides marched thru there enough times to dispose of or drive out the old peasants.
+
+So, eventually, border count became a rank above regular count. Thus: marquis.
+
+Viscount is below count, the same as the vice president is below the president.
+
+And then baron is the bottom of the totem pole. But these are all barons, to hear some people tell it. When the king is at odds with his barons, and they're making him sign the Magna Carta, you can bet that the dukes, marqueses, earls, counts, and viscounts are standing with the barons, not with the king.
+
+But, to hear some tell it, a baron is anybody who holds directly from the king. So the dukes and such are literally barons. They just don't call themselves that because they have more impressive titles.
+
+Expect all of this to be wrong: Things can switch up on you every time you cross into a new country or a new century.
+
+### peer（贵族）：与查理曼大帝平起平坐的十二骑士
+英语单词**peer**原本是“同等的人”之意，来自拉丁语par（equal，相等）。它还可以表示“贵族”，这是为什么呢？原来，在中世纪，法兰克王国的著名国王查理曼大帝身边有十二个武艺高强的骑士，一直追随查理曼大帝南征北战，立下赫赫战功。为了犒赏他们，查理曼大帝借鉴亚瑟王和十二圆桌骑士的故事，和这十二位骑士平起平坐，将他们称为**peer**，意思就是“平起平坐的人”。***由于这些骑士都是贵族，因此peer就衍生了“贵族”的含义***。
+
+- peer：[pɪə] n.贵族，同等的人vt.封……为贵族，与……同等
+- peerage：['pɪərɪdʒ] n.（全体）贵族，贵族地位，贵族阶级
+- peerless：['pɪrləs] adj. 无与伦比的；出类拔萃的；无比的
+- compeer：[kəm'pɪr] n. 同辈；同伴；地位相等的人
+
+
+
+###  baron（男爵）直接从国王那里获得封地的贵族
+
+
+男爵（**baron**）是贵族爵位中最低的一级。盎格鲁一撒克逊时代英语中已有“男爵”（**baron**）一词，但无男爵爵位，而且词义不够确定，似有“自由者”或“国王的臣仆”之意，并无尊贵之意。当时，所有那些直接从国王那儿得到封地的贵族都可称为“男爵”。当时男爵在世俗贵族中占了很高比例，以至于“男爵”一词长期作为贵族的集合名词使用。11-14世纪，男爵的封号和封地可通过血缘和婚姻关系传递，但不得随意出售和转让，历代国王也不随意增加或褫夺贵族封号。
+
+1387年，理查二世封约翰•比彻姆为基德敏斯特男爵后，男爵才成为英国贵族的正式爵位，并且始终是人数最多的爵位。
+
+- baron：['bær(ə)n] n.男爵
+- baroness：['bær(ə)nɪs; -nes] n.男爵夫人，女男爵
+- barony：['bærəni] n. 男爵领地；男爵爵位
+- baronet： ['bærənət] n. 从男爵；准男爵vt. 封…为准男爵
 
 ## Archon  ['ɑrkɑn]
 

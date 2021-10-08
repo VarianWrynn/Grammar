@@ -17,6 +17,28 @@
 
 英语**anecdote**一词正是源出于此，17世纪借入时原采用拉丁文拼写形式***anecdota***，以后拼如法语***anecdotes***，初指“秘闻”，18世纪后多指“轶事”或“趣闻”。英国作家斯威夫特（Jonathan Swift, 1667-1745）在《格列佛游记》（Gulliver's Travels）里就是将anecdote用于后一词义的。此后有人将anecdote与dotage（老年昏聩）二词缩合成anecdotage，用以指“老年多言期”。据认为该词系英国记者、下院议员威尔克斯（John Wilkes, 1725-1797）所创。
 
+**`an-`** 表示“不，无”。
+
+**`ec-`** 表示“*从，从...离开，从...向外，向外，向上*”，来自PIE *eghs, 向外。
+
+- 该原始印欧语根进入希腊语产生变体形式 ek-, 
+- 进入英语拼写演变为 ec-；
+- 进入拉丁语演变成 ex-；
+- 在浊辅音 b, d, g 和半辅音 j, l, m, n, r, v 前缩写成 e-；
+- 在字母f前同化为 ef-。
+- 源自希腊语 ex, ek "out of, from." 
+- 拉丁语 ex, ex- "out of, away from."
+
+**`dote-`** **= give**, 表示“给予”。
+
+- 原始印欧语形式为 *do-, 给予，送给。
+- 由元音音变产生变体形式 d-, di-, do-; 
+- 产生鼻音形式 don-; 
+- 进入拉丁语产生分词格变体形式 dat-, dit-, dot-; 
+- 进入法语产生变体形式 dow-。
+
+
+
 **例**
 
 - Gerald was a good talker. He told her amusing anecdotes of/about his childhood. 杰拉尔德是个健谈的人。他给她讲述了他幼年时的有趣轶事。
@@ -325,11 +347,4 @@ vacc-
 
 - vaccinate: `/'væksɪneɪt/`  vt.给……接种疫苗vi.接种疫苗
 - vaccination ：[,væksɪ'neɪʃən] n.接种疫苗
-
-| -ine          |                                                解释 |
-| :------------ | --------------------------------------------------: |
-| Caffe-ine     |                                                     |
-| dis-cip-l-ine |                                                     |
-| doctr-ine     | = to teach, 表示“教”。源自拉丁语 docere "to teach." |
-| famine        |                      fam-来自拉丁语fames,饥饿，饥荒 |
 
