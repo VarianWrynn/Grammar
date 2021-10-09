@@ -142,13 +142,15 @@ So, eventually, border count became a rank above regular count. Thus: marquis.
 
 **Viscount** is below count, the same as the vice president is below the president.
 
-And then baron is the bottom of the totem pole. But these are all barons, to hear some people tell it. When the king is at odds with his barons, and they're making him sign the Magna Carta, you can bet that the dukes, marqueses, earls, counts, and viscounts are standing with the barons, not with the king.
+And then **baron** is the bottom of the totem pole[^1]. But these are all barons, to hear some people tell it. When the king is at odds with his barons, and they're making him sign the **[Magna Carta](https://en.wikipedia.org/wiki/Magna_Carta)**, you can bet that the dukes, marqueses, earls, counts, and viscounts are standing with the barons, not with the king.
 
 But, to hear some tell it, a baron is anybody who holds directly from the king. So the dukes and such are literally barons. They just don't call themselves that because they have more impressive titles.
 
 Expect all of this to be wrong: Things can switch up on you every time you cross into a new country or a new century.
 
 
+
+[^1]: totem pole【ˈtoʊtəm poʊl】 图腾柱;(机构等内的)等级，级别。 a range of different levels in an organization, etc.
 
 ### peer（贵族）：与查理曼大帝平起平坐的十二骑士
 
