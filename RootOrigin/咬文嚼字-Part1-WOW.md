@@ -126,13 +126,13 @@ A person with a strong desire to achieve a position of importance or to win a co
 
 You can keep the ranking straight with this mnemonic: "Do men ever visit Boston?" Thus: duke, marquis, earl, viscount, baron.
 
-Duke is the highest, most powerful rank. There are but a handful of dukes. William the Conqueror was a duke.
+**Duke** is the highest, most powerful rank. There are but a handful of dukes. William the Conqueror was a duke.
 
-Marquis (pronounced markwiss in England) is next, but we'll come back to it.
+**Marquis** (pronounced markwiss in England) is next, but we'll come back to it.
 
-**Counts and Earls are equivalent ranks**, so equivalent that the wives of earls have always been called countesses. (I assume that William the Conqueror brought/made counts, and the native English equivalent rank was Earl. But if that's true, then how can it be true that the wives of earls have always been countesses?) What is a count? He is the ruler of a county. And now we can go back to consider the marquises.
+**Counts and Earls are equivalent ranks**, so equivalent that the wives of earls have always been called countesses. ***(I assume that William the Conqueror brought/made counts, and the native English equivalent rank was Earl.*** But if that's true, then how can it be true that the wives of earls have always been countesses?) What is a count? He is the ruler of a county. And now we can go back to consider the marquises.
 
-Marquis: Some counties are border counties. A border county is where the action is. This is where the enemy starts their invasions. This is the jumping off point for your invasion of the enemy kingdom.
+**Marquis**: Some counties are border counties. A border county is where the action is. This is where the enemy starts their invasions. This is the jumping off point for your invasion of the enemy kingdom.
 
 If a border count doesn't wind up dead, it's probably because he's rich enough to keep an unusually large military force. So, the border count is rich and well armed. Plus, he's a war hero, right? Surviving all those battles? Plus he captures all that loot?
 
@@ -140,7 +140,7 @@ So a border count tends to be more prominent, powerful, and respected than other
 
 So, eventually, border count became a rank above regular count. Thus: marquis.
 
-Viscount is below count, the same as the vice president is below the president.
+**Viscount** is below count, the same as the vice president is below the president.
 
 And then baron is the bottom of the totem pole. But these are all barons, to hear some people tell it. When the king is at odds with his barons, and they're making him sign the Magna Carta, you can bet that the dukes, marqueses, earls, counts, and viscounts are standing with the barons, not with the king.
 
