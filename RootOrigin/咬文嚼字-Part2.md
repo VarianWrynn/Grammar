@@ -52,22 +52,6 @@
 
 
 
-## Patron （主顾）：掏钱资助艺术家的贵族
-
-**`patr-`** = father, 表示“父亲，祖国”。源自拉丁语 pater (属格 patris) "father.".
-
-**`-on`** 表名词，指人，物和一些物理学上的名词。
-在古代，艺术家的日子不好过。因为艺术品既不能拿来充饥，又不能拿来保暖，所以不能像普通商品那样能给艺术家带来稳定的收入。艺术家的收入主要来自上流人士的资助。那些达官贵人欣赏某位艺术家的才华，就会花大价钱购买他的作品。这种购买艺术家的作品、资助艺术家的人就被称为**patron**（赞助人、保护人）。这个单词来自拉丁语***patronus***（守护神、保护人），词根是**`pater-`**（father，父亲）。英语单词**`patrician`**（贵族）与此同源。
-
-对于艺术家来说，这些人绝不仅仅是买家，而是他们的恩人和庇护人，故称之为**patron**。例如文艺复兴时期的意大利，在二百年的文艺复兴鼎盛时期，美第奇家族([The Medici Family](https://www.history.com/topics/renaissance/medici-family))是许多艺术大师们的**patron**。罗马和佛罗伦萨的许多名垂青史的建筑，雕塑，绘画和壁画，都是在美第奇家族的资助下，由波提切利，达芬奇，米开郎基罗，拉斐尔等艺术大师完成，因而创造了辉煌灿烂的文艺复兴文化。
-
-在现代，**patron**一词的含义已经泛化，可以表示各种行业的大主顾，但依然含有“赞助、庇护”的含义，因此一般指的是那种经常惠顾的老主顾，而不是一般的顾客（**customer**）。
-
-- patron：['peɪtr(ə)n] n.主顾、赞助人、庇护人
-- patroness：[,petrən'ɛs] n. 女主顾；女资助人；女保护人
-- patronage：['pætrənɪdʒ] n. 赞助；光顾；任免权
-- patronize：[ˈpætrəˌnaɪz] vt. 以高人一等的态度对待；经常光顾，惠顾；资助；保护
-
 ## yet
 
 ![360x0](F:\Lee\Githubs\Grammar\RootOrigin\images\1613658492310.png)
@@ -134,32 +118,7 @@
 
 
 
-## Silhouette /sɪlu'et/
 
-**silhouette** - 18世纪中期有位法国作家，名叫**Étienne de Silhouette (1709-1767)**，他借助贵妇人**Madame de Pompadour**的影响于1759年当上了路易十五的财政大臣。他一上任便提出对贵族的房地产征收土地税，并实施财政紧缩政策，招致贵族的强烈反对，因而任职不到一年便遭罢免。
-
-18世纪下半叶至19世纪初是剪影的黄金时代，当时剪影在巴黎也十分流行，Silhouette业余爱好剪影。剪影是一种最简单的艺术形式，而Silhouette曾试图以最简单的方式来改变法国的财政状况。有人便把此一廉价艺术品叫做portrait la silhouette，随后索性以silhouette简称之，意在揶揄嘲讽Silhouette短暂的政治生涯，奚落其小小剪影终不成巨画。殊不知他的大名却从此载入辞书，不仅在法语中占了一席之地，而且还进入了英语词汇行列。二百余年来，其拼写形式一直保持稳定，词义也无甚变化，至今仍然指“剪影”，有时也指“黑色轮廓像”或“侧面影像”。作动词用时，表示“衬托出……的轮廓”。
-
-例:
-- Her silhouette appeared on the curtain. 
-> 窗帘上映出她的侧影。
-- She stood in front of the window, silhouetted against the dawn sky.
-> 她站在窗前，黎明的天空衬托出她的轮廓。
-- The trees on the top of the hill were silhouetted against the setting sun. 
-> 落日衬托出山顶上树木的轮廓。
-- A silhouette of a deer on a road sign warns drivers that there may be wild animals on the road.
-> 路标上鹿的剪影警告司机，野生动物可能会跑到路上来。
-
-
----------------------------------
-
-**silhouette**（剪影）：厉行节俭的法国财务大臣西卢埃特。
-
-英语单词silhouette（剪影）来自18世纪法国财务大臣**Etienne de Silhouette**的名字。在他担任财务大臣时，法国因为“七年战争”而陷入财务危机。他上任后厉行节俭政策，禁止铺张奢华，因此遭到很多人尤其是有钱人的憎恶。为了嘲笑他，人们把他的名字当成了各种便宜货的代名词。当时在法国出现了一种便宜的肖像方法，即在纸上剪出人物的外部轮廓。与常规的肖像画相比，这种剪影方式非常便宜。人们便沿用一贯的恶搞，将其称呼为silhouette。没想到后来这个词竟然长盛不衰，成为了对“剪影”的正式称呼。
-
-- silhouette：[,sɪlʊ'et] n.剪影，轮廓
-
-![Alt text](./images/1622614306456.png)
 
 
 ## Persona / person
@@ -276,7 +235,7 @@ Authorization is [orthogonal](https://docs.microsoft.com/en-us/aspnet/core/secur
 Used to describe two things that are independent of each other. One does not imply the other.
 > Common sense and intelligence are orthogonal. I've seen plenty of smart people with no common sense.
 
-## mnemonic /nɪ'mɑnɪk/
+## mnemonic /nɪ'mɑnɪk/  (Nemesis:报应女神)
 
 ```
 git -c diff.mnemonicprefix=false -c core.quotepath=false --no-optional-locks push -v --tags --set-upstream origin Work_From_Office:Work_From_Office
