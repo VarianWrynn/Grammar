@@ -334,6 +334,17 @@ Reference: [词源趣谈：再大的minister（大臣、部长），其实也只
 
 
 
+### meritocracy 【ˌmerɪˈtɑːkrəsi】 精英领导体制;
+
+**`merit`**  n. 优点, 价值; 功绩; 良好 v. 值得, 应得, 应受到。
+
+**`cracy-`** = rule, ruler, 表示“统治或政体，统治者”，最初含义表示“力量”。也引申为“支持者，参加者”等。源自希腊语 kratos "strength, might, power."
+
+- meritocracy: n, 精英领导阶级
+- meritocratic: adj.  评功论赏的，任人唯才的，以功绩定地位的；
+
+
+
 ## References 
 
 1. [Peerage of England](https://en.wikipedia.org/wiki/Peerage_of_England) 

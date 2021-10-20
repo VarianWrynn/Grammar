@@ -74,22 +74,6 @@
 
 
 
-## meritocracy / -cracy
-
-- meritocracy: n, 精英领导阶级
-- meritocratic: adj.  评功论赏的，任人唯才的，以功绩定地位的；
-
-
-
-
-## Aspirant /əˈspaɪərənt/
-
-A person with a strong desire to achieve a position of importance or to win a competition.
-
-
-
-
-
 ## Ascendant [əˈsendənt] 运星
 
 **ascendant**（运星）：西方占星术中的上升星座。
