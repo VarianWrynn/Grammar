@@ -7,16 +7,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 ## 6.  高度相似的词汇
 
 ### 6.1 relative vs related vs relevant
@@ -489,8 +479,36 @@ Locale seems to be used less often, and it is not interchangeable with the word 
 
 The following terminology is used in American English (British English may be different.)
 
-| { }  | Braces ("curly braces") Braces are used to group statements and declarations. The contents of a class or interface are enclosed in braces. Method bodies and constructor bodies are enclosed in braces. Braces are used to group the statements in an if statement, a loop, or other control structures. |
-| ---- | ------------------------------------------------------------ |
-| [ ]  | Brackets ("square brackets") Brackets are used to index into an array. |
-| ( )  | Parentheses Parentheses are used for two purposes: (1) to control the order of operations in an expression, and (2) to supply parameters to a constructor or method. |
+| { }<br /> | Braces ("curly braces") Braces are used to group statements and declarations. The contents of a class or interface are enclosed in braces. Method bodies and constructor bodies are enclosed in braces. Braces are used to group the statements in an if statement, a loop, or other control structures. |
+| --------- | ------------------------------------------------------------ |
+| [ ]       | Brackets ("square brackets") Brackets are used to index into an array. |
+| ( )       | Parentheses Parentheses are used for two purposes: (1) to control the order of operations in an expression, and (2) to supply parameters to a constructor or method. |
+
+### 6.24  endogenous v.s  endigence v.s endigence
+
+**indigence** [***'ɪndɪdʒ(ə)ns***] n.穷困。它与**indigenous** [***ɪn'dɪdʒɪnəs***] adj.本土的；国产的；固有的，看着相似，但是前缀indi-表into,within一样，词根不一样。indigence的词根是ig-表lack，indigence=a lacking inside家徒四壁之感，indigenous的词根是gen-表出生，born within a certain place。
+
+
+
+**endogenous** a【enˈdɑːdʒənəs】：derived or originating internally （内源性的;内生的）
+
+- **`endo-`** = within, 表示“内部”。源自希腊语 endon, endo- "within."
+- **`gen-`** = birth, produce, 表示“出生，产生”，医学上引申为“生殖或基因”。
+- **`-ous`** 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。
+
+
+
+**endoigence** 【ɪndɪdʒəns】：a state of extreme poverty or destitution（贫困;贫乏；穷困；贫穷）
+
+- **`endo-`**  = within, 表示“内部”。源自希腊语 endon, endo- "within."
+- **`ig-`**  = lack, 表示“缺乏”。源自拉丁语 egere "to lack, be in want."
+- **`-ence`** 表名词，“性质，状态”。
+
+
+
+**endigenence** 【ɪnˈdɪdʒənəs】： belonging to a particular place rather than coming to it from somewhere else (当地的;本土的;土生土长的)
+
+- **`endo-`** = within, 表示“内部”。源自希腊语 endon, endo- "within."
+- **`gen-`** = birth, produce, 表示“出生，产生”，医学上引申为“生殖或基因”。
+- **`-ence`** 表名词，“性质，状态”。
 
