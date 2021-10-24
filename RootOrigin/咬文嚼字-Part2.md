@@ -189,7 +189,7 @@ anim-（生命）：代表生命之源的灵魂
 
 ## pan-（众、全）
 
-### 1.  Pandora：众神的礼物潘多拉
+### 1.  Pan-dora：众神的礼物潘多拉
 
 宙斯发现人类掌握了火的使用方法后，下决心要惩罚人类，就让火神仿造女神的模样，用水和土创造了一个美女，再让爱与美神阿芙洛狄忒为她喷上令男人心醉神迷的香气，让雅典娜为她披上华丽的衣服，神使赫尔墨斯赋予她言语的天赋。
 
@@ -209,7 +209,7 @@ anim-（生命）：代表生命之源的灵魂
 - dowry：['daʊri] n. 嫁妆；天资；亡夫遗产
 - Dorothy：['dɒrəθɪ] n. 桃乐茜，女子名字，意为“神的礼物”，缩写为Dora。
 
-### 2. Panakeia 医药女神帕那刻亚
+### 2. Pan-akeia 医药女神帕那刻亚
 
 希腊神话中，帕那刻亚（**Panakeia**）是医药神埃斯库拉庇乌斯的女儿，光明神阿波罗的孙女。
 
@@ -224,6 +224,58 @@ anim-（生命）：代表生命之源的灵魂
 - The medicine was promoted as a panacea for all aches and pains. (NED) 这种药是作为解除各种疼痛的万灵药来推销的。
 - There's no single panacea for the country's economic ills. 国家经济弊病百出，没有万灵药可以医治得了。
 - Librarians welcomed computerization as the panacea for all their cataloguing problems. (LLA) 电脑化受到图书管理员的欢迎，它解决了他们在编目分类上的所有难题。
+
+
+
+### 3. Pan-nic 喜欢吓唬人的潘神
+
+希腊神话中有一个叫做潘（Pan）的牧神，掌管山林、田园和羊群。他长相奇特，上半身是人，下半身是羊，头顶还长着羊角。据说，他刚出生时，母亲看见他这副怪模样，吓得大叫一声就逃走了。神使赫尔墨斯收养了他，还经常带他到诸神所在的奥林巴斯山上玩。
+
+<img src="./images/image-20211022101850234.png" alt="image-20211022101850234" style="zoom: 80%;" />
+
+潘虽然长得丑陋，但性格很好，**诸神都很喜欢他，因而得名为Pan**，在希腊语中就是“所有”的意思。他和其它的森林之神及仙女在山林之间闲游，过着逍遥自在、无拘无束的生活。因此，英语习语**a freedom of Pan**表示“无拘无束、逍遥自在”的意思。
+
+
+
+潘神喜欢搞恶作剧。他常常躲在隐蔽处，蓦地跳出，用丑陋的面目把路人吓得魂不附体。他还会发出怪异的叫声，令人感到毛骨悚然，胆战心惊。这种恐惧感就称为“潘神之惧”（**Panic fear**）。传说希波战争中，希腊人在马拉松战役中取得胜利就是因为潘神把波斯军队吓得惶恐而逃的。
+
+![image-20211022101956988](./images/image-20211022101956988.png)
+
+英语单词**panic**就源自“潘神之惧”（**Panic fear**），原本是个形容词，后来逐渐变成名词，比如：
+
+- People ran away in panic. 人们在惊慌中四散逃走。Panic seized her. 她突然惊慌失措。
+
+**panic**还可以转作动词，表示“惊慌”，比如，
+
+- Take it easy, do not panic. 镇定点，不要惊慌。
+- The gunfire panicked the horses. 枪声惊吓到马匹。
+
+**panic**派生出形容词**panicky**，后面加了一个*形容词后缀* **`-y`**，意思是“恐慌的，惊慌失措的”。
+
+- 比如：Some of the panicky people tried to flee over the bridge. 一些惊慌失措的人试图从桥上逃走。
+
+
+
+- **Pan**：[pæn] n.潘神
+- **panic**：['pænɪk] n.恐慌，惊慌vt.惊吓，使恐慌vi.惊慌，感到恐慌
+- **panicky**：[ˈpænɪki] adj.惊慌失措的
+
+
+
+参考：[词源趣谈 | panic（恐慌）：喜欢吓唬人的潘神（Pan）](https://mp.weixin.qq.com/s/6o0ohQgM8RDyEswRB97nXA)
+
+
+
+#### Fanus / Fanua 
+
+在罗马神话中，与潘神对应的神祇叫做法乌努斯（***Faunus***），掌管农林畜牧。在拉丁语中，法乌努斯（***Faunus***）的阴性形式是 ***Fauna***，她被视为 Faunus 的妻子或姐妹，是女牧神。
+
+
+
+18 世纪时，瑞典著名博物学家林奈用 fauna 一词来表示“动物区系”，与 flora（植物区系） 相对应。 
+
+- fauna：['fɔːnə] n.某区域的动物群，动物区系 
+- faunal：['fɔnl] adj. 动物区系的
 
 
 
