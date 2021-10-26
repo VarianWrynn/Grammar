@@ -107,7 +107,7 @@ Tears **ran** down the woman’s cheeks **as the train pulled away**.(火车离�
 
 
 -------------------
-![@||380x0](./1627010958931.png)
+<img src="./1627010958931.png" alt="@||380x0" style="zoom: 80%;" />
 
 
 

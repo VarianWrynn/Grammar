@@ -14,25 +14,18 @@
 
 
 
-![@||360x0](./1611543588517.png)
+<img src="./1611543588517.png" alt="@||360x0" style="zoom:67%;" />
 
 
 
-
-
-
-
-
-
-
-
-##1.  什么是表语
+## 1.  什么是表语
 
 
 - 百度百科[提到](https://baike.baidu.com/item/%E8%A1%A8%E8%AF%AD/2017501?fr=aladdin)，表语是表明主语的身份、特质、品质、特征和状态的，表语位于系动词之后。
 
 - 表语是补语的一种。表语对应的英文是**[Predicative](https://fanyi.baidu.com/#en/zh/predicative)**,牛静字典的解释是：
- > Coming after a verb such as be, become, get, seem, look. Many adjectives,  for example, old can be either predictive as in The man is very old, or attributive as in an old man. Some, like asleep, can only be predictive.
+
+  > Coming after a verb such as be, become, get, seem, look. Many adjectives,  for example, old can be either predictive as in The man is very old, or attributive as in an old man. Some, like asleep, can only be predictive.
 
 - 表语英语为predicative，有表示判断的意思，是英语特有的句法成分，在早期汉语语法著作里曾被引入过，叫做表词，表是“表态”的意思，特指来描述主语的特征和性质，后来发现台湾地区的汉语句法里仍然保留了改称谓。
 
@@ -47,7 +40,7 @@
 
 ## 3. 副词是否可以做表语
 
-![@||400x0](./1611903397948.png) ![@||300x0](./1611903420858.png)
+<img src="./1611903397948.png" alt="@||400x0" style="zoom:80%;" /> <img src="./1611903420858.png" alt="@||300x0" style="zoom:80%;" />
 
 
 > I will be on leave during the week commencing 15 February. 《牛津高阶英汉双解词典》
@@ -66,17 +59,11 @@
 
 The light is on.（ on 就是副词做 is 的表语）:
 
-![Alt text](./1611903749728.png)
+<img src="./1611903749728.png" alt="Alt text" style="zoom:90%;" />
 
 
 
-
-
-
-
-
-
-![Alt text](./1611903782276.png)
+<img src="./1611903782276.png" alt="Alt text" style="zoom:90%;" />
 
 
 ---------------------
@@ -93,7 +80,8 @@ The light is on.（ on 就是副词做 is 的表语）:
 the man is quickly. 错     
 he is basically. 错。
 
-**既作副词又做介词的词叫小品词: **
+### 既作副词又做介词的词叫小品词: 
+
 > Particles(介副词): 有一种词类，看起来和介系词一模一样，但是后面却没有受词（宾语），而是直接当做副词使用。这种词类称为介副词（particles），应该当作副词看待
 >  
 >  In grammar, a particle is a preposition such as ‘into’ or and adverb such as ‘out’ which can combine with a verb to form a **phrasal verb**. 小品词(与动词构成短语动词的副词或介词)
@@ -118,19 +106,7 @@ he is basically. 错。
 
 ## 4. the information below v.s the below information
 
-![@||299x0](./1613135979471.png)
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="./1613135979471.png" alt="@||299x0" style="zoom:67%;" />
 
 
 
@@ -138,7 +114,11 @@ he is basically. 错。
 
 
 ## 5.  系表结构高级用法
-![@||300x0](./1626850527810.png)
+<img src="./1626850527810.png" alt="@||300x0" style="zoom: 67%;" />
+
+**这个 Stay 后面跟上过去分词是什么用法呢?** 
+
+- 这是（把connect) 变成**形容词**（connected)，做***表语***；与**stay**构成系表结构. （2021-7-9）
 
 
 
@@ -154,6 +134,7 @@ he is basically. 错。
 7. [工具 | 使用Google Ngram Viewer -- 简书](https://www.jianshu.com/p/285cc5ee8dde)
 5. [Predicate vs Complement - What's the difference? -- Wikidiff](https://wikidiff.com/predicate/complement)
 6. [副词可以作表语吗？--知乎](https://www.zhihu.com/question/370471953)
+
 
 
 ##  7. 文档修订记录

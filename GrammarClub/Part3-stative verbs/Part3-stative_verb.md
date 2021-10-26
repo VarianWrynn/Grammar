@@ -5,8 +5,6 @@
 
 
 
-
-
 * [文法俱乐部3 \- 静态动词](#文法俱乐部3---静态动词)
   * [1\. Overview](#1-overview)
   * [2\. 我的女神](#2-我的女神)
@@ -70,7 +68,7 @@
 
 ## 4. 想不到吧
 
-## ![@||100x0](./1602063273528.png)
+## <img src="./1602063273528.png" alt="@||100x0" style="zoom: 19%;" />
 
 然而我还是找到了一首歌曲叫《[I've Been Loving You Too Long](https://en.wikipedia.org/wiki/I%27ve_Been_Loving_You_Too_Long)》,是一个叫[Otis Redding](https://en.wikipedia.org/wiki/Otis_Redding "Otis Redding") 的美国黑人歌手兼歌词家的作品。
 
@@ -78,7 +76,6 @@
 
 
 You know, we really don't advise lyrics for grammar points. It's a song, the writers do things to suit the music not grammar.
-
 
 The point here is that "love" is a **stative verb**. If you look at the British Council Learn English site [here](http://learnenglish.britishcouncil.org/en/grammar-reference/stative-verbs), you'll see that stative verbs are *"not usually used in the continuous form, even when we are talking about temporary situations or states ..."*\
 So strictly speaking, you are correct, but as suzi says, we can sometimes use them to** stress** that the action (even of a stative verb) is - or has been - in progress, and this is actually one of the trends in the way the use of English is developing.
