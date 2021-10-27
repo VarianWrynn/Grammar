@@ -272,6 +272,30 @@ mor-/mort-：死亡
 - moralisim
 - moralize vt. 教化，使有德行
 
+### euthanasia 【ˌjuːθəˈneɪʒə】安乐死
+
+随着现代医学的进步和先进药物、器官移植、人工呼吸器等的发明，越来越多垂死的患者靠着人为因素得以延续生命，但继之而来的安乐死这一问题却再度受到人们的关注和议论。所谓安乐死是使患有不治之症、处于极度痛苦的病人毫无痛苦地死去，简单地说就是无痛苦致死。
+
+安乐死这一说法可以说借译自英语**euthanasia**，而**euthanasia**一词则源自希腊语***euthanasíā***，由
+
+- **`eu-`** '
+- good'与**thánatos** 'death'
+
+复合而成，整个词就是good death，easy death或happy death的意思。
+
+**euthanasia**一词早在几个世纪以前就已见诸使用。早期的英国期刊*The Tatler*（《闲谈者》）1709年的一期上有如下一句话：‘Give me but gentle Death: Euthanasia, Euthanasia, that is all I implore.’（就让我安然去死吧，安乐死，安乐死，我别无他求。）但该词的现代用法似乎是19世纪60年代之后才逐渐普遍起来的。爱尔兰历史学家莱基（William Lecky, 1838-1903）在他1869年出版的《欧洲道德史》（History of European Morals）一书中曾使用了这个词。
+
+安乐死在新的意义上有积极安乐死（active euthanasia）和消极安乐死（passive euthanasia）之分。积极安乐死英语也叫做mercy killing，是指主动施行安乐死术，而消极安乐死是指撤除生命维持设备，听任死亡来临。在传统的基督教信条中安乐死是受到抵制的，因为它触犯了戒律中的谋杀禁律，然而如今有越来越多的人认为安乐死在道德上是可以允许的，与其让病人继续受病魔的煎熬折磨，不如让他毫无痛苦、快乐地死去。为此，有人发起运动来争取这种权利，并使之在法律上合法化。
+
+例　
+
+- The doctor is totally against euthanasia because he considers it immoral. 医生完全反对安死术，因为他认为施行安死术是不道德的。
+- The patient, who was in great pain, requested active euthanasia. (NDE) 病人处于极度痛苦之中，主动要求施行安死术。
+- His relative wanted to end his suffering by passive euthanasia. (NDE) 他的亲戚想以消极安乐死术结束他的痛苦。
+- Although some people campaign for the right to euthanasia, it is still illegal in most countries. (CID) 虽然有些人发起运动争取安乐死的权利，但在大多数国家安乐死仍然是不合法的。
+
+
+
 ## arbiter （仲裁者）
 
 古罗马时期的审判员制度
