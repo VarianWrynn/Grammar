@@ -50,22 +50,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 - 非谓语动词，[又称作动状词](https://www.zhihu.com/question/49311081/answer/255054419)（Verbals）
 - [Gerund（动名词） v.s Verbals（动状词）](https://webapps.towson.edu/ows/verbals.html)
-> A verbal is a word formed from a verb but functioning as a different part of speech. A gerund is a verbal ending in -ing that functions as a noun. 
->  动状词包含了 不定式、过去分词、现在分词（V-ing）、动名词（V-ing）；所以Verbals是包含了Gerund的。
+
+  > A verbal is a word formed from a verb but functioning as a different part of speech. A gerund is a verbal ending in -ing that functions as a noun. 
+  > 动状词包含了 不定式、过去分词、现在分词（V-ing）、动名词（V-ing）；所以Verbals是包含了Gerund的。
 
 
 #### 2.1.1 系动词（联系动词，Linking verb）
@@ -74,21 +63,7 @@
 
 > 外文名Linking verbs, copula
 
-![@||600x0](./1611812799694.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="./1611812799694.png" alt="@||600x0" style="zoom:80%;" />
 
 
 
@@ -105,12 +80,14 @@
 
 adj.
 1. [not usually before noun]: indicative of sth: (formal) 表明；标示；显示；暗示 (showing or suggesting sth)
-> Their failure to act **is indicative of** their lack of interest.
->  &nbsp;
-> The result **was indicative of** a strong retail market. 
+
+   > Their failure to act **is indicative of** their lack of interest.
+   > &nbsp;
+   > The result **was indicative of** a strong retail market. 
 
 2. [only before noun] (grammar 语法) 陈述的；指示的
-> stating a fact
+
+   > stating a fact
 
 
 ----------------------
@@ -122,7 +99,6 @@ adj.
 比如：
 
 > - afraid of my teacher: (怕老师)这里的名词“teacher”作of的宾语. (如果去掉of了是不是就表示 害怕/胆小的老师？)
->  &nbsp; 
 > - a good teacher: (好老师)这里的形容词“good”作名词“teacher”的定语.
 
 skeptical of conclusion 对结论持怀疑态度（如果去掉了of是不是就表示可疑的结论）
@@ -132,27 +108,48 @@ skeptical of conclusion 对结论持怀疑态度（如果去掉了of是不是就
 
 [eg](https://wenku.baidu.com/view/d8212cfc5e0e7cd184254b35eefdc8d377ee144a.html):
 
-- [x]  be sure of
+- [x] be sure of
+
 - [x] be afraid of 
+
 - [x] be full of
+
 - [x] be careful of
+
 - [x] be tired of
+
 - [x] be aware of:  He was not aware of having done wrong.
+
 - [x] be ashamed of: He is ashamed of himself for being poor.
+
 - [x] be capable of: You are capable of better work than this. | Show me what you are capable of.
+
 - [x] be certain of/about: You should be certain of your facts before you rush into print.
+
 - [x] be characteristic of (有....的特质)： Sympathy is the feeling which is characteristic of mankind.(同情心是人类特有的情感特质)
+
 - [x] be confident of: He is confident of vitory. | You are confident of our success.
+
 - [x] be conscious of: I have not conscious of having offended him. | Was he conscious of what he was saying at the time?
+
 - [x] be considerate of(为....着想/体谅/体贴) He is considerate of other people's `feelings`/whishes  | It was considerate of you not to play the piano while I was asleep
+
 - [x] be critcal of: The inquery was critical of her work. | He is critical of grammar in the speech of other person.
+
 - [x] be deserving of: He is deserving of great credit.| Such people will never be deserving of trust.
+
 - [x] be fond of: He is very fond of Chinese food. | She is fond of reading love story.
- > 英语习惯上可以说 be fond of doing sth. 但不说 be fond to do sth.
+
+  > 英语习惯上可以说 be fond of doing sth. 但不说 be fond to do sth.
+
 - [x] be full of: The future seems to be full of hope.
+
 - [x] be glad of: I'm glad of it's being over.
+
 - [x] be guilty of(犯有...罪/错): What crime was he guilty of ? | You have been guilty of a serious blunder
- > blunder /blʌndə(r)/
+
+  > blunder /blʌndə(r)/
+
 - [x] be hopeful of: He is hopeful of attaining his object.
 - [x] be indenpendent of (与...无关,不依赖....): The two accidents are independent of each others.  |  If you have a motocycel, you are idependent of trams and buses.
 - [x] be nervous of/about: I was slightly nervous of him | I'm neverous of (being in) large crowds. | I'm very nevous about taking that exam.
@@ -160,7 +157,9 @@ skeptical of conclusion 对结论持怀疑态度（如果去掉了of是不是就
 - [x] be scared of: Jim was scared of failing the math exam.
 - [x] be sensible of: He is sensible of his faults | He was sensible of your kindness.
 - [x] be short of： We're a bit short of money at the moment | The hospital is getting short of clean linen.
-> linen [`ˈlɪnɪn`]: n. 要不；亚麻织品. wash your dirty linen in public: 家丑外扬
+
+  > linen [`ˈlɪnɪn`]: n. 要不；亚麻织品. wash your dirty linen in public: 家丑外扬
+
 - [x] be shy of (害怕； 对...有所顾忌): I'm shy of buying shares, in case I lose money.
 - [x] be sick of(厌倦): I'm sick of waiting around like this. | Get out! I'm sick of the sight of you.
 - [x] be sure of: If you go and see them you can be sure of a warm welcome.
@@ -169,15 +168,7 @@ skeptical of conclusion 对结论持怀疑态度（如果去掉了of是不是就
 
 ## 3.  时态分类
 
-![@||390x0](./1605507267585.png)
-
-
-
-
-
-
-
-
+<img src="./1605507267585.png" alt="@||390x0" style="zoom:90%;" />
 
 
 
@@ -186,8 +177,10 @@ skeptical of conclusion 对结论持怀疑态度（如果去掉了of是不是就
 
 由疑问句改造出来的名词从句，又可分成两种：
 - Information Question
+
 - Yes/No Question。
-> 《旋元佑进阶文法》第十七章：名词从句-名词从句的种类。
+
+  > 《旋元佑进阶文法》第十七章：名词从句-名词从句的种类。
 
 ### Information Question 
 > A question in English to which an appropriate answer is to give information rather than to answer "yes" or "no": typically introduced by the word who, which, what, where, when, or how
@@ -221,12 +214,15 @@ skeptical of conclusion 对结论持怀疑态度（如果去掉了of是不是就
 **He never revealed <u>where he kept the money</u>(名词/宾语从句).**
 
 
+
 ### Yes/No Question
 
 如果疑问句中并没有疑问词，这种疑问句称为Yes/No Question。它要改成名词从句的话必须加上从属连接词**whether**或**if**。例如：
 
 1. Is it going to rain soon?
-> 第1句没有疑问词引导，这种疑问句称为Yes/No Question。
+
+   > 第1句没有疑问词引导，这种疑问句称为Yes/No Question。
+
 2. By looking at the sky, I can tell the question.
 
 要改成名词从句，第一步还是要把问号拿掉使它从独立的疑问句变成从属从句。但是因为缺乏疑问词，光是拿掉问号的话会变成it is going to rain soon「很快就要下雨了」**这个肯定的叙述。为了维持「疑问」的语气**，可以借助对等连接词的关联词`either … or`，先改写为合句如下：
@@ -244,15 +240,18 @@ Either it is going to rain soon or it is not.
 **不过，在写作时最好尽量使用whether来表示「是否」、避免使用if**。有几个原因：
 
 1. Whether解释为「是否」，if则有「是否」和「如果」两种解释。所以，用whether来表达通常会比用if更清楚。
+
 2. 首位置只能用whether、不能用if来表示「是否」。例如： 
-> <u>Whether we can win the big prize (名词/主语从句)</u> will be decided soon.
-> 
-> 这个复句，主要从句的主词就是开头那个名词从句。因为从属连接词位于句首位置，假如用的连接词是if，读者看到If we can win the big prize获得的印象是「『如果』我们能够赢得大奖」，**这样就会错意了**。所以，在句首位置要表示「是否」，只能用whether这个连接词而不能用if。
+
+   > <u>Whether we can win the big prize (名词/主语从句)</u> will be decided soon.
+   >
+   > 这个复句，主要从句的主词就是开头那个名词从句。因为从属连接词位于句首位置，假如用的连接词是if，读者看到If we can win the big prize获得的印象是「『如果』我们能够赢得大奖」，**这样就会错意了**。所以，在句首位置要表示「是否」，只能用whether这个连接词而不能用if。
 
 3. 介系词后面可以用whether不能用if。例如：
->  The manager hinted at whether(介系词) he would sign the contract.（名词从句）（经理暗示了一下他是否要签署合约。）
->   
-> 这个复句中有个介系词at，它后面的受词（宾语）位置可以放由whether引导的名词从句，但是这个位置不能用if，否则就是文法错误。
+
+   > The manager hinted at whether(介系词) he would sign the contract.（名词从句）（经理暗示了一下他是否要签署合约。）
+   >
+   > 这个复句中有个介系词at，它后面的受词（宾语）位置可以放由whether引导的名词从句，但是这个位置不能用if，否则就是文法错误。
 
 基于上述三种原因，**写作时最好养成习惯：要表示「是否」时，最好选择用whether来表示比较不会出错**。
 
@@ -285,10 +284,10 @@ Either it is going to rain soon or it is not.
 ## 6. 从句
 
 |<span style="display:block; width:80px;"> 奇怪</span>|  <span style="display:block;width:150px;">  的知识</span>| 又增加了|
-| :-------- | :-------- |--------:| 
+| :-------- | :-------- |--------:|
 |补语|表语||
-|名词从句 | 宾语从句| 补语的类型，分为名词补语、形容词补语、时间副词补语、地方副词补语和介词补语，按照大陆习惯都应该翻译为表语。 
-| 形容词从句|   定语从句|又成为**关系从句**|
+|名词从句               <br /> | 宾语从句| 补语的类型，分为名词补语、形容词补语、时间副词补语、地方副词补语和介词补语，按照大陆习惯都应该翻译为表语。 |
+| 形容词从句 |   定语从句|又成为**关系从句**|
 | 副词从句|   状语从句|  |
 |简化从句| reduced clauses| 简化从句 涵盖了传统文法中所谓的非限定从句、分词结构、独立词组、同位格，以及非限定动词、动状词、动名词词组、动词不定式、现在分词词组、过去分词词组等各式各样的用语。|
 
@@ -296,9 +295,9 @@ Either it is going to rain soon or it is not.
 
 ---------------------------
 
-| <span style="display:block; width:50px;"> 奇怪的</span>|     知识又增加了| 
-| :-------- | :--------| 
-| 定语|  定语英语里为**attribute**，表示词所具备的属性，汉语里的定是“限定”的意思，汉语语法有同样的句法成分，其实定语这一叫法的由来也是经历了很长的一段时间，以前曾叫“修饰语”，这就不难理解了。<br><br> 定就是限定，表就是表示|  
+| <span style="display:block; width:50px;"> 奇怪的</span>|     知识又增加了|
+| :-------- | :--------|
+| 定语            <br /> |  定语英语里为**attribute**，表示词所具备的属性，汉语里的定是“限定”的意思，汉语语法有同样的句法成分，其实定语这一叫法的由来也是经历了很长的一段时间，以前曾叫“修饰语”，这就不难理解了。<br><br> 定就是限定，表就是表示|
 |表语 |表语英语为**predicative**，有表示判断的意思，是英语特有的句法成分，在早期汉语语法著作里曾被引入过，叫做表词，表是“表态”的意思，特指来描述主语的特征和性质，后来发现台湾地区的汉语句法里仍然保留了改称谓。|
 |状语| 状语**adverbial**（**`ad ——>add. verbial——>verb.`**），说明地点、时间、原因、目的、结果、条件、方向、程度、方式，你可以理解为状语是为你的**语言增加状态的**一个部分。起到了让你的内容更加丰富清晰的作用。但能够做状语的太多了，副词、从句都可以....|
 
@@ -369,12 +368,6 @@ Jasmine is a woman I trust completely.
 
 
 
-
-
-
-
-
-
 最后，也可以参考[Google Ngram Viewer](https://books.google.com/ngrams/graph?content=To%20who%20it%20may%20concern,%20To%20whom%20it%20may%20concern&year_start=1800&year_end=2019&corpus=26&smoothing=3&direct_url=t1;,To%20who%20it%20may%20concern;,c0;.t1;,To%20whom%20it%20may%20concern;,c0#t1;,To%20who%20it%20may%20concern;,c0;.t1;,To%20whom%20it%20may%20concern;,c0)关于这两个词组的用法统计：
 
 <img src="./1612942057305.png" alt="Alt text" style="zoom:50%;" />
@@ -397,7 +390,7 @@ Who Joe Biden has done with Afghanistan is legendary.
 
 
 
-前半句分析：
+**前半句分析：**
 
 1. **what** 引导了一个**主语从句**，整句话是个***主系表结构***。
 2. **do with** 表示“处理、应对”，比如：How will you do with the current situation?（你将如何处理当下这个局面？）
@@ -405,7 +398,7 @@ Who Joe Biden has done with Afghanistan is legendary.
 
 
 
-后半句分析：
+**后半句分析：**
 
 It will go down as one of the greatest defeats in American history
 
