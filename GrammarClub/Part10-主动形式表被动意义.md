@@ -12,6 +12,8 @@
 
 ## 初中英语中主动形式表被动意义
 
+
+
 ###  一、某些系统动词
 
 某些系动词，如feel， look， seem， appear， taste， sound， smell， prove， remain等用主动形式表示被动意义;
@@ -98,4 +100,14 @@
 
 - The floor needs sweeping. 这地需要打扫了。
 - That picture is worth looking at. 那幅画值得看。
+
+
+
+### 六 所遇记录
+
+| 原句                                                         | 修改后                                                       | Remark               |
+| :----------------------------------------------------------- | ------------------------------------------------------------ | -------------------- |
+| Dean would sort out a maintenance list to determine what services will ***be included*** for regular maintenance. | Dean would sort out a maintenance list to determine what services will include for regular maintenance. | Passive voice misuse |
+|                                                              |                                                              |                      |
+|                                                              |                                                              |                      |
 
