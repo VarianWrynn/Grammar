@@ -14,13 +14,13 @@ https://upload.wikimedia.org/wikipedia/commons/7/77/Geologic_Clock_with_events_a
 
 ### 2. Zo.ic 关键词根词缀
 
-| 单词                               | 解释                                                         |
-| ---------------------------------- | ------------------------------------------------------------ |
-| zoic                               | a. 动物的, 有...的(动物)生活方式的, 有生物的, 含有动植物遗迹的化石的 |
-| **zo-**                            | =animal, 表示“动物”。源自希腊语 zoon, zoion "living being, animal." |
-| **-ic**                            | 表形容词，"...的"                                            |
-|                                    |                                                              |
-| **phanerozoic**:<br />phanero-zoic | **`phanero-`** = show, 表示“显示”。源自希腊语 phainein "to bring to light." |
+| 单词                                                     | 解释                                                         |
+| -------------------------------------------------------- | ------------------------------------------------------------ |
+| zoic                                                     | a. 动物的, 有...的(动物)生活方式的, 有生物的, 含有动植物遗迹的化石的 |
+| **zo-**                                                  | =animal, 表示“动物”。源自希腊语 zoon, zoion "living being, animal." |
+| **-ic**                                                  | 表形容词，"...的"                                            |
+|                                                          |                                                              |
+| **phanerozoic**:<br />phanero-zoic<br />【ˌfænərəˈzəʊɪk} | **`phanero-`** = show, 表示“显示”。源自希腊语 phainein "to bring to light."<br />由古生代、中生代和新生代构成的地质年代）[地质] 显生宙的: <br />The period from about 5,400 million years ago until the present. |
 
 
 
