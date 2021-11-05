@@ -40,11 +40,11 @@ https://upload.wikimedia.org/wikipedia/commons/7/77/Geologic_Clock_with_events_a
 
 
 
-|                                          |                                                              |                                           |                                                              |
-| ---------------------------------------- | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ |
-| Hadean                                   | 冥古宇：designating or of the time before rocks formed on the Earth, which was then a molten mass, and when the solar system was forming | Archean                 <br />【ɑ:ˈkiən】 | **`archa-`** = old, 表示“古”。来自希腊语 arkhē "beginning."<br />太古宇 |
-| **Protero-zo-ic**<br />【prɔtərə'zəuik】 | **`prot-,proto-`** = first, source, parent, preceding, earliest form, original, basic，表示“最初的，原始的，第一的”。<br /> | **Paleo-zon-ic**<br />【ˌpeɪliəˈzoʊɪk】   | **`paleo`- =old**, 表示“古，旧”。                                                                                             源自希腊语 palai "long ago."<br />古生代的 |
-| Meso-zo-ic                               | 中生代                                                       | Ceno-zo-ic                                | 新生代                                                       |
+|                                          |                                                              |                                               |                                                              |
+| ---------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
+| **Hadean**                               | 冥古宇：designating or of the time before rocks formed on the Earth, which was then a molten mass, and when the solar system was forming | **Archean**                 <br />【ɑ:ˈkiən】 | **`archa-`** = old, 表示“古”。来自希腊语 arkhē "beginning."<br />太古宇 |
+| **Protero-zo-ic**<br />【prɔtərə'zəuik】 | **`prot-,proto-`** = first, source, parent, preceding, earliest form, original, basic，表示“最初的，原始的，第一的”。<br /> | **Paleo-zon-ic**<br />【ˌpeɪliəˈzoʊɪk】       | **`paleo`- =old**, 表示“古，旧”。                                                                                             源自希腊语 palai "long ago."<br />古生代的 |
+| **Meso-zo-ic**<br />【ˌmɛsəˈzoʊɪk】      | 中生代；中生代沉积岩： of, denoting, or relating to an era of geological time that began 250 000 000 years ago with the ***Triassic*** period and lasted about 185 000 000 years until the end of the ***Cretaceous*** period | **Ceno-zo-ic**<br />【ˌsinəˈzoʊɪk】           | **ceno-** 表示“新的，近期的”。源自希腊语 kainos "new, fresh, recent, novel."新生代.<br />of, denoting, or relating to the most recent geological era, which began 65 000 000 years ago: characterized by the development and increase of the mammals |
 
 
 
@@ -91,6 +91,18 @@ https://upload.wikimedia.org/wikipedia/commons/7/77/Geologic_Clock_with_events_a
 - protagonist：[prə'tæɡənɪst] n. 主角，主演；主要人物，领导者
 
 
+
+#### mes- / meso -  = middle, 表示“中间、中部”
+
+mes-,meso- 
+= middle, 表示“**中间、中部**”，也构成表示“**系膜**”的解刨学词汇。源自希腊语 mesos "middle."
+
+
+
+#### 4 Ceno-  表示“新的，近期的”
+
+ceno- 
+表示“新的，近期的”。源自希腊语 kainos "new, fresh, recent, novel."
 
 
 
