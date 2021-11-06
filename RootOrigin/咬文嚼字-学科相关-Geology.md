@@ -110,6 +110,37 @@ ceno-
 
 
 
+### -itude 表名词，“性质，状态等”{36}
+
+**`-itude`** 
+表名词，“性质，状态等”。源自拉丁语 -tindo, abstract noun suffix.
+
+<video src="D:\Githubs\Grammar\RootOrigin\img2\00180_longitude.mp4"></video>
+
+<img src="./img2/8a04527d2c61f400cde1e2259a6c9847.jpg" alt="Prime Meridian + Equator | Pyramids, Reflection and refraction, Meridian" style="zoom:80%;" />
+
+
+
+| 单词                                 | 解释                                                         | 单词                                             | 解释                                                         |
+| ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------ |
+| **long-itude**<br />【ˈlɑːndʒɪtuːd】 | **`long`**【长的】 + **`-itude`**, 表名词。即长度，用于地理经度，比较latitude。<br/>**`long-`** = long, 表示“长”。源自拉丁语 longus "long."<br/>**`-itude`** 表名词，“性质，状态等”。源自拉丁语 -tindo, abstract noun suffix.<br />经度 | **lat-itude**                <br />【ˈlætɪtuːd】 | **`lat-`** = wide 表示“宽”。源自拉丁语 latus "broad, wide."<br/>**-itude** 表名词，“性质，状态等”。源自拉丁语 -tindo, abstract noun suffix.<br/>纬度;纬度地区;选择(做什么事或做事方式)的自由 |
+| **multi-tude**<br />【ˈmʌltɪtuːd】   | multi- <br/>表示“很多，很多”。源自拉丁语 multus "many, much."<br/>群众;众多;大量;人群;民众;大批百姓 | **Merid-ian**<br />【məˈrɪdiən】                 | A meridian is an imaginary line from the North Pole to the South Pole. Meridians are drawn on maps to help you describe the position of a place.<br />子午线;经线<br />prime meridian：本初子午线；本初子午圈：meridian at zero degree longitude from which east and west are reckoned (usually the Greenwich longitude in England) |
+| alt-itude                            |                                                              | ampl-itude                                       |                                                              |
+| apt-itude                            |                                                              | in-ept-itude                                     | ,                                                            |
+| beat-itude                           |                                                              | coorect-itude                                    | 端正，得体                                                   |
+| cert-itude                           | 确实性，确信                                                 | in-cert-itude                                    |                                                              |
+| crass-itude                          | 粗俗，愚钝                                                   | att-itude                                        |                                                              |
+| de-crep-itude                        |                                                              | dis-simil-itude                                  |                                                              |
+| **fort-itude**<br />【ˈfɔːrtɪtuːd】  | **`fort-`**强 + **`-itude`**, 表示状态 → 强的状态<br />**`fort-`** = strong, 表示“强大，力量”。源自拉丁语 fortis "strong."<br />If you say that someone has shown **fortitude**, you admire them for being brave, calm, and uncomplaining when they have experienced something unpleasant or painful. | exact-itude                                      |                                                              |
+| grat-itude                           |                                                              | in-exact-itude                                   |                                                              |
+| lass-itude                           |                                                              | infinit-ude                                      |                                                              |
+| magn-itude                           |                                                              | omni-tude                                        |                                                              |
+| plat-itude                           |                                                              | plen-itude                                       |                                                              |
+| prompt-itude                         |                                                              | pulchr-itude                                     |                                                              |
+| rect-itude                           |                                                              | serv-itude                                       |                                                              |
+| simil-itude                          |                                                              | sol-itude                                        |                                                              |
+| veri-simil-itude                     |                                                              | vast-itude                                       |                                                              |
+
 ### archi-pelago [ˌɑːrkɪˈpeləɡoʊ]
 
 **archipelago**（群岛）：希腊人的“主海”
@@ -129,4 +160,8 @@ ceno-
 
 
 **archi-  = ruler, rule, chief, 表示“统治者，统治，主要的”。来自希腊语 arch "rule or government。"**
+
+
+
+
 

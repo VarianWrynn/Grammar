@@ -47,7 +47,7 @@ Expect all of this to be wrong: Things can switch up on you every time you cross
 
 ### duke（公爵）：罗马帝国时期的蛮族军事统帅
 
-<img src="F:\Lee\Githubs\Grammar\RootOrigin\images\image-20211009083649552.png" alt="image-20211009083649552" style="zoom:90%;" />
+<img src="./images/image-20211009083649552.png" alt="image-20211009083649552" style="zoom:90%;" />
 
 在古罗马时代，出身为日耳曼或凯尔特蛮族而作为雇佣军为罗马军队所用的将帅，由于没有正式的罗马军衔而统称为***Dux***，是“***军队首领***”的意思。该词来自拉丁语动词***ducere***（领导、引导），这就是英语单词**Duke**（公爵）的来源。英语词根**`duc-`**（引导）与此同源。
 
