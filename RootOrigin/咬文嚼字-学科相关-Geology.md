@@ -8,7 +8,7 @@
 
 https://upload.wikimedia.org/wikipedia/commons/7/77/Geologic_Clock_with_events_and_periods.svg
 
-<img src="F:\Lee\Githubs\Grammar\RootOrigin\images\Geologic_Clock_with_events_and_periods.svg" alt="Geologic_Clock_with_events_and_periods"  />
+<img src="./images/Geologic_Clock_with_events_and_periods.svg" alt="Geologic_Clock_with_events_and_periods"  />
 
 
 
@@ -28,9 +28,9 @@ https://upload.wikimedia.org/wikipedia/commons/7/77/Geologic_Clock_with_events_a
 
 ### 3. 单位表
 
-<img src="F:\Lee\Githubs\Grammar\RootOrigin\images\image-20211012145832780.png" alt="image-20211012145832780" style="zoom:80%;" />
+<img src="./images/image-20211012145832780.png" alt="image-20211012145832780" style="zoom:80%;" />
 
-<img src="F:\Lee\Githubs\Grammar\RootOrigin\images\image-20211012150043267.png" alt="image-20211012150043267" style="zoom: 70%;" />
+<img src="./images/image-20211012150043267.png" alt="image-20211012150043267" style="zoom: 70%;" />
 
 
 
@@ -164,4 +164,18 @@ ceno-
 
 
 
+
+### glacier | glaci-ier 【ˈɡleɪʃər】 冰川
+
+推荐：
+glaci-冰 + -er。
+
+glac∙ier  [词根树]
+**`glaci-`** 
+表示“冰；光滑”。源自拉丁语 glacies "ice."
+更多同源词...
+**`-ier`** {24}
+表名词，“人或物”。
+
+A **glacier** is an extremely large mass of ice which moves very slowly, often down a mountain valley.
 
