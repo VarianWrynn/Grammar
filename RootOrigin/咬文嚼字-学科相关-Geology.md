@@ -92,19 +92,61 @@ https://upload.wikimedia.org/wikipedia/commons/7/77/Geologic_Clock_with_events_a
 
 
 
-#### mes- / meso -  = middle, 表示“中间、中部”
+#### 3. mes- / meso -  = middle, 表示“中间、中部”
 
 mes-,meso- 
 = middle, 表示“**中间、中部**”，也构成表示“**系膜**”的解刨学词汇。源自希腊语 mesos "middle."
 
 
 
-#### 4 Ceno-  表示“新的，近期的”
+#### 4. Ceno-  表示“新的，近期的”
 
 ceno- 
 表示“新的，近期的”。源自希腊语 kainos "new, fresh, recent, novel."
 
 
+
+
+
+### Crust
+
+<img src="./images/Earth_poster.svg" alt="Crust (geology) - Wikipedia" style="zoom: 36%;" />
+
+
+
+![image-20211108172452341](./images/image-20211108172452341.png)
+
+#### mantle 
+
+> 一开始应该是表示一种（旧时候的）披风、斗篷。后来指代覆盖物，引申出责任和衣钵，地质学上特质地球的地幔。
+
+
+
+- [sing.] the ~ of sb/sth （可继承的）责任，职责，衣钵：the role and responsibilities of an important person or job, especially when they are passed on from one person to another
+
+  >  The vice-president must now take on the mantle of supreme power.
+
+- 覆盖层：a layer of sth that covers a surface
+
+  > hills with a mantle of snow
+
+- （尤指旧时的）披风，斗篷：a loose piece of clothing without sleeves, worn over other clothes, especially in the past
+
+- （煤气灯的）白炽罩：a cover around the flame of a gas lamp that becomes very bright when it is heated
+
+- (geology 地) 地幔：the part of the earth below the crust and surrounding the core
+
+
+
+
+
+**Reference：**
+
+1. [Cloak Vs Cape: What Is the Difference? -- Silver Bobbin](https://silverbobbin.com/cloak-vs-cape/)
+2. [What’s the Difference between Capes and Cloaks?--Raven Fox Capes](https://ravenfoxcapes.com/2018/05/difference-capes-vs-cloaks/)
+3. [Mantle (clothing)--Wikipedia](https://en.wikipedia.org/wiki/Mantle_(clothing))
+4. [Cloak--Wikipedia](https://en.wikipedia.org/wiki/Cloak)
+5. [**Fantasy Wardrobe**: Cloaks, Mantles and Capes](https://inky-duchess.tumblr.com/post/183312538353/fantasy-wardrobe-cloaks-mantles-and-capes)
 
 ## Geography 地理
 
@@ -123,7 +165,7 @@ ceno-
 
 | 单词                                 | 解释                                                         | 单词                                             | 解释                                                         |
 | ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------ |
-| **long-itude**<br />【ˈlɑːndʒɪtuːd】 | **`long`**【长的】 + **`-itude`**, 表名词。即长度，用于地理经度，比较latitude。<br/>**`long-`** = long, 表示“长”。源自拉丁语 longus "long."<br/>**`-itude`** 表名词，“性质，状态等”。源自拉丁语 -tindo, abstract noun suffix.<br />经度 | **lat-itude**                <br />【ˈlætɪtuːd】 | **`lat-`** = wide 表示“宽”。源自拉丁语 latus "broad, wide."<br/>**-itude** 表名词，“性质，状态等”。源自拉丁语 -tindo, abstract noun suffix.<br/>纬度;纬度地区;选择(做什么事或做事方式)的自由 |
+| **long-itude**<br />【ˈlɑːndʒɪtuːd】 | **`long`**【长的】 + **`-itude`**, 表名词。即长度，用于地理经度，比较latitude。<br/>**`long-`** = long, 表示“长”。源自拉丁语 longus "long."<br/>**`-itude`** 表名词，“性质，状态等”。源自拉丁语 -tindo, abstract noun suffix.<br />经度 | **lat-itude**                <br />【ˈlætɪtuːd】 | **`lat-`** = wide 表示“宽”。源自拉丁语 latus "broad, wide."<br/>**-itude** 表名词，“性质，状态等”。源自拉丁语 -tindo, abstract noun suffix.<br/>纬度;纬度地区;选择(做什么事或做事方式)的自由。<br /><br />temperate latitude**s**: 温带地区;温带 |
 | **multi-tude**<br />【ˈmʌltɪtuːd】   | multi- <br/>表示“很多，很多”。源自拉丁语 multus "many, much."<br/>群众;众多;大量;人群;民众;大批百姓 | **Merid-ian**<br />【məˈrɪdiən】                 | A meridian is an imaginary line from the North Pole to the South Pole. Meridians are drawn on maps to help you describe the position of a place.<br />子午线;经线<br />prime meridian：本初子午线；本初子午圈：meridian at zero degree longitude from which east and west are reckoned (usually the Greenwich longitude in England) |
 | alt-itude                            |                                                              | ampl-itude                                       |                                                              |
 | apt-itude                            |                                                              | in-ept-itude                                     | ,                                                            |
