@@ -1,4 +1,4 @@
-# 咬文嚼字-学科相关-Biology(生物学)
+# 咬文嚼字-学科相关-Biology and Medicine
 
 @(TOEFL)[托福, TOEFL, 词根词缀,咬文爵字,学科相关]
 
@@ -79,3 +79,68 @@ Celsius（摄氏度）：发明摄氏温标的瑞典科学家摄尔修斯。
 
 A **larva** is an insect at the stage of its life after it has developed from an egg and before it changes into its adult form.
 
+
+
+
+
+## Medicine [ˈmedɪsn]
+
+### placebo（安慰剂）
+
+#### 背景
+
+英语单词**placebo**（安慰剂）来自拉丁语，原本指基督教葬礼中为死者念的祷词。
+
+<img src="./images/image-20211115094058665.png" alt="image-20211115094058665" style="zoom: 50%;" />
+
+在基督教中，当人去世后要在教堂举行葬礼，在葬礼上要为他念祷词。祷词的第一句是“**I will please the Lord in the land of the living**”（我将愉悦尘世之主）。在拉丁语中，该祷词的第一个词是placebo，是拉丁语动词placere（使人愉悦，等于please）的未来陈述式，等于英语中的“I will please（我将愉悦）”。因此，人们就将这段祷词称为placebo。
+
+由于人们所念的祷词往往会有意美化死者，因此人们就把那种阿谀奉承的话称为placebo，将阿谀奉承的行为称为sing placebos。
+
+18世纪的英国名医William Cullen大力宣扬“安慰疗法”，并用placebo来表示“安慰剂”，即无特定疗效的方法或药物，仅仅用来舒缓患者情绪，使其心情愉悦。
+
+<img src="./images/image-20211115094322604.png" alt="image-20211115094322604" style="zoom:67%;" />
+
+现代医学已经证实安慰疗法的有效性，尤其是针对某些特定的疾病，安慰剂/疗法能够快速治愈或至少能极大地缓解病人的症状。从此后，安慰疗法得到广泛应用，而placebo（安慰剂）这一术语也得到广泛应用。
+
+
+
+#### 词根
+
+单词**placebo**中，**`plac-`**是个词根，意思就是“愉悦，满意，平静”，常见单词**please**就来自这个词根，只不过在法语中发生了音变，导致拼写发生较大变化。
+
+**please**原本是个动词，表示“使人愉悦，使人满意”，比如
+
+> I did it to please my parents. 我这么做是为了让父母高兴。
+
+在日常生活中，**please**常常用作[插入语](https://baike.baidu.com/item/%E6%8F%92%E5%85%A5%E8%AF%AD/5391607?fr=aladdin)(**parenthesis**)，表示礼貌地请求或吩咐，比如：
+
+> Please sit down. 请坐。Two coffees, please. 请来两杯咖啡。
+
+**please**还派生出名词**pleasure**（快乐，愉悦，欣慰）和形容词**pleasant**（令人愉悦的，惬意的）。在这里，**please**都取其本意，表示“使愉悦，使满意”。
+
+由词根**`plac-`**（愉悦，满意，平静）派生出的常见单词还有**placate**，后面加了一个常见动词后缀**`-ate`**，构成动词，表示“抚慰，安抚，使满意”，比如：
+
+> ***The concessions did little to placate the students***. 让步根本未能平息学生的愤怒。
+
+单词**placid**也来自词根**`plac-`**，后面加了一个形容词后缀**`-id`**，意思是“温和的，平静的”，比如：
+
+> This horse has a placid nature.这匹马性情温和。
+>
+> The placid water of a small lake（小湖平静的水面）。
+
+
+
+#### 相关单词
+
+- 词根**plac**-：愉悦，满意，平静
+- **placebo**：[plə'siːbəʊ] n.安慰剂，为死者念的祷词，阿谀奉承的话
+- **please**：[pliːz] vt.使愉悦，使满意；int.请，拜托
+- **pleasure**：[ˈpleʒə(r)] n.快乐，愉悦，欣慰
+- **pleasant**：[ˈpleznt] adj.令人愉悦的，惬意的
+- **placate**：[pləˈkeɪt] vt.抚慰，安抚，使满意
+- **placid**：[ˈplæsɪd] adj.温和的，平静的
+
+
+
+1. [词源趣谈 | 死人和活人都需要的placebo（安慰剂）](https://mp.weixin.qq.com/s/vrP08asSBbgq1MG1iQ69zg)
