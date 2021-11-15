@@ -22,7 +22,7 @@
 | **Tellur-ium**<br />【teˈlʊriəm】                            | 碲。词源来自古罗马神话大地女神忒勒斯                         | **Selen-ium**<br />【səˈliːniəm】                    | 1817 瑞典化学家柏采利乌斯（**Berzelius**）在生产硫酸过程中发现一种红色粉末，发现它 是一种性质与碲相似的新元素。为了使之与罗马大地女神忒勒斯（**Tellus**）之意命名的碲 （**Tellurium**）相对应，便以希腊神话中的月亮女神塞勒涅的名字命名，称为 **Selenium**（硒）。<br />硒(化学元素，用于制造电气设备和有色玻璃，人体缺此元素可致抑郁等病) |
 | **hel-ium**<br />【ˈhiːliəm】                                | 1868 年法国的**杨森**利用分光镜观察太阳表面，发现一条新的黄色谱线，并认为是属于太阳上的某个未知元素，故名氦（**helium**）。<br />a chemical element. Helium is a very light gas that does not burn, often used to fill balloons and to freeze food. | **cerium**<br />【ˈsɪriəm】                          | 化学元素铈（**cerium**）也是以谷物女神的名字命名的。<br />a chemical element. Cerium is a silver-white metal used in the production of glass and ceramics . |
 | **lith-ium**<br />【ˈlɪθiəm】                                | **`lith-`** 表示化学元素“锂”，因锂元素发现于石头中而得名。源自希腊语 lithos "stone."<br />a chemical element. Lithium is a soft, very light, silver-white metal used in batteries and alloys . | **cadm-ium**<br />【ˈkædmiəm】                       | 镉元素（**cadmium**）以卡德摩斯的名字命名。这是因为镉元素是从菱锌矿（**cadmia**）中发现的，而菱锌矿最早是在底比斯城附近发现的，故采用底比斯城的古名 **Cadmia**（卡德摩斯之城）来命名。 |
-|                                                              |                                                              |                                                      |                                                              |
+| german-ium<br />【dʒɜːrˈmeɪniəm】                            |                                                              |                                                      |                                                              |
 
 
 
