@@ -4,7 +4,19 @@
 
 ## Biology(生物学)
 
+
+
 ###  [Taxonomic rank](https://en.wikipedia.org/wiki/Taxonomic_rank)
+
+
+
+### phyt- = plant, 表示“植物” {37}
+
+|                                              |                                                              |                                             |                                |
+| -------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------- | ------------------------------ |
+| **phyt-o-plankton**<br />【ˌfaɪtoʊˈplæŋtən】 | **`phyto-`** = plant, 表示“植物”。源自希腊语 phutos, phuton "a plant."<br/>**plankton** n. (总称)浮游生物<br />浮游藻;植物性浮游生物;浮游植物;浮游藻类;浮游植物群落<br />very small plants that float near the surface of water and on which sea creatures feed | **ceno-phyte**      <br />                  | 【植】新生代植物               |
+|                                              |                                                              | **phyt-o-bilogy**<br />【faɪtəʊbaɪ'ɒlədʒɪ】 | phyto-植物 + biology【生物学】 |
+|                                              |                                                              |                                             |                                |
 
 
 
