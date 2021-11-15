@@ -127,17 +127,32 @@ At least 25 dead [as](https://mp.weixin.qq.com/s/kgreEzFCkLmzwM4OsLWTYg) rains d
 
 #### As … as
 
+<img src="./image-20211115161255225.png" alt="image-20211115161255225" style="zoom: 80%;" />
+
+**as…as…**意为"和……一样"，表示同级的比较。使用时要注意：
+
+- 第一个as为**副词**，
+- 第二个as为**连词**。
+
+
+
+
+
+其基本用法为as+ adj./ adv. +as…
+
+
+
 You can stay on for <u>as many</u> days <u>as you like</u>.
 
 这是一组**作比较的连接词**，外加在**`限定从句`you like上面**，构成作**比较的副词从句**，**修饰限定符many**。
 
-#### As well as
+##### As well as
 
 >  ***You use `as well as` when you want to mention another item connected with the subject you are discussing.***
 
 **As well as有两种用法：**
 
-#####  1. As well as 构成同级比较结构：
+######  1. As well as 构成同级比较结构：
 
 As well as 构成同级比较结构，意为“和...一样好”。 这时：`第一个 as 是副词，第二个 as 是连接词，引导一个 状语从句，表示同级比较`;
 
@@ -145,7 +160,7 @@ As well as 构成同级比较结构，意为“和...一样好”。 这时：`�
 - He can operate the machine as well as me.
 -  It is in his best interests as well as yours.
 
-##### 2. As well as 用作连接词
+###### 2. As well as 用作连接词
 
 As well as 用作连接词，连接两个并列的同等成分，其意义为“不但...而且.. / 既....又....”，这时候相当于“not only...but also...”
 
@@ -162,11 +177,19 @@ As well as 用作连接词，连接两个并列的同等成分，其意义为“
 --------------------------
 
 
-#### As far as
+##### As far as
 
 As far as I know, your friend had no part in the scandal. (就我所知，你的朋友并未涉入这桩丑闻。)
 
 外加连接词as far as构成表示**程度的副词从句**，**`修饰整个主要从句`**。
+
+
+
+##### Reference:
+
+1。 [[语法] as...as...句型，这两个 as 分别什么词性？](https://mp.weixin.qq.com/s/BD6kOuqlVFjLTB7URkmz3w)
+
+
 
 #### As if [方法、状态]
 

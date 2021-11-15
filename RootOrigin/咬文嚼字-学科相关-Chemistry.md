@@ -22,7 +22,8 @@
 | **Tellur-ium**<br />【teˈlʊriəm】                            | 碲。词源来自古罗马神话大地女神忒勒斯                         | **Selen-ium**<br />【səˈliːniəm】                    | 1817 瑞典化学家柏采利乌斯（**Berzelius**）在生产硫酸过程中发现一种红色粉末，发现它 是一种性质与碲相似的新元素。为了使之与罗马大地女神忒勒斯（**Tellus**）之意命名的碲 （**Tellurium**）相对应，便以希腊神话中的月亮女神塞勒涅的名字命名，称为 **Selenium**（硒）。<br />硒(化学元素，用于制造电气设备和有色玻璃，人体缺此元素可致抑郁等病) |
 | **hel-ium**<br />【ˈhiːliəm】                                | 1868 年法国的**杨森**利用分光镜观察太阳表面，发现一条新的黄色谱线，并认为是属于太阳上的某个未知元素，故名氦（**helium**）。<br />a chemical element. Helium is a very light gas that does not burn, often used to fill balloons and to freeze food. | **cerium**<br />【ˈsɪriəm】                          | 化学元素铈（**cerium**）也是以谷物女神的名字命名的。<br />a chemical element. Cerium is a silver-white metal used in the production of glass and ceramics . |
 | **lith-ium**<br />【ˈlɪθiəm】                                | **`lith-`** 表示化学元素“锂”，因锂元素发现于石头中而得名。源自希腊语 lithos "stone."<br />a chemical element. Lithium is a soft, very light, silver-white metal used in batteries and alloys . | **cadm-ium**<br />【ˈkædmiəm】                       | 镉元素（**cadmium**）以卡德摩斯的名字命名。这是因为镉元素是从菱锌矿（**cadmia**）中发现的，而菱锌矿最早是在底比斯城附近发现的，故采用底比斯城的古名 **Cadmia**（卡德摩斯之城）来命名。 |
-|                                                              |                                                              |                                                      |                                                              |
+| **german-ium**<br />【dʒɜːrˈmeɪniəm】                        | **锗**。来自其发现者 19 世纪德国科学家 Clemens Alexander Winkler 以祖国 Germany 命名的金属元素。<br /> chemical element. Germanium is a shiny grey element that is similar to a metal (= is a metalloid ) . | **irid-ium**<br />【ɪˈrɪdiəm】                       | a chemical element. Iridium is a very hard yellow-white metal, used especially in making alloys . |
+| **holm-ium**<br />【ˈhoʊlmiəm】                              | Holmium 1 - 来自 **Holmia**,***瑞典首都 Stockholm 拉丁名字***，该稀土元素发现者 19 世纪瑞典化学家 Per TeodorCleve 以此命名，以纪念他的家乡。 |                                                      |                                                              |
 
 
 
@@ -158,3 +159,50 @@ l**`yst-`** = break down, 表示“裂开，分解，溶解”。源自希腊语
 - **ammoniac**：[ə'məʊnɪæk] adj.氨的，含氨的
 - **ammonium**：[əˈməʊniəm] n.氨基，铵盐
 
+
+
+#### 2. plumb 古罗马垂直的铅块
+
+##### 古罗马的灭亡可能与铅(plumb)有关
+
+在英语中，表示“水管工”的单词是**plumber**，由**`plumb`**（铅）+**`er`**（人）组成，字面意思就是“铅制品工人”。水管与铅制品有什么关系呢？原来，这是因为在古罗马时期，人们广泛用铅来制作水管。
+
+<img src="./images/image-20211115103602618.png" alt="image-20211115103602618" style="zoom:67%;" />
+
+
+
+古罗马人的冶金技术已经相当发达。在冶炼白银的过程中，他们得到了副产品铅。古罗马人发现金属铅具有很好的特性，用铅制成的日常器皿能保持持久光亮，不会像铜器那样产生绿绣。因此，古罗马人用铅做成水管，构建了四通八达的地下管道。这些管道中含有的金属铅逐步溶解之水中，被喝进罗马人的身体内，甚至是孕妇的体内。就这样，一代又一代的罗马人都受到了严重的铅中毒。很多科学家认为，铅中毒是古罗马帝国破落的重要原因之一。
+
+<img src="./images/image-20211115103629644.png" alt="image-20211115103629644" style="zoom:67%;" />
+
+
+
+##### 吃蘑菇超人的超级玛利亚是plumber
+
+在拉丁语中，***plumbum***表示“铅”，由此衍生出英语单词**plumb**（铅）和词根**`plumb-`**（铅）。由于古罗马的上下水管道都是用铅制成的，因此安装、维修这些管道的工人在英语中就被称为**plumber**（铅制品工人）了，而单词**plumbing**既可以表示“铅工业”，也可以表示“水管工业”。
+
+##### 铅锤plummet
+
+古人还发现铅的比重较大，特别适合用来确定垂直线，不容易因为风、水流等偏离垂直方向，所以英语单词**plumb**除了表示“铅”以外，还可以表示“**垂直状态、垂直的、使垂直**”等含义。单词**plummet**指用来确定垂直线的铅锤或铅坠，是**plumb**的指小形式，字面意思就是“小铅块”。
+
+<img src="./images/image-20211115103659010.png" alt="image-20211115103659010" style="zoom:67%;" />
+
+
+
+##### 像铅块一样临风不动 aplomb
+
+英语单词**aplomb**由**a**（on，位于，处于）和**plomb**（=plumb，垂直的）组成，字面意思就是“像铅垂那样处于垂直状态”。由于铅垂不易受外部因素影响而左右乱动，所以**aplomb**引申出“**沉着、泰然自若**”的含义。比如：
+
+> Diana passed the test with aplomb. 戴安娜沉着地通过了考试。
+
+<img src="./images/image-20211115103722131.png" alt="image-20211115103722131" style="zoom:67%;" />
+
+##### 铅块投入湖水中 plunge
+
+英语单词**plunge**（投入、跳入）其实也与**plumb**同源。它来自拉丁语，由词根**`plumb-`**（铅）和动词后缀组成，字面意思就是“将铅坠投入水中”。由于在法语中发生了音变，导致它的拼写发生了较多变化。
+
+
+
+Reference:
+
+1. [词源趣谈：对plumb（铅）的痴迷，居然导致了古罗马帝国的灭亡](https://mp.weixin.qq.com/s/DwOswolKpE04i1D446Cr9w)
