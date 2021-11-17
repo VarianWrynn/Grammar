@@ -30,6 +30,12 @@ New TOEFL Speaking Guide by BestMyTest, Dennis.
 
 
 
+**Structure of the Speaking Template**:
+
+
+
+
+
 ## Sample answers
 
 >  4x Speaking sample answers
