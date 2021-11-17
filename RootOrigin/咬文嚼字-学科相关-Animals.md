@@ -45,3 +45,56 @@ n. 小脏孩;贫穷肮脏的儿童;流浪儿
 - **alligator**：['ælɪgeɪtə]  n.短吻鳄，美洲鳄
 
 - **crocodile**：[ˈkrɒkədaɪl] n.鳄鱼
+
+
+
+## Petrel, Parrort, Parakeet
+
+### **Petrel**:
+
+海燕在觅食时，像小海鸥一样自水面飞掠而过，偶尔降落水面，在海员看来，宛如圣彼得（**St. Peter**）之行于革尼撒勒湖（**Lake of Gennesareth**，即加利利海Sea of Galilee）上（见《圣经·马太福音》14:29）。
+
+因此，在意大利语中这种海鸟被称作**petrello**，意思是**Little Peter**（小彼得），英语名称**petrel**很可能即源于此，它原作pitteral/pittrel，法语名称pétrel则借自英语。
+
+英国海盗、探险家丹皮尔（William Dampier, 1652-1715）在他所写的《新荷兰之行》（Voyage to New Holland）一书的第一部分有关于海燕的一段记述：
+
+>  “As they fly...they pat the Water alternately with their Feet, as if they walk upon it; tho' still upon the Wing. (当它们飞翔时……它们用脚交替拍打水面，仿佛在水面上行走；虽然仍在飞翔。)
+>
+> And from hence the Seamen give them the name of Petrels, in allusion to St. Peter's walking upon the Lake of Gennesareth.”(因此，海员们给他们起了海燕的名字，意指圣彼得在根尼萨雷斯湖上行走。)
+
+丹皮尔是将海燕的英语名称与圣彼得相联系的第一人，可是他把原拼法**pitteral**改作**Petrel**。
+
+![Wilson&#39;s Storm Petrel - The Sound Approach](./images/PLate-Wilsons-Storm-Petrel_uit_INDD_2048.jpg)
+
+**petrel**常常被称作**stormy petrel**，因为海员迷信，海燕掠过海面预示暴风雨即将来临，而且他们观察到，即使在暴风雨中海燕也爱在海面上低飞，故在其名称前冠以**stormy**。海员还把**petrel**叫做***Mother Carey's chicken***，据认为Mother Carey乃拉丁文Mater cara 'dear Mother'（圣母玛利亚）的讹误拼法。按迷信说法，在海面低飞而过的海燕是圣母玛利亚所派，向海员预告暴风雨的来临。
+
+- stormy：有暴风雨(或暴风雪)的;群情激愤的;激烈争吵的
+
+### **petrify**　　
+
+/ˈpetrɪfaɪ/　v. 把……吓呆；使惊呆
+
+借自法语pétrifier，源自拉丁语petra 'stone'和facere 'to make'，故字面原义为“使变成石头”、“使石化”，今多用于喻义，表示“把……吓呆”或“使惊呆”，常用被动语态。（参见petrol）
+
+eg:
+
+- As soon as she got on stage she was petrified with fright. 她一登台就吓呆了。
+- He had the gun pointed at my head. I was absolutely petrified. (LLA) 他用枪指着我的头。我完全吓呆了。
+- I stood petrified as the dog came bounding up to me. 当那条狗朝我扑过来的时候，我吓得呆站在那里。
+
+
+
+**Parrot**
+
+n. 鹦鹉, 应声虫
+vt. 学舌, 机械地模仿
+【复数：parrots；过去分词：parroted；现在分词：parroting】
+1 - 词源不详，可能来自法语方言 Pierre,人名 Peter 的法语形式。比较 parakeet,petrel.由于该鸟学人说话的习惯，也用于形容人鹦鹉学舌。
+
+![image-20211117134249336](./images/image-20211117134249336.png)
+
+
+
+Parakeet
+
+![image-20211117134344729](./images/image-20211117134344729.png)
