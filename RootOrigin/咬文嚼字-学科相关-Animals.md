@@ -95,6 +95,9 @@ vt. 学舌, 机械地模仿
 
 
 
-Parakeet
+### Parakeet（虎皮鹦鹉）
 
 ![image-20211117134344729](./images/image-20211117134344729.png)
+
+**Common name**: [Parakeet](https://worldbirds.com/parakeet/), Budgerigar, Budgie 
+
