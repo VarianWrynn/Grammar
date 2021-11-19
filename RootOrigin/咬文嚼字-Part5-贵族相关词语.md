@@ -4,6 +4,8 @@
 
 
 
+[toc]
+
 ## [Do men ever visit Boston](https://www.quora.com/What-is-the-difference-between-a-duke-an-earl-a-lord-a-marquis-a-baron-and-a-count)
 
 You can keep the ranking straight with this mnemonic: "Do men ever visit Boston?" Thus: duke, marquis, earl, viscount, baron.
@@ -301,7 +303,9 @@ Reference: [词源趣谈：再大的minister（大臣、部长），其实也只
 
 **silhouette** - 18世纪中期有位法国作家，名叫**Étienne de Silhouette (1709-1767)**，他借助贵妇人**Madame de Pompadour**的影响于1759年当上了路易十五的财政大臣。他一上任便提出对贵族的房地产征收土地税，并实施财政紧缩政策，招致贵族的强烈反对，因而任职不到一年便遭罢免。
 
-18世纪下半叶至19世纪初是剪影的黄金时代，当时剪影在巴黎也十分流行，Silhouette业余爱好剪影。剪影是一种最简单的艺术形式，而Silhouette曾试图以最简单的方式来改变法国的财政状况。有人便把此一廉价艺术品叫做portrait la silhouette，随后索性以silhouette简称之，意在揶揄嘲讽Silhouette短暂的政治生涯，奚落其小小剪影终不成巨画。殊不知他的大名却从此载入辞书，不仅在法语中占了一席之地，而且还进入了英语词汇行列。二百余年来，其拼写形式一直保持稳定，词义也无甚变化，至今仍然指“剪影”，有时也指“黑色轮廓像”或“侧面影像”。作动词用时，表示“衬托出……的轮廓”。
+18世纪下半叶至19世纪初是剪影的黄金时代，当时剪影在巴黎也十分流行，**Silhouette**业余爱好剪影。剪影是一种最简单的艺术形式，而**Silhouette**曾试图以最简单的方式来改变法国的财政状况。有人便把此一廉价艺术品叫做**portrait la silhouette**，随后索性以silhouette简称之，意在揶揄嘲讽**Silhouette**短暂的政治生涯，奚落其小小剪影终不成巨画。
+
+殊不知他的大名却从此载入辞书，不仅在法语中占了一席之地，而且还进入了英语词汇行列。二百余年来，其拼写形式一直保持稳定，词义也无甚变化，至今仍然指“剪影”，有时也指“黑色轮廓像”或“侧面影像”。作动词用时，表示“衬托出……的轮廓”。
 
 例:
 
@@ -344,7 +348,9 @@ Reference: [词源趣谈：再大的minister（大臣、部长），其实也只
 
 
 
-### meritocracy 【ˌmerɪˈtɑːkrəsi】 精英领导体制;
+### meritocracy  精英领导体制
+
+> meritocracy【ˌmerɪˈtɑːkrəsi】
 
 **`merit`**  n. 优点, 价值; 功绩; 良好 v. 值得, 应得, 应受到。
 
@@ -352,6 +358,33 @@ Reference: [词源趣谈：再大的minister（大臣、部长），其实也只
 
 - meritocracy: n, 精英领导阶级
 - meritocratic: adj.  评功论赏的，任人唯才的，以功绩定地位的；
+
+
+
+### Prima nocta 首席夜行权
+
+<img src="./images/image-20211119132931651.png" alt="image-20211119132931651" style="zoom: 67%;" />
+
+[**Prima nocta**](http://noitsnotok.org/not-ok/prima-nocta-anyone/) (also known as “the right of the lord” or “the right of the first night”) refers to **a supposed medieval European legal right of lords to have sex with the newly married wife of another man on the night of their wedding**.
+
+Ahh, it’s good to be king. Or Tony Stark. One can only imagine the reasons why he would reinstate such a misogynistic law.
+
+So – does ignorance prevent this from being an example of normalized misogyny? Nope. As in most situations, **ignorance is no excuse, and if you didn’t know when what prima nocta meant, you do now**.
+
+> ## "Prima nocta" is the historical (and [probably mostly symbolic](http://www.snopes.com/weddings/customs/droit.asp)) right of a lord to insist on sex with any bride under his rule on her wedding night. It played a major part in *Braveheart*.
+
+
+
+**misogyny 【mɪˈsɑdʒəni】** 
+
+n. 厌恶女人；厌女症[癖]  Misogyny is a strong dislike of women.
+**`miso-`**坏的，错的，不好的 + -**`gyny`**, 妇女
+
+<img src="./images/image-20211119133301795.png" alt="image-20211119133301795" style="zoom:50%;" />
+
+**Reference:**
+
+1. [There's A Weird, Old-Timey Rape Joke In "Avengers: Age Of Ultron"](https://www.buzzfeed.com/alisonwillmore/theres-a-weird-old-timey-rape-joke-in-avengers-age-of-ultron)
 
 
 
