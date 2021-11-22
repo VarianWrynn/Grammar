@@ -487,7 +487,7 @@ n. 厌恶女人；厌女症[癖]  Misogyny is a strong dislike of women.
 
 ### Parliament v.s Congress
 
-#### Parliament：起源于应该
+#### Parliament：起源于英国
 
 在英语中，表示一个国家的最高立法机构的常见单词是parliament，一般翻译为”议会“。这个单词来自拉丁语，前面的parlia-等于parley（会谈，谈判），后面加了一个抽象名词后缀-ment。整个单词的字面意思就是“会议、会谈”。
 
