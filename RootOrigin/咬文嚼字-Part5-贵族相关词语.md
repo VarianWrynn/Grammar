@@ -238,7 +238,7 @@ Reference:
 
 #### 首席，排在第一位的人
 
-单词prince来自古法语，源自拉丁语princeps，由词根prim-（第一，first）和cap-（拿，take）组合而成，字面意思就是“the one who takes the first（place/position）”（首席，排在第一位的人）。
+单词**prince**来自古法语，源自拉丁语***princeps***，由词根**`prim-`**（第一，first）和**`cap-`**（拿，take）组合而成，字面意思就是“the one who takes the first（place/position）”（首席，排在第一位的人）。
 
 <img src="./images/image-20211119141640065.png" alt="image-20211119141640065" style="zoom: 50%;" />
 
@@ -482,6 +482,126 @@ n. 厌恶女人；厌女症[癖]  Misogyny is a strong dislike of women.
 **Reference:**
 
 1. [There's A Weird, Old-Timey Rape Joke In "Avengers: Age Of Ultron"](https://www.buzzfeed.com/alisonwillmore/theres-a-weird-old-timey-rape-joke-in-avengers-age-of-ultron)
+
+
+
+### Parliament v.s Congress
+
+#### Parliament：起源于应该
+
+在英语中，表示一个国家的最高立法机构的常见单词是parliament，一般翻译为”议会“。这个单词来自拉丁语，前面的parlia-等于parley（会谈，谈判），后面加了一个抽象名词后缀-ment。整个单词的字面意思就是“会议、会谈”。
+
+<img src="./images/image-20211122142658778.png" alt="image-20211122142658778" style="zoom: 67%;" />
+
+议会（**parliament**）最早诞生于英国。英国议会渊源于古代的贤人会议，后来发展为大会议，1265年召开的西蒙议会是英国议会的萌芽，而1295年召开的模范议会则被认为是英国议会诞生的标志。
+
+![image-20211122142800145](./images/image-20211122142800145.png)
+
+#### Congress: 起源于美国
+
+英国议会迄今已有700多年的历史，被称为“议会之母”。其他西方国家的议会也一般叫作parliament，唯独有一个国家例外，这个国家就是美国。美国的议会叫作**congress**，常常翻译为“国会”。为什么叫法不一样呢？这是由它独特的历史造成的。
+
+18世纪70年代，英国在北美的13个殖民地为了反抗英国的压榨，决定联合起来开展斗争。弗吉尼亚和马萨诸塞这两个殖民地的议会先后通过决议，决定召开北美殖民地的代表大会，称为Continental Congress of the United Colonies，这就是历史上著名的“大陆会议”。
+
+<img src="./images/image-20211122142850040.png" alt="image-20211122142850040" style="zoom:80%;" />
+
+单词congress来自拉丁语，由常见前缀con（全部，一起）和动词词根grad-（迈步、行走）的过去分词形式gress-组成，字面意思就是“大家走到一起来”，也就是“集会、会议”。
+
+1774年，第一届大陆会议在费城召开，除佐治亚缺席外，其他12个殖民地的55名代表都参加了会议。在大陆会议的统一指挥下，北美各殖民地联合起来，开展了反抗英国、争取独立的革命运动。在革命运动中，大陆会议成为了协调各殖民地行动的最高政治机构，扮演了临时政府的角色。
+
+<img src="./images/image-20211122142921893.png" alt="image-20211122142921893" style="zoom: 80%;" />
+
+美国独立后，成立了联邦政府，大陆会议（Continental Congress）就演变成了现在的美国国会（Congress of the United States）。这就是美国国会不是parliament而是congress的原因。
+
+美国国会的男议员叫做congressman，女议员叫做congresswoman。这两个单词一般指的是众议院（House of Representatives）的议员，因为参议院（Senate）的议员有另一个名称，叫做senator（参议员）。
+
+#### 相关单词
+
+- **parliament**：[ˈpɑːləmənt] n.议会，国会，英国议会
+- **parley**：[ˈpɑːli] n.v.会谈，谈判
+- **congress**：[ˈkɒŋɡres] n.国会，议会，国民大会，美国国会
+- **congressman**：[ˈkɒŋɡrəsmən] n.美国国会男议员，众议院男议员
+- **congresswoman**：[ˈkɒŋɡrəswʊmən] n.美国国会女议员，众议院女议员
+- **senate**：[ˈsenət] n.美国参议院，古罗马元老院
+- **senator**：[ˈsenətə(r)] n.美国参议员，古罗马元老院议员
+
+
+
+#### Senate 参议院
+
+senate - 今天某些西方国家的参议院乃起源于古罗马的元老院。
+
+元老院在拉丁语作***senātus***。senātus是从senex 'old (man)'派生的，故含有“老人班子”（council of elders）之意。事实也如此，因为在古罗马只有老人才被认为是真正的贤哲。无怪乎汉语译之为“元老院”。
+
+英语的senate就是源自拉丁文senātus的，于13世纪进入英语。它既指“元老院”，也指“参议院”。不同的只是今日之senate不尽由老人组成，senator（参议员）未必都是老的了，按美国宪法，年满30岁便可竞选参议员了。
+
+senate有时也指某些大学里由教授组成的“评议会”或“理事会”。
+
+除了**senator**，英语还有几个词，如**senior**（年长的），**senile**（因年老而糊涂的），**senescent**（变老的）等也源自拉丁语***senex***。
+
+例　
+
+- The United States Senate has 100 senators, two from each state. (NED) 美国参议院有100名参议员，每个州2名。
+- One term in the United States Senate lasts six years. (NED) 美国参议院的任期为六年。
+- The Senate is/are debating the issue next week. (CID) 参议院下周将辩论这个问题。
+- The faculty senate voted to punish the students caught cheating. (NED) 教员评议会投票决定处罚作弊的学生。
+
+
+
+**senate（参议院）：古罗马的元老院**
+
+在古罗马的酋长制时代，为了辅助酋长治理国家，由氏族长老会议演变产生了“元老院”。所谓“元老院”，就是由组成国家的各个部落中的长老们构成的政治机构，是存续时间最长的古罗马国家机构。
+
+古罗马共和国时代，元老院由前任国家长官和其他贵族代表组成，共300名，拥有立法权，掌管财政和外交，统辖行省，主持重大宗教活动。
+
+在共和国的最后几十年里，由于议员腐败、自身改革失败及贵族议员对平民的排斥，元老院的威望降低。由于军阀崛起，元老院的权力被消弱。
+
+后来，恺撒大帝把元老院的员额增加到900。罗马帝国时代，国家权力被逐渐地转移到皇帝的名下。元老院实权日趋缩小，但仍是贵族统治的重要支柱。
+
+在英语中，古罗马的“元老院”就叫做**senate**，源自拉丁语***senatus***，字面意思就是“***council of elders***”（长老们组成的委员会），源自拉丁语***senex***（老人、长老）。
+
+英国议会中的“**上院**”和美国国会中的“参议院”其实都源自古罗马的“元老院”，所以它们也都叫做**senate**。senate里面的成员就叫做senator（参议员）。
+
+- **senate**：['senɪt] n.（古罗马）元老院，英国议会上院，美国国会参议院
+- **senator**：['senətə] n.参议员，元老
+- **senile**：['sinaɪl] adj. 高龄的；老衰的；高龄所致的
+- **senior**：['sinɪɚ] 
+  - adj. 高级的；年长的；地位较高的；年资较深的，资格较老的
+  - n. 上司；较年长者；毕业班学生
+
+
+
+### beggar 乞丐
+
+**beggar** - beg（乞讨）由beggar（乞丐）逆生而来，许多关于英语构词法的书都谈及这一点，可是beggar的由来却鲜为人知。
+
+公元12世纪，列日（Liège，今比利时东部城市）有一个天主教神父，因其口吃，人称Lambert le Begue，意即Lambert the Stammerer（结巴Lambert）。他在荷兰和比利时创建了一个名为Beguine的半世俗女修道会（the Beguine Sisterhood），其成员称为Beguine，可以结婚，也可重返世俗。她们在低地国家和德国、法国、瑞士及意大利等国曾经活跃一时。
+
+随后在荷兰、比利时等低地国家又相继出现了若干个性质类似的宗教团体——修道兄弟会（monastic fraternities），其成员无须立誓，故亦可随意返俗，还可拥有私人财产。人们根据Lambert le Begue的大名称之为Beghard。他们中有不少人是靠施舍物或救济金为生的，
+
+另有一些小偷、乞丐常常冒称Beghard四处行乞，因此Beghard名声不佳。古法语中有个意指“乞丐”的词begard便是据Beghard产生的，嗣后英语借用了该词，作beggar。因此，一般认为beggar来源于Beghard。（参见panhandle）
+
+例　
+
+- Beggars can't be choosers. 要饭的哪能挑肥拣瘦。
+- He tossed the beggar a coin. 他丢了一枚硬币给乞丐。
+- A street beggar held out his hand asking for a coin. (FWF) 一个街头叫化子伸手要钱。
+
+
+
+**beggar（乞丐）：中世纪的半世俗宗教团体贝格德**
+
+英语中表示乞讨的单词是beg，那么，表示“乞丐”的单词是什么呢？很多人以为是begger，其实应该是**beggar**。为什么是beggar而不是begger呢？原来，英语单词beggar并不是由beg衍生的，恰恰相反，**单词beg才是由beggar反向衍生的**。
+
+单词**beggar**源自中世纪时期流行于北欧低地国家如荷兰、比利时的一个半世俗宗教团体贝格德Beghard。他们由男性基督教徒构成，是介于僧侣和世俗信徒之间的一种修行团体。他们放弃私人财产，群居在修道院中，但可以随时还俗。
+
+Beghard的成员在古法语单词被称作begart。他们很多人就像中国的僧尼那样到处托钵化缘为生，很多真正的乞丐也会冒充begart。久而久之，人们就把begart和乞丐划上了等号。英语单词beggar就来源于古法语begart，已经丧失了初始含义，变成了“乞丐”的意思。
+
+- beggar： ['begə] n.乞丐，乞讨者
+- beg： [beg] v.乞求，乞讨
+- beggary： ['bɛgɚri] n. 赤贫；卑劣；行乞
+
+> **beggars can't be choosers**要饭的哪能挑肥拣瘦。饿昏了的你要求别人给你些吃的，人家好心给你俩馒头，你还嫌弃不是驴肉火烧。概括起来，受人恩惠是“是”或“否”即yes or no的问题，而不是多和少或好和坏的问题。I don't care much for the Christmas present, for beggars can't be choosers. 
 
 
 
