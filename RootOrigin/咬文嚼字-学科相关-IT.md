@@ -42,3 +42,16 @@ vt. 切碎, 搞糟
 - **Messiah**：[mə'saɪə] n.弥赛亚，救世主
 - **Christian**：['krɪstʃən] n. 基督徒，信徒adj. 基督教的；信基督教的
 - **Christianity**：[,kristi'ænəti] n.基督教；基督教精神，基督教教义
+
+
+
+## Apocalypse 圣经中的“启示录”
+
+《圣经•新约》中的最后一章是圣约翰（St. John）所写的“启示录”。
+
+据说耶稣基督的十二门徒之一圣约翰被罗马皇帝流放至帕特摩斯岛（Patmos）时，将主给他显示的异象记录下来，并预言了主的降临和世界末日来临时的景象。该书的希腊名是《apokalyptein》，在1230年的英语版本中被译为《The Book of Apocalypse》，在1380年的英语版本中被译为《The Book of Revelation》。
+
+英语单词apocalypse就源自希腊语apokalyptein，由apo（away，off）+kalyptein（cover）构成，意思就是“revelation”（启示，揭示）。
+
+- **apocalypse**：[ə'pɒkəlɪps] n.启示，天启
+- **apocalyptic**：[ə'pɑkə'lɪptɪk] adj.启示录的，天启的
