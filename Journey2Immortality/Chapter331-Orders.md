@@ -323,67 +323,45 @@ But he didn’t expect that in an unavoidable garden on the way back, he would e
 
 > 可没想到，在路过必经的小花园时，那陈巧倩背对着他，身穿白裙的出现在了那里。
 
-
-
 As she was admiring the flowers, she just happened to be blocking his path.
 
 > 仿佛正欣赏着花草，而恰好挡住了他的去路。
-
-
 
 Having seen this, Han Li was a bit surprised and found it embarrassing to silently pass by her. 
 
 > 见到这种情形，韩立微微一怔，自然不好意思一声不响的就过去了。
 
-
-
 “Senior Martial Sister Chen, what a coincidence!” Han Li found a casual encounter preferable to just passing her by.
 
 > “陈师姐，这么巧啊！”韩立神色如常的招呼道，然后就想与其擦肩而过。
-
-
 
 However, Chen Qiaoqian suddenly straightened her back and turned around to face Han Li with an appearance as dainty as a flower.
 
 > 但是陈巧倩，突然柳腰扭动，身形轻轻一转，一张娇艳如花的面孔就面向了韩立。
 
-
-
 “It isn’t a coincidence! I was waiting for you here!” Chen Qiaoqian spoke, slightly opening her almond-shaped lips.
 
 > “不是巧！我是专门等你的！”陈巧倩杏唇微张的说道。
-
-
 
 With a complicated expression on her face, she stared at Han Li with her autumn-colored eyes.
 
 > 她的一双秋眸，直直的注视着韩立，脸上露出一种复杂的神色。
 
-
-
 “Waiting... for me?” Han Li looked astonished.
 
 > “等我……”韩立恰当的露出一点惊愕之色。
-
-
 
 Although he did not know why, he felt both bitterness and joy in his heart.
 
 > 可心里却不知为何，既有些苦涩，也有些喜悦。
 
-
-
 After a moment of silence, Chen Qiaoqian spoke a few words that left Han Li astonished. “I heard that the White Chrysanthemum Mountains at the outskirts of Yuejing were gorgeous and one of the nearby marvels. Would Junior Martial Brother Han accompany me there to sightsee?” 
 
 > “听说越京郊外的白菊山，艳丽非常，是附近的一大奇景。韩师弟陪我过去看看好吗？”陈巧倩默然了一会儿后，竟说出了一句让韩立大感意外的话来。
 
-
-
 “Sure!” Han Li had originally intended to refuse, but upon seeing the sorrow in her eyes, he had reflexively agreed. Was this the doing of the gods?
 
 > “好的！”不知是不是鬼使神差！韩立原本想要拒绝的话语，但在一接触对方眼中的哀怨之意时，竟不知不觉的改了口。
-
-
 
 When Chen Qiaoqian heard Han Li agree, her face slightly blushed, revealing a happy expression; it complimented her incomparable beauty. “That is great, Junior Martial Brother Han! Let’s go now. If we wait until after the sun sets, we won’t see anything.”
 
