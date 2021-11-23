@@ -169,7 +169,17 @@ being帮助其他修饰成分做成了主语宾语的主干成分。
 ## 3. 独立主格
 
 
+
 ## 4. 符合with结构的句子
+
+
+
+
+
+## 5.  Seem / appear 的一些用法记录
+
+- Her main occupation **[seems](https://mp.weixin.qq.com/s/U-24KvVutORhH_0CHYBNmg)** to be shopping. 逛街购物似乎是她的主要消遣。
+- It **appears** you have attempted to use the **intransitive verb** *occurred* in a **passive voice** construction. Consider writing the sentence in the active voice
 
 
 
@@ -187,7 +197,8 @@ being帮助其他修饰成分做成了主语宾语的主干成分。
 
 | 版本号|     变化状态|   简要说明|  日期	|   变更人/参与者   |
 | :-------- | :--------| :------ |:------ |:------ |
-| V1.0|   建立| 新建文档 |2021-3-25  | Lee|
+| v1.0 |   建立| 新建文档 |2021-3-25  | Lee|
+| v1.1 | 新增 | 增加Seem的用法 |2021-11-23 | Lee |
 
 
 *变化状态：建立，修改，增加，删除

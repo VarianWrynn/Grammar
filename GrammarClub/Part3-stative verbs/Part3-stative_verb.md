@@ -23,6 +23,7 @@
 
 ![Alt text](./1602117229294.png)
 
+- **action verb**: 行为动词;  动作动词;  实义动词
 
 ## 2. 我的女神
 
@@ -41,7 +42,7 @@
 
 自尊心受挫的我，一咬牙就从此不和女神说话，发誓暗暗要学习超过她。
 
-一晃多年，她去大学当了老师，我每个月都要去派出所签到，那里的小姐姐个个都是人才，说话又好听，超喜欢在里面的感觉。
+一晃多年，她去大学当了老师，我每个月都要去看守所签到，这里的小姐姐个个都是人才，说话又好听，超喜欢在里面的感觉。
 
 
 
@@ -68,11 +69,9 @@
 
 ## 4. 想不到吧
 
-## <img src="./1602063273528.png" alt="@||100x0" style="zoom: 19%;" />
-
 然而我还是找到了一首歌曲叫《[I've Been Loving You Too Long](https://en.wikipedia.org/wiki/I%27ve_Been_Loving_You_Too_Long)》,是一个叫[Otis Redding](https://en.wikipedia.org/wiki/Otis_Redding "Otis Redding") 的美国黑人歌手兼歌词家的作品。
 
-你可以[猛击这里](https://www.azlyrics.com/lyrics/ledzeppelin/sinceivebeenlovingyou.html)收听这首歌。
+你可以[猛击这里](https://www.azlyrics.com/lyrics/ledzeppelin/sinceivebeenlovingyou.html)收听这首歌。<img src="./1602063273528.png" alt="@||100x0" style="zoom: 10%;" />
 
 
 You know, we really don't advise lyrics for grammar points. It's a song, the writers do things to suit the music not grammar.
@@ -90,17 +89,68 @@ Then, as suzi also says, people who write poetry or music lyrics use all kinds o
 
 语法是对语言的抽象，是从日常用语中凝练出来的公式规则。但语言五花八门，并不断演化，所以语法规则肯定无法涵盖所有的语言现象。
 
-![@||300x0](./1603365108467.png)
+<img src="./1603365108467.png" alt="@||300x0" style="zoom: 67%;" />
 
 因此，[语法规则往往只意味着「99%的情况都这么说」](https://www.zhihu.com/question/30030877/answer/1449871589)，不包含那1%的罕见说法。比如麦当劳的广告语「I’m loving it」铺天盖地地出现在广告板上，但语法上是讲不通的，因为这不符合英语世界的表达习惯。
 
 所以学习语法，是为了理解99%的表达逻辑。但又不能完全仰仗语法，因为语法正确不等于表达地道。
 
-## 5. 改错题
 
-### 5.1  I've been loving chocolate since childhood
+
+## 5.  You are being rude.
+
+参考：[You are being rude. Being 到底是个什么东西？](https://zhuanlan.zhihu.com/p/26797446)
+
+### 5.1 态的概念
+
+<img src="./image-20211123092050634.png" alt="image-20211123092050634" style="zoom:80%;" />
+
+
+
+以**eat**例子，讲述动词的四个**态**.
+
+<img src="./v2-bd222b90195b1492f54322ce7e72e590_720w.jpg" alt="img" style="zoom:80%;" />
+
+我们现在用动词**be**代替上图中的eat如下图：
+
+![img](./v2-685267cb17e137e7563ea3a10cb4a91d_720w.jpg)
+
+我们可以看出being就是动词原形be的进行态而已，那么文首的句子也就是由being构成的进行时态:
+
+You are being rude.
+
+**谓语动词（are being） = 时间助动词（are） + 状态主动词（being）**
+
+
+
+### 5.2 常态 v.s 进行态
+
+我们讲过**常态**和**非常态/进行态**概念的区别，常态为长期不变的动作状态，反之，不是长期不变的就是非常态/进行态。
+
+如： 
+
+- You are rude. 你很粗鲁。（你的性格就是鲁莽，长期不变。）
+- You are being rude. （你（最近）很粗鲁，原来不是这样的。)
+- You are being funny. 你在搞笑。
+- You are being silly. 你傻啦。
+- You are just being sweet. 你只是甜言蜜语而已。
+
+### 5.3 作为进行时代被动态的助动词
+
+being 还有一些其它用法，如用于**进行时态的被动**等，就是作为进行时态的**助动词**之用，而不是主动词之用了。
+
+- An interesting experiment is being tried by Prof. Zhou. 周教授正在做一项有趣的试验。
+  - **谓语动词（ is being tried） = 时间助动词（is） + 状态主动词（being tried）**
+  - **状态主动词（being tried） = 被动助动词（being) + 完成态主动词（tried)**
+
+
+
+## 6. 改错题
+
+### 6.1  I've been loving chocolate since childhood
 
 [Question about English (UK)](https://hinative.com/en-US/questions/1665624)
+
 > Is this grammatically correct: **I've been loving chocolate since childhood**
 
 **Answer**:
@@ -120,16 +170,21 @@ We would say
 or
 - **I have been in love with chocolate since childhood**
 
-### 5.2 不及物动词，没有被动语态
+### 6.2 不及物动词，没有被动语态
 
 An error has been occurred when the system was trying to parsing of a resource 
 
 - **`occur是不及物动词，没有被动语态`**。
+
+  <img src="./image-20211123093505742.png" alt="image-20211123093505742" style="zoom:95%;" />
+
+  It appears you have attempted to use the **intransitive verb** *occurred* in a **passive voice** construction. Consider writing the sentence in the active voice.(你似乎试图使用被动语态结构中的不及物动词。考虑用主动语态写句子。)
+
 - try 是加to do sth.
 
 > Something unexpected occurred. 这里的occured后面没有接宾语，因为是不及物动词。
 
-## 6. References & Connection
+## 7. References & Connection
 1. [【推荐阅读】Since I've been loving you/Since I've loved you](https://forum.wordreference.com/threads/since-ive-been-loving-you-since-ive-loved-you.2778264/)
 2. [【推荐阅读】关于静态动词和动态动词，以及延续性动词和短暂动词](http://ask.yygrammar.com/q-40318.html)
 2. [“I've been loving you” is not a formal English --Stackexchange](https://ell.stackexchange.com/questions/132588/ive-been-loving-you-is-not-a-formal-english)
@@ -140,7 +195,7 @@ An error has been occurred when the system was trying to parsing of a resource
 7. [静态动词、终结性动词和非终结性动词的理解 -- 英语答疑网](http://ask.yygrammar.com/q-33262.html)
 
 
-## 7. 文档修订记录
+## 8. 文档修订记录
 
 | 版本号|     变化状态|   简要说明|  日期	|   变更人/参与者   |
 | :-------- | :--------| :------ |:------ |:------ |
