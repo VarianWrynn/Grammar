@@ -25,20 +25,38 @@ n. 小脏孩;贫穷肮脏的儿童;流浪儿
 
 ## [alligator/crocodile（鳄鱼）](https://mp.weixin.qq.com/s/O1_wRK1OZQeP0ICRN6KtXw)
 
+![image-20211129151904917](./images/image-20211129151904917.png)
+
 ### alligator [ˈælɪɡeɪtər]  
 
 => **[ˈæ-lɪ-ɡeɪ-tər]**
 
+<img src="./images/image-20211129151656105.png" alt="image-20211129151656105" style="zoom: 33%;" />
+
 当西班牙殖民者初次踏上美洲大陆，遇到美洲特有的短吻鳄时，就用西班牙语称其为***el lagarto***（**the lizard**，蜥蜴）。后来英国殖民者沿用了西班牙人对其的称谓，在英语中将其称作***lagarto***。但在16世纪末期，有些人误将西班牙语中的定冠词**`el`**也看作该词的一部分，因此就从西班牙语**`el lagarto`**中产生了英语单词**alligator**。
 
-英语中表示鳄鱼的还有一个单词**crocodile**。它来自希腊语。根据词源大师Frisk的解释，前面的**`croco`**表示卵石，后面的`dile`表示爬虫，合起来字面意思就是“卵石上的爬虫”。鳄鱼得此名号显然是因为它们喜欢在卵石上晒太阳的生活习性。这个单词首先出现于古希腊著名历史学家希罗多德的名著《历史》中，用来表示埃及尼罗河中的鳄鱼。
+
 
 ### crocodile
 
-单词**alligator**和**crocodile**的区别是：
+![image-20211129151954116](./images/image-20211129151954116.png)
+
+> The difference between an alligator (left) and a crocodile (right).
+
+
+
+英语中表示鳄鱼的还有一个单词**crocodile**。它来自希腊语。根据词源大师Frisk的解释，前面的**`croco`**表示卵石，后面的`dile`表示爬虫，合起来字面意思就是“卵石上的爬虫”。鳄鱼得此名号显然是因为它们喜欢在卵石上晒太阳的生活习性。这个单词首先出现于古希腊著名历史学家希罗多德的名著《历史》中，用来表示埃及尼罗河中的鳄鱼。
+
+
+
+**alligator**和**crocodile**的区别是：
 
 - **alligator**特指短吻鳄，比如，**American alligator**（美洲鳄）和**Chinese alligator**（中国的扬子鳄）。
 - 单词**crocodile**泛指各种鳄鱼，是鳄鱼的统称。习语**crocodile tears**（鳄鱼的眼泪）常用来比喻坏人的假仁假义。
+
+
+
+
 
 相关单词：
 
@@ -50,7 +68,7 @@ n. 小脏孩;贫穷肮脏的儿童;流浪儿
 
 ## Petrel, Parrort, Parakeet
 
-### **Petrel**:
+### **Petrel** /ˈpetrəl/
 
 海燕在觅食时，像小海鸥一样自水面飞掠而过，偶尔降落水面，在海员看来，宛如圣彼得（**St. Peter**）之行于革尼撒勒湖（**Lake of Gennesareth**，即加利利海Sea of Galilee）上（见《圣经·马太福音》14:29）。
 
