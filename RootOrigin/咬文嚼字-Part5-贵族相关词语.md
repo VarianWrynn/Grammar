@@ -605,6 +605,38 @@ Beghard的成员在古法语单词被称作begart。他们很多人就像中国�
 
 
 
+### infantry（步兵）：中年轻王子所率领的年轻士兵
+
+> in∙fant  [词根树]
+> **fam-,fan-,fat-,fess-** 
+> = speak, 表示“说、预言”，fat- 由“预言”引申为“命运”。
+>
+> **in-** 
+> 表示“无，没有（not,opposite）”，
+
+英语单词**infantry**（步兵）与**infant**（婴儿）的拼写非常接近，它们之间有何关系呢？
+
+原来，它们都来自拉丁语***infantem***，而***infantem***是***infans***的名词。**infans**由**`in`**（不）+**`fans`**（说话）组成，意思是不能说话，所以***infantem***原本指的是还不会说话的婴儿，但后来可以表示各种年龄段的小孩子。
+
+infant（婴儿）直接来自infantem，而infantry（步兵）来自infantem所衍生的西班牙语infante（王子）和infanteria（步兵）。
+
+西班牙语infante（王子）来自拉丁语infantem，字面意思就是“（国王的）孩子”。这些王子在年轻时常常被送入军营接受锻炼。在军营中，这些年轻王子所率领的部队就叫做infanteria，通常是和王子年龄相仿的年轻人。
+
+由于这些人资历尚浅，一般没有取得骑士称号，因此通常都是步行训练和作战，所以infanteria一词就有了“步兵”的含义。
+
+该词进入法语后拼写变为***infantrie***，进入英语拼写演变为**infantry**。
+
+- **infantry**：['ɪnf(ə)ntrɪ] n.步兵，步兵团
+- **infant**： ['ɪnf(ə)nt]
+  - n.婴儿，幼儿，未成年人
+  - adj.婴幼的，幼稚的
+- **infantile**：['ɪnfəntaɪl] 
+  - adj. 婴儿的；幼稚的；
+  - 初期的
+- **infancy**：['ɪnfənsi] n. 初期；婴儿期；幼年
+
+
+
 ## References 
 
 1. [Peerage of England](https://en.wikipedia.org/wiki/Peerage_of_England) 
