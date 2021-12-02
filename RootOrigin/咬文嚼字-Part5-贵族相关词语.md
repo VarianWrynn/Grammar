@@ -483,6 +483,10 @@ n. 厌恶女人；厌女症[癖]  Misogyny is a strong dislike of women.
 
 1. [There's A Weird, Old-Timey Rape Joke In "Avengers: Age Of Ultron"](https://www.buzzfeed.com/alisonwillmore/theres-a-weird-old-timey-rape-joke-in-avengers-age-of-ultron)
 
+2. [为什么我们见到的英国人几乎都是英格兰人，很少见到苏格兰人和威尔士人？](https://zhuanlan.zhihu.com/p/141276681)
+
+   ![image-20211202140446519](./images/image-20211202140446519.png)
+
 
 
 ### Parliament v.s Congress
