@@ -34,14 +34,6 @@
 
 
 
-
-
-
-
-
-
-
-
 大部分动词也会根据时态而调整不同的形态，比如eat这个词就有：
 - 一般态 （常态为长期不变的动作状态）
 - 非常态
@@ -50,13 +42,7 @@
 
 四个维度。（参考来源：[You are being rude. Being 到底是个什么东西？ - 英语思维的文章 - 知乎](https://zhuanlan.zhihu.com/p/26797446)）
 
-![@||770x0](./1616649041713.png)
-
-
-
-
-
-
+<img src="./1616649041713.png" alt="@||770x0" style="zoom:90%;" />
 
 
 
@@ -65,7 +51,7 @@
 
 我们现在用动词be代替上图中的eat如下图
 
-![@||770x0](./1616649725817.png)
+<img src="./1616649725817.png" alt="@||770x0" style="zoom:90%;" />
 
 
 
@@ -113,7 +99,11 @@ being帮助其他修饰成分做成了主语宾语的主干成分。
 
 > 第九章：动词时代 -简单式 -现代时间 - 几个常见的静态动词
 
+
+
 ### 2.1  主语
+
+<img src="./image-20211201141758810.png" alt="image-20211201141758810" style="zoom: 67%;" />
 
 ***形容词不能做主语***，因此下面这句话是不对的
 - Peaceful is the key to learn GMAT. 
@@ -136,7 +126,10 @@ being帮助其他修饰成分做成了主语宾语的主干成分。
 「Being (smart)」 跟比如「Seeing is believing.」這句俗話當中的 seeing 和 believing，是相同的詞性，都是 名詞。動名詞。也跟下列各例句當中的smoking， playing (small)， owning (a stud) 和 (breeding racehorses), 的詞性，都一樣，都是 名詞。動名詞。
 - **Smoking** is not good for your health.
 - **Owning a stud** and **breeding racehorses** required an ample fortune.
-- We ask ourselves, Who am I to be brilliant, gorgeous, talented, and fabulous? Actually, who are you not to be? You are a child of God. **Your playing small** does not serve the world
+- We ask ourselves, Who am I to be brilliant, gorgeous, talented, and fabulous? Actually, who are you not to be? You are a child of God. **Your playing small** does not serve the world.
+
+
+
 
 
 ### 2.2 宾语
@@ -153,6 +146,8 @@ being帮助其他修饰成分做成了主语宾语的主干成分。
 
 - Understanding the role of the protégé is fundamental to [being the best mentor you can be](https://toastmasters.csod.com/lms/scorm/clientLMS/ScormFrames.aspx?aicc_sid=AICCwXuR_e9bvwHQne-dFJXn7Z3RCTgPXvEJPEzXRdRQhFI&aicc_url=https://toastmasters.csod.com/LMS/scorm/aicc.aspx).
 
+
+
 ### 2.3  being + adj 是名词性，动名词（gerund)
 
 > A gerund is a noun formed from a verb that refers to an action, process, or state. In English, gerunds end in 'ing', for example 'running and 'thinking'.
@@ -164,6 +159,7 @@ being帮助其他修饰成分做成了主语宾语的主干成分。
 
 只是隐隐然觉得 名词+ 动词+ed的句子感觉有点奇怪，说不上哪里不对。比如：
 - We haven't found any other orders overlooked by Automation.
+
 
 
 ## 3. 独立主格

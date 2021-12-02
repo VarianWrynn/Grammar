@@ -486,7 +486,11 @@ The following terminology is used in American English (British English may be di
 
 ### 6.24  endogenous v.s  endigence v.s endigence
 
-**indigence** [***'ɪndɪdʒ(ə)ns***] n.穷困。它与**indigenous** [***ɪn'dɪdʒɪnəs***] adj.本土的；国产的；固有的，看着相似，但是前缀indi-表into,within一样，词根不一样。indigence的词根是ig-表lack，indigence=a lacking inside家徒四壁之感，indigenous的词根是gen-表出生，born within a certain place。
+**indigence** [***'ɪndɪdʒ(ə)ns***]  n.穷困。它与
+
+**indigenous** [***ɪn'dɪdʒɪnəs***]  adj.本土的；国产的；固有的
+
+看着相似，但是前缀indi-表into,within一样，词根不一样。indigence的词根是ig-表lack，indigence=a lacking inside家徒四壁之感，indigenous的词根是gen-表出生，born within a certain place。
 
 
 
@@ -512,3 +516,30 @@ The following terminology is used in American English (British English may be di
 - **`gen-`** = birth, produce, 表示“出生，产生”，医学上引申为“生殖或基因”。
 - **`-ence`** 表名词，“性质，状态”。
 
+
+
+### 6.25 possibility v.s probability
+
+| Title                                                        | Date          | Reference        |
+| ------------------------------------------------------------ | ------------- | ---------------- |
+| 科学思考者21：神来之类比                                     | 2020年12月9日 | 万维钢·精英日课4 |
+| [**What is difference between probability and possibility?**](https://www.quora.com/What-is-difference-between-probability-and-possibility) |               | Quora            |
+
+
+
+可能性”在英文中有两个词，一个是 **possibility**，意思是***有没有***这个可能；一个是 **probability**，意思是***有多大***这个可能。
+
+> 我们前面讲的奥卡姆剃刀、科学实验方法、溯因推理的选择标准，关心的都是评估 probability；而类比，关心的则是提供 possibility。
+
+
+
+Technically, **possibility** of any event is always 1 or 0 i.e. 'yes' or 'no'. 
+
+If an event is possible, how likely will its occurrence be, under a given situation is **probability**.
+
+Example:
+
+- When we roll a dice, **possibility** of it showing up number 5 is 'Yes' (or 1), possibility of showing up number 8 is 'No'(or 0).
+- In a situation where the dice is rolled once, **Probabilty** of it showing up number 5 is 1/6.
+
+So, every event that we consider while finding the **probability** of occurence of a particular event, is a possible event.
