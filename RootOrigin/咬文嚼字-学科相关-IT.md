@@ -18,36 +18,32 @@ vt. 切碎, 搞糟
 
 
 
-## cafeteria (医院、高校、商场等的)自助餐厅,食堂
+## millionaire 百万富翁
 
-> cafe∙teria  [词根树]
-> -**teria** 
-> = an inexpensive shop. 表示“小商店”，来自西班牙语。
+**millionaire** - ***million***系直接借自古法语，源于意大利语***millione***，按字面义是a thousand thousands（一千个千），汉语作“百万”。
 
-**cafeteria** 【ˌkæfəˈtɪriə】 - 相传在公元850年，一位名叫Kaldi的阿拉伯牧羊人发现他的羊群行为异常，感到很困惑。以后他注意到他的羊在啃食一种干果仁，于是决定亲自尝一尝。他吃了之后，有一种心旷神怡之感。他非常激动，便冲下山去把这事告诉了别的牧羊人。
+**billion**也直接从法语吸收而来，系由前缀**`bi-`**‘two’（指二次幂）加million缩合而成，按字面义是a million millions（一百万个百万），故应作“万亿”。
 
-不久，阿拉伯人学会了把这种干果仁弄干再加以煎煮的方法，他们把调制成的饮料叫做qahwah（该词含有“酒”之意）。qahwah的饮用立即在穆斯林中间引起一阵巨大的骚动。按伊斯兰教教义，伊斯兰教徒是不准饮酒的。
+然而在美国**billion**并不指“万亿”，而指“十亿”（**a thousand million**）。近年来很多英语国家（包括英国、澳大利亚）也跟着美国把billion当作“十亿”来用了，但在德、法、意等大多数欧洲大陆国家，billion及其在各欧陆语言中的相应单词（如意大利语bilione）则表示“万亿”。
 
-一些教徒为使自己在冗长不堪的祈祷仪式中不致困倦，便饮用qahwah来提神。而另一些教徒则认为qahwah既然有兴奋作用，可视为酒类饮料，自然应在禁饮之列。然而同样信仰伊斯兰教的土耳其人却不理这一套，欣然接受了该饮料，并称之为kahve。
+**millionaire**也是法语借词，约于1820年进入英语，意为“百万富翁”。皮毛业商人阿斯特（John Jacob Astor, 1763-1848）可能是第一位被称为**millionaire**的美国人。
 
-以后传入法国，作**café**，英语**coffee**可能是从意大利语caffè演化过来的，汉语则译为“咖啡”。
+而**billionaire**则是由**billion**接**millionaire**的尾部**`-aire`**构成，始见于1861年，意指“亿万富翁”。第一位被称为美国式**billionaire**的恐怕当数美国实业家洛克菲勒（John D. Rockefeller, 1839-1937）。
 
-另有一说认为coffee源自埃塞俄比亚南部一个古代王国Kaffa，那里曾被誉为“咖啡的故乡”。
+与**million**相关的词还有几个，如**milliard**，系英国英语，相当于美国英语**billion**，即“十亿”，它也借自法语。
+
+又如**trillion**，其构成与**billion**类似，系由**`tri -`**'three'（指三次幂）接**million**之尾部**`-llion`**缩合而成，它也是法语借词，在英国英语中指“百万的三次幂”，在美国英语则指“百万的二次幂”，即“万亿”。但这两个词在英语中都用得不多。
+
+例　
+
+- Nobody can count to a billion. 没有人能够数到十亿。
+- The country is more than two billion in debt. 这个国家负债二十多亿。
+
+ 
+
+### -aire,人，对应英语-ary. 引申词义百万富翁
 
 
-
-**词源：**
-
-- 英语中意为“咖啡馆”或“小餐馆”的**café**/**cafe**和**coffee**同出一源，但它直接借自法语**café**（咖啡）。
-- 另有一个英语词**cafeteria**（自助餐厅）和**coffee**也有亲缘关系，它源自西班牙语**cafetero**（咖啡店），但终极词源仍是阿拉伯语qahwah。
-
-
-
-**例句：**
-
-- Would you rather have fresh coffee or instant? (CID) 你要现磨的咖啡还是速溶咖啡？
-- An inviting smell of coffee wafted into the room. (OCD) 诱人的咖啡香味飘进房间。
-- He took a sip of his coffee. (OCD) 他喝了一小口咖啡。
 
 
 

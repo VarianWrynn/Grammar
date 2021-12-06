@@ -2,6 +2,24 @@
 
 @(TOEFL)[托福, TOEFL, 词根词缀,咬文爵字,学科相关]
 
+
+
+**chemistry（化学）：古阿拉伯人的炼金术**
+
+在古代，有很多人希望能找到一种方法，将低贱的金属变为金子。这种方法就是所谓的炼金术。据说炼金术最早在古埃及兴起，在阿拉伯语中叫做al kimiya。其中，al是定冠词，相当于英语中的the，kimiya据说是埃及的古称，字面意思是“黑色泥土构成的大地”。
+
+炼金术由阿拉伯人传入欧洲后，其名称al kimiya演变成了英语中的alchemy（炼金术），炼金术士自然就是alchemist，后来又演变为**chemist**。表示化学的词根**`chemi-`**/**`chemo-`**就源自于此，**chemistry**（化学）就源自炼金术**alchemy**。
+
+- **`chemi-`**/**`chemo-`**：化学，炼金术
+- **alchemy**： ['ælkɪmɪ] n.炼金术，炼丹术，魔力
+- **alchemist**： ['ælkɪmɪst] n.炼金术士
+- **alchemical**：[æl'kemikəl] adj. 炼金术的
+- **chemist**： ['kemɪst]n. 化学家；化学工作者；药剂师；炼金术士
+- **chemical**： ['kemɪk(ə)l] adj.化学的n.化学制品
+- **chemistry**： ['kemɪstrɪ] n.化学，化学过程
+
+
+
 ### 1. -ium 
 
 **`-ium`**表示金属元素。1811 年瑞典化学家 [Berzelius](https://en.wikipedia.org/wiki/J%C3%B6ns_Jacob_Berzelius) 建议，为统一化学元素的命名起见，凡金属元素一律用拉丁词根命名，用 **`-um`** 为词尾。以后所发现的新金属元素，都遵照了这个建议。
@@ -207,3 +225,27 @@ l**`yst-`** = break down, 表示“裂开，分解，溶解”。源自希腊语
 Reference:
 
 1. [词源趣谈：对plumb（铅）的痴迷，居然导致了古罗马帝国的灭亡](https://mp.weixin.qq.com/s/DwOswolKpE04i1D446Cr9w)
+
+
+
+
+
+### Alcohol  （酒精）：古代中东妇女用来画眼影的锑粉
+
+长久以来，阿拉伯、波斯、新疆等地的妇女就已经发现锑粉是一种极好的化妆品。她们用从锑石中精炼提纯的锑粉涂在眼圈附近，不仅能使眼睛更漂亮，还能消除眼疲劳和红肿的功效。阿拉伯妇女喜欢用锑粉画出浓重的眼影，埃及艳后克娄巴特拉的妆容便是典型。
+
+这种用来画眼影的锑粉在阿拉伯语中叫做***al kuhul***，其中的***al***是定冠词，相当于英语中的***the***。英语单词alcohol就源自al kuhul，原本表示“粉末状的化妆品”，17世纪词义扩大为“物品的精华、精炼或提纯的结果”。18世纪，人们用***alcohol of wine***（酒的精华）来表示酒精，后来直接用**alcohol**一词来表示酒精。
+
+> 古埃及绝世美人克娄巴特拉（Cleopatra, 69-30 BC）用锑膏画眉毛。以后，妇女尤其是中东妇女也常用细锑粉来涂眼皮。锑粉在阿拉伯语中作al-kohl或al-kuhl，其中al相当于英语定冠词the，而kohl/kuhl则意为“锑粉”。16世纪时该词通过拉丁语进入英语，作alcohol，最初仅指“精细的粉末”。由于锑粉这一化妆品的提制过程类似于制取酒精的分馏法，到了18世纪，alcohol一词遂被转用以指“酒精”，其原义也随之丧失。但几乎与此同时，阿拉伯语kohl再度进入英语，用于原义，指阿拉伯等东方妇女用以涂黑眼睑和睫毛的化妆品，即“眼圈粉”（尤指“硫化锑粉”）。alcohol除指“酒精”，也可指“酒”或“含酒精的饮料”。
+
+<img src="./images/image-20211206173457434.png" alt="image-20211206173457434" style="zoom:67%;" />
+
+阿拉伯语中表示锑粉的 **kuhul**一词后来通过其他途径也进入了英语，演变成为英语单词kohl，依然保持原意，表示“眼影粉”。
+
+- **alcohol**： ['ælkəhɒl] n.酒精，乙醇
+- **alcoholic**： [ælkə'hɒlɪk] adj.酒精的，含酒精的n.酒鬼，酗酒者
+- **alcoholism**：['ælkəhɔlɪzəm] n. 酗酒；[内科] 酒精中毒
+- **kohl**： [kəʊl] n.眼影粉，化妆墨
+- Most wines contain about 12％ alcohol. (CAE) 大多数葡萄酒含有约12％的酒精。
+- I could smell the alcohol on his breath from ten feet away! (CID) 我在10英尺之外就能闻到他呼吸中的酒味。
+- The doctor told me to keep off alcohol. 医生叫我别沾酒。
