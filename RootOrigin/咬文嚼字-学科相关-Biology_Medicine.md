@@ -12,10 +12,12 @@
 
 ### phyt- = plant, 表示“植物” {37}
 
-|                                              |                                                              |                                             |                                |
+> 源自希腊语 phutos, phuton "a plant."
+
+| 单词                                         | 解释                                                         | 单词                                        | 解释                           |
 | -------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------- | ------------------------------ |
 | **phyt-o-plankton**<br />【ˌfaɪtoʊˈplæŋtən】 | **`phyto-`** = plant, 表示“植物”。源自希腊语 phutos, phuton "a plant."<br/>**plankton** n. (总称)浮游生物<br />浮游藻;植物性浮游生物;浮游植物;浮游藻类;浮游植物群落<br />very small plants that float near the surface of water and on which sea creatures feed | **ceno-phyte**      <br />                  | 【植】新生代植物               |
-|                                              |                                                              | **phyt-o-bilogy**<br />【faɪtəʊbaɪ'ɒlədʒɪ】 | phyto-植物 + biology【生物学】 |
+| **epi-phyte**<br /><br />【epɪfaɪt】         | **n.**(寄生于动物的)真菌；【植】附生植物 ；<br />**`epi-`** 表示“在…上，在…周围，在…后面”。源自希腊语 epi "on, over, at."<br/>**`phyte-`**<br/>= plant, 表示“植物”。源自希腊语 phutos, phuton "a plant." | **phyt-o-bilogy**<br />【faɪtəʊbaɪ'ɒlədʒɪ】 | phyto-植物 + biology【生物学】 |
 |                                              |                                                              |                                             |                                |
 
 
@@ -105,9 +107,9 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 <img src="./images/image-20211115094058665.png" alt="image-20211115094058665" style="zoom: 50%;" />
 
-在基督教中，当人去世后要在教堂举行葬礼，在葬礼上要为他念祷词。祷词的第一句是“**I will please the Lord in the land of the living**”（我将愉悦尘世之主）。在拉丁语中，该祷词的第一个词是placebo，是拉丁语动词placere（使人愉悦，等于please）的未来陈述式，等于英语中的“I will please（我将愉悦）”。因此，人们就将这段祷词称为placebo。
+在基督教中，当人去世后要在教堂举行葬礼，在葬礼上要为他念祷词。祷词的第一句是“**I will please the Lord in the land of the living**”（我将愉悦尘世之主）。在拉丁语中，该祷词的第一个词是placebo，是拉丁语动词placere（使人愉悦，等于please）的未来陈述式，等于英语中的“I will please（我将愉悦）”。因此，人们就将这段祷词称为**placebo**。
 
-由于人们所念的祷词往往会有意美化死者，因此人们就把那种阿谀奉承的话称为placebo，将阿谀奉承的行为称为sing placebos。
+由于人们所念的祷词往往会有意美化死者，因此人们就把那种阿谀奉承的话称为**placebo**，将阿谀奉承的行为称为sing placebos。
 
 18世纪的英国名医William Cullen大力宣扬“安慰疗法”，并用placebo来表示“安慰剂”，即无特定疗效的方法或药物，仅仅用来舒缓患者情绪，使其心情愉悦。
 

@@ -4,6 +4,98 @@
 
 
 
+[toc]
+
+
+
+
+
+## - saur = lizard, 表示“蜥蜴”。{12}
+| 单词                                                         | 解释                                                         | 单词                                                    | 解释                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
+| **saur-ian**<br />【ˈsɔːriən】                               |                                                              | **dino-saur**<br />【ˈdaɪnəsɔːr】                       |                                                              |
+| **bronto-saur-us**<br />【ˌbrɑːntəˈsɔːrəs】                  | bronto- <br/>= thunder, 表示“雷”。源自希腊语 bronte "thunder."<br />雷龙;原始的雷龙;雷龙属<br /><img src="./images/image-20211206150521739.png" alt="image-20211206150521739" style="zoom: 39%;" /> | **ichthyo-saur**<br />【ɪkθɪəsɔ:ə】                     | **`ichthyo-`** <br/>= fish, 表示“鱼”。源自希腊语 ikhthus "fish."<br />（古生）鱼龙<br /><img src="./images/image-20211206150804322.png" alt="image-20211206150804322" style="zoom: 33%;" /> |
+| **megalo-saur-us**<br />【ˌmeɡələˈsɔːrəs】                   | 巨蜥，巨齿龙(最早得到科学研究的恐龙之一)<br /><img src="./images/image-20211206151100085.png" alt="image-20211206151100085" style="zoom: 33%;" /> | **ptero-saur**<br />【ˈterəˌsɔr】                       | 翼龙<br /><img src="./images/image-20211206151232874.png" alt="image-20211206151232874" style="zoom:33%;" /> |
+| **plesio-saur**<br />【plisɪrsɔ】                            | 蛇颈龙;蛇颈龙类<br /><img src="./images/image-20211206151357014.png" alt="image-20211206151357014" style="zoom:33%;" /> | **plesio-saur-us**<br />【ˌplisɪəˈsɔrəs】               | 蛇颈龙;蛇颈龙属;中生代十分繁盛的蛇颈蜥属;蛇颈龙类            |
+| **stego-saur-us**<br />【ˌsteɡə'sɔrəs】                      | 剑龙<br /><img src="./images/image-20211206151533926.png" alt="image-20211206151533926" style="zoom: 67%;" /> | **tyranno-saur-us**<br />【tɪˌrænə'sɔrəs】              | 暴龙<br /><img src="./images/image-20211206151658404.png" alt="image-20211206151658404" style="zoom:33%;" /> |
+| **ankylo-saur**                           <br />【ˈæŋkɪləsɔːr】 | **`ankylo-`** <br/>表示“弯曲、僵硬、粘连”。源自希腊语 ankulos "crooked, bent."<br />甲龙(食草恐龙，全身披甲)<br /><img src="./images/image-20211206150130465.png" alt="image-20211206150130465" style="zoom: 50%;" /> | **psitaco-saurus**         <br />【psit·ta·co·sau·rus】 | **`psittaco-`** <br/>= parrot, 表示“鹦鹉”。源自希腊语 psittakos "a parrot."<br />鹦鹉嘴龙<br /><img src="./images/image-20211206145829359.png" alt="image-20211206145829359" style="zoom: 39%;" /> |
+
+### Dinosaure(恐龙)：令人恐怖的蜥蜴
+
+恐龙（**dinosaur**）这名字最早为英国古生物学家欧文（[Sir Richard Owen](https://en.wikipedia.org/wiki/Richard_Owen), 1804-1892）在1842年创造，由希腊语**`deinos`**（恐怖的）和**`sauros`**（蜥蜴）组合而成，字面意思就是“令人恐怖的蜥蜴”。
+
+<img src="./images/image-20211206144545510.png" alt="image-20211206144545510" style="zoom: 67%;" />
+
+恐龙和蜥蜴拥有相同的祖先，虽然表面上和蜥蜴相似，但实际上其生物结构却远比蜥蜴、蛇、龟等先进。
+
+汉字“恐龙”是日本生物学家对dinosaur的翻译，后来被中国接受。实际上恐龙与中国的“龙”毫无相似之处。
+
+- **dinosaur**：['daɪnəsɔː] n.恐龙，过时的人或事物
+
+- **saurian**：['sɔrɪən] 
+
+  - adj.蜥蜴的，蜥蜴类的
+  - n.蜥蜴，蜥蜴类
+
+- **tyrannosaurus**：[tɪˌrænə'sɔ:rəs] n. 暴龙，霸王龙
+
+  > tyranno- 
+  > = tyrant, 表示“暴君”。
+
+- **brontosaurus**：[,brɑntə'sɔrəs] n. 雷龙
+
+- A dinosaur's skeleton was displayed in the museum's main hall. (NED) 一具恐龙骨架陈列在博物馆的大厅。
+
+- The old car was a gas-guzzling dinosaur and we had to get rid of it. (CAE) 这辆旧车是油老虎，我们不得不把它处理掉。
+
+- The typewriter's a bit of a dinosaur (= very old-fashioned), isn't it? (CID) 这台打字机该进博物馆了，对不对？
+
+
+
+## mammal ['mæm(ə)l] n.哺乳动物
+
+> mamm- 
+> = breast, 表示“乳房”。源自拉丁语 mamma "breast."
+> 
+> -al 
+> 表名词，“人，物，状态”
+
+这个单词是瑞典生物学家林奈根据拉丁单词mammalis（意思是of the breast，词根mamma-表示乳头，因为所有的雌性哺乳动物都用乳汁喂养幼崽）创造。林奈所处的时代，欧洲很多妇女习惯把婴儿交给奶妈喂养，导致婴儿死亡率奇高。林奈创造这个单词，同时也是在提倡母乳喂养。 
+
+### baby
+
+mammal - baby一词来自babe，原为babe的指小词，一度指“玩具娃娃”。babe则是模仿婴儿哭声baba构成的儿语拟声词，中古英语作baban，曾作标准词用，意指“婴儿”，而今多见于诗歌语言，其原先地位已为后来者baby所取代。
+
+在非正式用语中，babe常用以表示对妻子、丈夫、情人的昵称，相当于汉语“宝贝”。baby除指“婴儿”还可转义为“年纪最小的人”、“孩子气的人”等；作动词用时，则表示“把……当婴儿对待”。
+
+出自婴儿叫声的拟声词还有mama/mamma，papa/poppa，babble（牙牙学语）等词。另有一词mammal（哺乳动物），若究其根源可以说亦属此类。mammal源于拉丁语mamma（乳房），而mamma乃是儿语拟声词。
+
+例
+
+- The baby girl is teething. 这女婴正在长牙。
+- Both mother and baby are doing well. 母子均平安。
+- She is expecting another baby next month. 下个月她又快生孩子了。
+- Don't be such a baby — take your medicine! 别这么孩子气——把药吃下去！
+
+
+
+## Cow v.s Beef / Sheep v.s Mutton
+
+在英语中有一个有趣的现象，那就是对于猪、羊、牛等牲畜，表示动物的单词和表示其肉食的单词相差甚远，如pig（猪）和pork（猪肉）、sheep（绵羊）和mutton（羊肉）、cow（牛）和beef（牛肉）。这是为什么？
+
+原来，在11世纪时，法国诺曼底公爵率军入侵英格兰，成为了英格兰的国王。从此以后，英格兰的统治阶层变成了说法语的法国贵族，他们在表示”猪肉”、“羊肉”、“牛肉”等食品时，使用的是高贵的法语。这些法语单词后来逐渐进入英语，变成对这些肉食的称呼。
+
+而负责饲养牲畜的仆人一般是英国人，依然使用源自原始日耳曼语的古英语来称呼这些牲畜。久而久之，就造成了表示这些动物的英语单词和表示它们的肉的英语单词的不一致。
+
+- **pig**：[pɪg] n.猪
+- **pork**：[pɔːk] n.猪肉
+- **sheep**：[ʃiːp] n.绵羊
+- **mutton**：['mʌtn] n.羊肉
+- **cow**：[kaʊ] n.牛
+- **beef**：[biːf] n.牛肉
+
+
+
 ## Urchin [ˈɜːrtʃɪn] 海胆
 
 <img src="./images/image-20211115114625365.png" alt="image-20211115114625365" style="zoom: 67%;" />
