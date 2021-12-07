@@ -396,6 +396,14 @@ Reference: [词源趣谈：再大的minister（大臣、部长），其实也只
 
 - minstrel：['mɪnstr(ə)l] n.（中世纪）吟游诗人，歌手，艺人
 
+
+
+<font size=5>**troubadour** 【ˈtruːbədɔːr】游吟诗人(因11–13世纪法国的巡回表演者而得名) </font>
+
+来自法语 troubadour,法国南部等地的游吟诗人，来自普罗旺斯方言 trobar,找到，发明，创作诗歌，来自通俗拉丁语*tropare,找到，创作诗歌，来自拉丁语 tropus,诗，歌，尤指带有比喻性质的诗歌，词源同 trope.
+
+<img src="./images/image-20211207102150233.png" alt="image-20211207102150233" style="zoom:50%;" />
+
 ### Silhouette /sɪlu'et/
 
 **silhouette** - 18世纪中期有位法国作家，名叫**Étienne de Silhouette (1709-1767)**，他借助贵妇人**Madame de Pompadour**的影响于1759年当上了路易十五的财政大臣。他一上任便提出对贵族的房地产征收土地税，并实施财政紧缩政策，招致贵族的强烈反对，因而任职不到一年便遭罢免。

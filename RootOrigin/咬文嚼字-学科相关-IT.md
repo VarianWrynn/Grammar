@@ -59,6 +59,36 @@ vt. 切碎, 搞糟
 
 
 
+### **gauges【ɡeɪdʒ】**
+
+> (用仪器)测量;判定，判断(尤指人的感情或态度);估计;估算
+> n. 厚度;测量仪器(或仪表);计量器;宽度;(枪管的)口径
+>
+> 1 - 来自 PIE*ghalgh,杆，棍，词源同 gallows.字母 l 软化成 u.词义由杆，棍引申为测量，比较 canon,词源同 cane.
+
+<img src="./images/main-qimg-8c8f6560140e47336d15a911d8687ee1" alt="img" style="zoom: 67%;" />
+
+-  an instrument for measuring the amount or level of sth((often in compounds 常构成复合词) 测量仪器（或仪表）；计量器)
+
+- a measurement of the width or thickness of sth
+
+  > What gauge of wire do we need?(我们需要多大直径的金属丝？)
+
+- a measurement of the width of the barrel of a gun
+
+  > a 12-gauge shotgun (12号猎枪)
+
+- the distance between the rails of a railway/railroad track or the wheels of a train(（铁道的）轨距；（火车的）轮距)
+
+  > - standard gauge (= 56½ inches in Britain) (标准轨距（在英国为56.5英寸）)
+  > - a narrow gauge (= narrower than standard) railway 窄轨铁路
+
+- ~ (of sth): a fact or an event that can be used to estimate or judge sth (（用于估计或判断的）事实，依据，尺度，标准) 
+
+  > Tomorrow's game against Arsenal will be a good gauge of their promotion chances. (明天与阿森纳队的比赛是衡量他们能否升级的很好的依据。)
+
+
+
 ## Christ（基督）：基督教中的“救世主”
 
 英语单词**Christ**（基督）源自希腊单词khristos，是对希伯来语**mashiah**（弥赛亚）的意译。
