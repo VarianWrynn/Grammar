@@ -87,7 +87,7 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
-## Physiology 生理
+## Physiology 生理学
 
 > he scientific study of the normal functions of living things
 
@@ -122,6 +122,28 @@ A **larva** is an insect at the stage of its life after it has developed from an
 - Those children do not produce enough growth hormone. 那些孩子缺乏生长激素。
 
 
+
+### phlegm （粘液）：导致人性情冷淡的粘液
+
+> 词根分解  [词根树]
+> **`phlegm-**` 
+> = flame, 表示“发炎”。源自希腊语 phlegein "to burn."
+
+根据四体液学说，体内粘液占比较高的人性情冷淡、反应迟钝。因此，英语单词phlegm（粘液）的形容词phlegmatic就产生了“冷淡的、迟钝的”等含义。
+
+古医学体液理论构成人体的血液，黏液，胆汁，黑胆汁四种体液之一。来自希腊语 phlegma,发热，由体热所致的多痰症，来自 phlegein,燃烧，发热，来自 PIE*bhel,照耀，燃烧，词源同 blaze,bleach.
+
+后在中世纪医学理论认为体内多痰会致人**冷淡**，**迟钝**，但是，被误解为冷淡是**冷静**，**镇定**的表现，因此，产生模糊和矛盾的词义。
+
+- **phlegm**：[flem] n. 痰；粘液
+- **phlegmatic**：[fleg'mætɪk] adj. 冷淡的；迟钝的；冷漠的
+- **phlegmy**：['flɛmi] adj. 痰的；生痰的；含痰的
+
+1. the thick mucus secreted by the walls of the respiratory passages , especially during a cold 
+2. calmness or composure that is not easily disturbed 
+3. in medieval medicine , one of the four basic bodily fluids . Phlegm was believed to be cold and moist in nature and to cause sluggishness and apathy . 
+4.  a thick yellow or green substance that you get in your nose and throat , especially when you have a cold 
+5. the ability to be calm in a dangerous or frightening situation 
 
 
 
