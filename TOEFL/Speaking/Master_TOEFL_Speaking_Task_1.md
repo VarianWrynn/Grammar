@@ -57,9 +57,36 @@ New TOEFL Speaking Guide by BestMyTest, Dennis.
 英语中表示“红色”的词根**`rub-`**同样来自拉丁语***ruber***（红色）。
 
 - rub-：红色，红色的
-- red： [rɛd] n. 红色，红颜料；赤字adj. 红色的
-- robust： [rə(ʊ)'bʌst] adj.强健的，强壮的，粗野的，粗鲁的
-- ruby：['rubi] n. 红宝石；红宝石色adj. 红宝石色的vt. 使带红宝石色
-- rubicund：['ruːbɪk(ə)nd] adj. 红润的；透红的
-- **rubric**： ['rubrɪk] n. 红字标题；红色印刷；题目 adj. 印为红字的
 
+- red： [rɛd] n. 红色，红颜料；赤字adj. 红色的
+
+- robust： [rə(ʊ)'bʌst] adj.强健的，强壮的，粗野的，粗鲁的
+
+- ruby：['rubi] n. 红宝石；红宝石色adj. 红宝石色的vt. 使带红宝石色
+
+- rubicund：['ruːbɪk(ə)nd] adj. 红润的；透红的
+
+- **rubric**： ['rubrɪk] 
+
+  <img src="./img/ebf6e59d749d99dbc015d81db8a7d241.jpg" alt="The 5 Best Free Rubric Making Tools For Teachers - eLearning Industry" style="zoom: 67%;" />
+
+  - n. 红字标题；红色印刷；题目 
+  - adj. 印为红字的
+
+
+
+
+
+## 练习
+
+### 1. Agree or Disagree
+
+### 2. Preference
+
+### 3. Three Choices
+
+### 4. Advantages and Disadvantages 
+
+### 5. If / imaginary
+
+### 6. Description or Explanation
