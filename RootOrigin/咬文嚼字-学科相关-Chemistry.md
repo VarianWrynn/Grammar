@@ -20,7 +20,7 @@
 
 
 
-### 1. -ium 
+### 1. -ium[1] 
 
 **`-ium`**表示金属元素。1811 年瑞典化学家 [Berzelius](https://en.wikipedia.org/wiki/J%C3%B6ns_Jacob_Berzelius) 建议，为统一化学元素的命名起见，凡金属元素一律用拉丁词根命名，用 **`-um`** 为词尾。以后所发现的新金属元素，都遵照了这个建议。
 
@@ -49,6 +49,17 @@
 [^1]: [同位素](https://www.zhihu.com/question/314301893)同属于某一化学元素，其原子具有相同数目的电子，原子核也具有相同数目的质子，但却有不同数目的中子。例如氕、氘和氚，它们原子核中都有1个质子，但是它们的原子核中分别有0个中子，1个中子及2个中子，所以它们互为同位素。
 
 
+
+#### -ium 名词后缀，构成身体器官或生物学等词汇，这些词复数形式一般是-ia形式。
+
+| 单词                                                         | 解释                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **bacter-ium**               <br />【bækˈtɪriəm】<br />复数： **bacteria**<br />【bækˈtɪriə】 | **`bacter-`** <br/>= bacterium, 表示“细菌”。源自希腊语 baktron "staff." |
+| **ef-fluv-ium**                    <br />【e'flu:vɪəm】<br />复数：**effluvia**<br />【ɛˈfluːvjə】 | **`ef-`** <br/>表示“从，从...离开，从...向外，向外，向上”，来自PIE *eghs, 向外。<br/>**`fluv-`** <br/>= flow, 表示“流动”。源自拉丁语 bluere "to flow."<br /><img src="./images/effluvia.png" alt="More 60 Effluvia Synonyms. Similar words for Effluvia." style="zoom: 80%;" /><br />n.   臭气；臭液；【物】磁素；【无线】无声放电 |
+| **epi-thel-ium** <br />【ˌepɪ'θiːlɪəm】                      | 【生】上皮；【植】皮膜 <br /><img src="./images/Epithelium-678x381.jpg" alt="Epithelial tissue: characteristics and classification scheme and types -  Online Biology Notes" style="zoom: 67%;" /> |
+| **geran-ium** <br />【dʒəˈreɪniəm】                          | 老鹤草属植物，天竺葵<br />a garden plant with a mass of red, pink or white flowers on the end of each stem<br /><img src="./images/image-20211208103340235.png" alt="image-20211208103340235" style="zoom:50%;" /> |
+| **mycel-ium** <br />【maɪ'siːlɪəm】                          | n.【生】菌丝体 <br /><img src="./images/image-20211208103640316.png" alt="image-20211208103640316" style="zoom: 50%;" /><br />**hypha**【haɪfə】：〈拉〉菌丝；外菌丝（ny of the threadlike filaments forming the mycelium of a fungus）<br />**Chitin**【kaɪtɪn】：  【生化】几丁质；【动】(甲)壳质 a tough semitransparent horny substance<br />**glucan**【glu:kən】：  葡聚糖；多聚葡萄糖 any [polysaccharide](https://www.collinsdictionary.com/zh/dictionary/english/polysaccharide) consisting of a [polymer](https://www.collinsdictionary.com/zh/dictionary/english/polymer) of [glucose](https://www.collinsdictionary.com/zh/dictionary/english/glucose), such as [cellulose](https://www.collinsdictionary.com/zh/dictionary/english/cellulose) or starch |
+| **nas-turt-ium**<br />【nəˈstɜːrʃəm】                        | 旱金莲(有时用于色拉)<br /><img src="./images/image-20211208104536332.png" alt="image-20211208104536332" style="zoom:50%;" /><br />a garden plant with round flat leaves and red, orange or yellow flowers that are sometimes eaten in salads |
 
 
 
