@@ -85,6 +85,31 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
+### malaria 由脏空气引发的疾病
+
+<img src="./images/ds00475_im00175_mcdc7_malaria_transmitthu_jpg.jpg" alt="Malaria - Symptoms and causes - Mayo Clinic" style="zoom:90%;" />
+
+疟疾（**malaria【məˈleriə】**）是一种由于疟蚊叮咬引发的传染病。在古代罗马(该词源自意大利语短语mala aria) 城周围有许多沼泽，沼泽附件的空气又脏又臭，在沼泽附近待的时间一久，人就容易得疟疾。
+
+当时的罗马人不知道疟疾是因为疟蚊叮咬引发的，还以为是脏空气引发的，所以将这种病称为malaria，由mal（bad）+aria（air）构成，字面意思就是“脏空气”。英语单词malaria就来自意大利语**malaria**。
+
+该词始用于18世纪中期。到了19世纪后半期，当人们发现疟疾是由按蚊（**anopheles【ə'nɒfəˌlɪz】**）传布时，便给疟疾重新下了定义，但却保留了原有的名称。
+
+- **malaria**：[mə'leərɪə] n.疟疾，痢疾，瘴气
+- **malarial**：[mə'lɛrɪəl] adj.疟疾的，患疟疾的，毒气的
+
+
+
+### mosquito  （蚊子）：小飞虫
+
+> n. 蚊子
+
+蚊子的体型通常很小，因此在古代***西班牙***语中被称为**mosquito**，是**`mosca`**（飞虫）的指小形式，字面意思就是“小飞虫”。英语单词mosquito就直接来自西班牙语。
+
+(**anopheles【ə'nɒfəˌlɪz】**词根则是来自古希腊)
+
+- mosquito：[mə'skito] n.蚊子
+
 
 
 ## Physiology 生理学
