@@ -276,3 +276,41 @@ catholic ['kæθlɪk] adj.天主教的；宽宏大量的，n.天主教徒；罗�
 - **pastoral**：['pæstərəl] adj. 牧师的；牧人的；田园生活的；乡村的n. 牧歌；田园诗；田园景色
 - **pastorale**： [,pæstə'rɑli] n. （意）田园曲；牧歌式歌剧
 - **pasture**： ['pæstʃɚ] n. 草地；牧场；牧草vt. 放牧；吃草
+
+
+
+### What is the difference between pastors / priests / ministers?
+
+My answer is limited to the application in a contemporary Christian context. Wikipedia actually has pretty good information about this. (http://en.wikipedia.org/wiki/Pastor, http://en.wikipedia.org/wiki/Priest, http://en.wikipedia.org/wiki/Minister_(Christianity))
+
+But I would make a few quick summarizing comments.
+
+**Pastor** - in the Catholic/Anglican/Orthodox churches, generally refers to the priest who is the presiding priest of a particular parish (one local church community, as opposed to the Church at-large) sort of like a principal of one school and it is a job title. In most Protestant denominations it refers to a job title or job function of being a working religious leader.
+
+在天主教/英国圣公会/东正教教堂中，**Pastor**通常指某一教区（一个当地教会社区，而不是整个教会）的首席牧师（presiding priest），有点像一所学校的校长，这是一个职位。在大多数**新教**教派中，它指的是工作宗教领袖的职位或职务。
+
+**Priest** - generally only found in the Catholic/Anglican/Orthodox churches, a priest is your basic ordained clergyman who can provide the standard range of church services and sacraments. This is both a job title and a clerical rank. 
+
+So for example, if a Catholic parish has three priests working there, one of them ought to be the pastor, but they all have the same clerical rank and serve under a bishop, archbishop or cardinal.
+
+priest 一般只在天主教/英雄/东正教教堂中出现，priest 是可以提供标准的教堂服务和圣礼来你洗礼入会的神职人员。Priesr既是职称也是神职等级。
+
+例如，如果天主教教区有三个priests在那里工作，其中一人应该是pastor，但他们都有相同的神职等级，并在主教，大主教或红衣主教下服务。
+
+**Minister** - generally only found in Protestant churches and refers to someone who has been ordained a minister (the processes for that vary widely). But this person can be a minister without having the job of a pastor or performing any religious services currently. 
+
+For example, sometimes you hear of child preachers who become ordained ministers, and later on in life stop performing religious services but are still technically ministers. Being an ordained minister means being recognized as a religious authority of some sort.
+
+通常只在**新教**教堂中出现，指的是被任命为minister的人(任命的程序差别很大)。但这个人可以是一个minister ，而没有pastor的工作或执行任何宗教服务目前。
+
+例如，有时你会听说一些儿童传道者成为被任命的ministers，却在后续的生活中停止执行宗教服务，但根据确切意义地说，他仍然是minister。被任命为minister 意味着被承认为某种宗教权威。
+
+
+
+As [Anthony Prince](https://www.quora.com/profile/Anthony-Prince) pointed out in the comments, "[i]n some protestant denominations, pastors are ordained positions while ministers are not ordained."
+
+
+
+**Reference**
+
+1. [**What is the difference between pastors / priests / ministers?**](https://www.quora.com/What-is-the-difference-between-pastors-priests-ministers)
