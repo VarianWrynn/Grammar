@@ -314,3 +314,27 @@ As [Anthony Prince](https://www.quora.com/profile/Anthony-Prince) pointed out in
 **Reference**
 
 1. [**What is the difference between pastors / priests / ministers?**](https://www.quora.com/What-is-the-difference-between-pastors-priests-ministers)
+
+
+
+## purgatory（炼狱）：净化有罪灵魂的地方
+
+<img src="./images/web3-holy-souls-purgatory1.jpg" alt="How long does purgatory last?" style="zoom:67%;" />
+
+单词**purgatory**（炼狱）原本是一个基督教的术语，指的是人死后，灵魂被“锤炼”、“净化”的地方。单词**purgatory**和**pure**（纯净）同源，来自拉丁语***purus***（纯净的），字面意思就是“净化的场所”。
+
+“炼狱”在基督教大分裂中曾是引发分歧的教义之一。由于炼狱没有直接来自于《圣经》的根据，故不被大多数东正教、基督新教和基督教系的新兴宗教所接纳，仅被**天主教**奉为信条。
+
+按照天主教的说法，人信仰基督后即可灵魂得救，死后升入天堂。但是，如果生前尚有罪恶没有赎罪，或没有充分地悔罪，死后灵魂并不能马上升天，而是先要在炼狱中进行净化。但丁在《神曲》中提到，炼狱共有9层，生前犯有罪过，但可以得到宽恕的灵魂，按人类的七大罪过，分别在那里忏悔罪过，洗涤灵魂。
+
+在1095年时，教皇乌耳班二世曾为鼓励十字军的士兵，演说应许参加圣战的人可以减少在炼狱中受苦的时间，而丧生者，更可不经炼狱直接进天堂。
+
+现在，**purgatory**不仅表示“炼狱”，常常用来比喻磨炼、暂时的苦难。
+
+- **purgatory**：['pɜːgət(ə)rɪ] n.炼狱；涤罪；暂时的苦难adj.涤罪的
+- **purgative**：['pɝɡətɪv] adj. 净化的；通便的；赎罪的n. 泻剂，泻药
+- **purgation**： [pɝ'geʃən] n. 清洗；洗罪；（吃泻药）通便
+- **pure**：[pjʊr] adj. 纯的；纯粹的；纯洁的；清白的
+- **purity**：['pjʊrəti] n. 纯度；纯洁；纯净；纯粹
+- **purify**：['pjʊrɪfaɪ] v. 净化；（使）变纯净
+- **purge**：[pɝdʒ] v. 净化；清洗；通便n. 净化；泻药
