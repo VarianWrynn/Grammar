@@ -2,6 +2,10 @@
 
 @(TOEFL)[托福, TOEFL, 词根词缀,咬文爵字,学科相关]
 
+[toc]
+
+
+
 ## Biology(生物学)
 
 **biology** - 意为“生命”或“生物”的希腊语词根**`bíos`**被近代欧洲语言吸收，广泛用作前缀或构词成分，特别是在20世纪。
@@ -169,6 +173,21 @@ A **larva** is an insect at the stage of its life after it has developed from an
 3. in medieval medicine , one of the four basic bodily fluids . Phlegm was believed to be cold and moist in nature and to cause sluggishness and apathy . 
 4.  a thick yellow or green substance that you get in your nose and throat , especially when you have a cold 
 5. the ability to be calm in a dangerous or frightening situation 
+
+
+
+### acne（痤疮）：acme的误写
+
+acne【ˈækni】（痤疮）：acme【ˈækmi】（顶点）的误写。
+
+单词**acne**指的是青少年脸上常见的粉刺、痤疮，它实际上与单词**acme**（顶点、最高点）同源。单词**acne**和**acme**都源自希腊语***akmas***，本意是“点”，同时还可以表示脸上的斑点。
+
+<img src="./images/image-20211211100552119.png" alt="image-20211211100552119" style="zoom:50%;" />	
+
+6世纪时，在将希腊语**akmas**直译为拉丁语时，译者看花了眼，将字母**`m`**看成了**`n`**，译成了拉丁语***aknas***。这一错误保留至今，并演变成了英语单词**acne**，专指“粉刺、痤疮”。
+
+- acne：['ækni] n. 粉刺，痤疮
+- acme：['ækmi] n. 顶点，极点；最高点
 
 
 
