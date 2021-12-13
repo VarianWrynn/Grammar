@@ -1,4 +1,4 @@
-# 咬文嚼字-学科相关-Philosophy
+# 咬文嚼字-学科相关-Animal
 
 @(TOEFL)[托福, TOEFL, 词根词缀,咬文爵字,学科相关]
 
@@ -131,7 +131,7 @@ n. 小脏孩;贫穷肮脏的儿童;流浪儿
 
 => **[ˈæ-lɪ-ɡeɪ-tər]**
 
-<img src="./images/image-20211129151656105.png" alt="image-20211129151656105" style="zoom: 33%;" />
+<img src="./images/image-20211129151656105.png" alt="image-20211129151656105" style="zoom: 25%;" />
 
 当西班牙殖民者初次踏上美洲大陆，遇到美洲特有的短吻鳄时，就用西班牙语称其为***el lagarto***（**the lizard**，蜥蜴）。后来英国殖民者沿用了西班牙人对其的称谓，在英语中将其称作***lagarto***。但在16世纪末期，有些人误将西班牙语中的定冠词**`el`**也看作该词的一部分，因此就从西班牙语**`el lagarto`**中产生了英语单词**alligator**。
 
@@ -139,7 +139,7 @@ n. 小脏孩;贫穷肮脏的儿童;流浪儿
 
 ### crocodile
 
-![image-20211129151954116](./images/image-20211129151954116.png)
+<img src="./images/image-20211129151954116.png" alt="image-20211129151954116" style="zoom:50%;" />
 
 > The difference between an alligator (left) and a crocodile (right).
 
