@@ -159,6 +159,7 @@ being帮助其他修饰成分做成了主语宾语的主干成分。
 
 只是隐隐然觉得 名词+ 动词+ed的句子感觉有点奇怪，说不上哪里不对。比如：
 - We haven't found any other orders overlooked by Automation.
+- Brightpearl **have been investigating** **`whether or not`** we are exposed to this problem since early this morning, and so far all evidence **points to** a very low risk **of this being an issue** for us.
 
 
 
