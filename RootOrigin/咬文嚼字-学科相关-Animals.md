@@ -119,6 +119,23 @@ mammal - baby一词来自babe，原为babe的指小词，一度指“玩具娃�
 
 
 
+### pickle   泡菜, 腌菜; 盐卤汁; 困境; 讨厌鬼
+
+<img src="./images/image-20211216124509964.png" alt="image-20211216124509964" style="zoom: 55%;" />
+
+> n. 泡菜, 腌菜; 盐卤汁; 困境; 讨厌鬼
+> vt. 腌制; 酸洗
+
+**pickle** - 一般辞书认为，**pickle**源自中世纪荷兰语***pekel***，但有一种说法认为，它源于14世纪一个名叫***William Beukel/Bukelz***的荷兰人的姓氏。此人乃渔民，据说他发明了腌菜和泡菜的制作方法，因此人们就用其姓氏Beukel来指腌汁、泡菜等，以后该词逐渐演变为pekel，英语作**pickle**。
+
+例　
+
+- Would you like a pickle with that sandwich? (FWF) 你的三明治要不要配泡菜？
+- These cucumbers are just the right size for pickling. (CWR) 这些黄瓜拿来腌大小正合适。
+- Lisa bought some pickles at the deli. (NED) 莉萨在熟食店买了点泡菜。
+
+
+
 <font size=5> save one's bacon</font>
 
 **save one's bacon**使自己(或某人)免遭死亡(或损伤，失败)；幸免于难。
