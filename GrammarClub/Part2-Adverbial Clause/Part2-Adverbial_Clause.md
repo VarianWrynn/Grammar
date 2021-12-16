@@ -31,12 +31,6 @@
 
 
 
-
-
-
-
-
-
 ## 1. Overview
 
 I think of this process [as a lottery](https://blog.ploeh.dk/2020/09/14/we-need-young-programmers-we-need-old-programmers/). 
@@ -63,21 +57,36 @@ I think of this process [as a lottery](https://blog.ploeh.dk/2020/09/14/we-need-
 [^1]: All API access is over HTTPS, and accessed from  ht tps://[site].eliteextra.com/x/api/  [where](https://developer.eliteextra.com/#api-reference) [site] represents the specific EXTRA intance used.
 
 
-#### After
- <u>After he graduated</u>, the young man <u>found</u> himself unemployed.
 
-外加after构成**时间副词从句**，`修饰动词found的时间`。
+#### After(时间副词从句)
+
+ <u>After he graduated</u>, the young man <u>found</u> himself unemployed. ( 外加after构成**时间副词从句**，`修饰动词found的时间`。)
+
+一个case:
+
+Since you mentioned it might be caused by the reaching peak of Black Friday, so we do tests after the peak has passed.
+
+<img src="./image-20211216142722144.png" alt="image-20211216142722144" style="zoom: 80%;" />
+
+<img src="./image-20211216142801248.png" alt="image-20211216142801248" style="zoom:80%;" />
+
+> 此处after做连词，引导时间状语从句哈。你说的that, which引导定语从句，前面要有先行词。
+
+
 
 #### Although /though
+
 My sister <u>dosen't have</u> a boyfriend now, <u>although(though) she is very pretty</u>.
 
 拼成although或拼成though，用法与意思都完全相同。外加although或though成为表示**让步的副词从句**，修饰动词**doesn’t have**。
+
+
 
 #### As
 
 这个连接词有几种不同的意思：
 
-#####  1. 方式?副词从句
+#####  1. 方式副词从句
 
 Haste makes waste, as the saying goes. (俗话说，欲速则不达。)
 
@@ -112,8 +121,6 @@ Tears **ran** down the woman’s cheeks **as the train pulled away**.(火车离�
 
 
 
-
-
 At least 25 dead [as](https://mp.weixin.qq.com/s/kgreEzFCkLmzwM4OsLWTYg) rains deluge central China's Henan province.
 > 这句话是 时间状语 而不是 原因状语从句，相当于when，**但比 when 弱，所以只起到描述背景的作用**。
 
@@ -136,9 +143,7 @@ At least 25 dead [as](https://mp.weixin.qq.com/s/kgreEzFCkLmzwM4OsLWTYg) rains d
 
 
 
-
-
-其基本用法为as+ adj./ adv. +as…
+其基本用法为**as+ adj./ adv. +as…**
 
 
 
@@ -203,11 +208,14 @@ The woman <u>treats</u> her husband <u>as if he **were** a baby</u>. (这个女�
 
 外加连接词as if构成表示**方法、状态的副词从句**，修饰动词treats的方式。时间是现在，却采用were这个动词，所以这个副词从句的语气是**表达非事实的「虚拟语气」**。
 
+
+
 #### As long as  [条件]
 
 As long as there is ammunition left, we will fight on. (只要还有弹药剩下，我们就会奋战下去。)
 
 外加连接词as long as构成**条件副词从句**，修饰动词will fight on的条件。
+
 
 
 #### [Even if](https://www.zybang.com/question/5cbac6aec502173fffa3f5a4e10d7c26.html)
@@ -223,6 +231,7 @@ As long as there is ammunition left, we will fight on. (只要还有弹药剩下
 > Scott Adams popularized ***/ˈpɑː.pjə.lə.raɪz/*** the idea of finding the  intersection of 2-3 things you're best at [even if](https://eriktorenberg.substack.com/p/build-personal-moats) you're not best at any of them individually.
 >  
 > You can now view requests and responses from endpoints (even if errors occur).
+
 
 
 #### if
