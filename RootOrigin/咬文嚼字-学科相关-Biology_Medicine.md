@@ -6,7 +6,7 @@
 
 
 
-## Biology(生物学)
+# Biology(生物学)
 
 **biology** - 意为“生命”或“生物”的希腊语词根**`bíos`**被近代欧洲语言吸收，广泛用作前缀或构词成分，特别是在20世纪。
 
@@ -26,11 +26,11 @@
 
   
 
-###  [Taxonomic rank](https://en.wikipedia.org/wiki/Taxonomic_rank)
+##  [Taxonomic rank](https://en.wikipedia.org/wiki/Taxonomic_rank)
 
 
 
-### phyt- = plant, 表示“植物” {37}
+## phyt- = plant, 表示“植物” {37}
 
 > 源自希腊语 phutos, phuton "a plant."
 
@@ -42,7 +42,7 @@
 
 
 
-#### orchid（兰花）：根部像男人睾丸的花卉
+### orchid（兰花）：根部像男人睾丸的花卉
 
 > 词根分解  [词根树]
 > orchid- 
@@ -139,11 +139,37 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
-## Physiology 生理学
+# Physiology 生理学
 
 > he scientific study of the normal functions of living things
 
-### Core- （心）：源自心脏的意识活动
+
+
+## **`-yl`** 表示“...基”{18}
+
+| 单词                                         | 解释                                                         | 单词 | 解释 |
+| -------------------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+|                                              |                                                              |      |      |
+| **glycos-yl-ation**<br />【glaɪkəsɪ'leɪʃən】 | 糖基（苷）化（作用）<br/>**`glycos-`** = glucose, glycose, 表示“糖”。源自希腊语 glukus "sweet."<br/>**`-yl`** 表示“...基”。<br/>**`-ation`** 表名词，“行为、动作、状态、过程、结果；物品”等。<br />the process by which sugars are chemically attached to proteins to form glycoproteins<br />糖蛋白糖与蛋白质化学结合形成糖蛋白的过程 |      |      |
+|                                              |                                                              |      |      |
+
+
+
+## **`-ose`** 表示“碳水化合物” {13}
+
+> **`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物”
+
+| 单词                             | 解释                                                         | 单词 | 解释 |
+| -------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **glucos∙e** <br />【ˈɡluːkoʊs】 | **gluc-甜 + -ose，构词形式 glucos-**。<br />**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物”<br/>**`glucos-`** = glucose, glycose, 表示“糖”。源自希腊语 glukus "sweet." |      |      |
+|                                  |                                                              |      |      |
+|                                  |                                                              |      |      |
+
+
+
+
+
+## Core- （心）：源自心脏的意识活动
 
 我们中国人认为心脏是人的意识活动的场所，所以才有“心灵”、“心理”、“心思”等词汇。和我们东方人一样，古代西方人也有类似的观念，所以很多表示意识活动的单词都由表示心脏的词根**`cord-`**构成。该词根来自拉丁语**`cor/cordis`**（心脏）。词根**`card-/cardio-`**（心脏）来自希腊语***kardia***，但最终源头和**`cord-`**一样来自原始印欧语词根**`kerd-`**。
 
@@ -214,7 +240,69 @@ acne【ˈækni】（痤疮）：acme【ˈækmi】（顶点）的误写。
 
 
 
-## Medicine [ˈmedɪsn]
+# Medicine [ˈmedɪsn]
+
+
+
+##  -ia：表名词，某种疾病 {125}
+
+| 单词                                                         | 解释                                                         | 单词                                                         | 解释                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **pneumonia**<br />【njuːˈməʊniə】                           | **`pneumon-`** <br/>= lung, 表示“肺”。源自希腊语 pnein "to breatoe," pneuma "breath, wind, spirit."<br/>**`-ia`** <br/>表名词，表示“某种病”。<br />**Pneumonia** is a serious disease which affects your lungs and makes it difficult for you to breathe. | **eu-thanas-ia**                           <br />【ˌjuːθəˈneɪʒə】 | **eu-好 + thanas-死亡 + -ia表示“疾病”=>安乐死**<br />**`eu-`** 表示“好，优秀”。源自希腊语 eu- "well."<br/>**`thanas-`** = death，表示“死亡”。源自希腊语 thanatos "death."<br />the practice (illegal in most countries) of killing without pain a person who is suffering from a disease that cannot be cured |
+| eu-phor-ia                                                   | 兴奋，陶醉                                                   | dys-phor-ia                                                  | 烦躁不安                                                     |
+| **my-op-ia** <br />【maɪˈoʊpiə】                             | **my-=myst-关闭 + op-眼睛 + -ia，引申词义目光短浅，后用于指近视眼=>近视**<br />**`my-`** = secret, mystery, 表示“秘密，神秘”，原意表示“关闭”。<br/>**`op-/ops-/opt-/opto-`** = sight, 表示“视力，眼睛”。源自希腊语 ops "eye." | **hyper-op-ia** <br />【ˌhaɪpəˈroʊpiə】                      | **hyper-超过，多 + op-视力 + -ia=>远视**<br />**`hyper-`** 表示“超过，太多”。源自希腊语 huper "over."<br/>**`op-`** = sight, 表示“视力，眼睛”。源自希腊语 ops "eye." |
+| hyster-ia                                                    | 歇斯底里在                                                   | neo-phil-ia                                                  | 新欢新奇                                                     |
+| **algo-lagn-ia** <br />【æl'ɡəʊlæɡnjə】<br /> [sadism](http://www.youdao.com/w/sadism/?keyfrom=dict.collins), [masochism](http://www.youdao.com/w/masochism/?keyfrom=dict.collins) | **algo-痛 + lagn-色欲 + -ia表示“疾病”=>受虐狂**.<br />**`algo-`** = pain, 表示“痛”。<br/>**`lagn-`** = lust, 表示“色欲”。源自希腊语 lagnos "lustful, lascivious."<br />sexual pleasure experienced through inflicting【ɪnˈflɪktɪŋ】 or experiencing pain | necro-phil-ia                                                | 恋尸狂                                                       |
+| pedo-phil-ia                                                 | 恋童癖                                                       | phob-ia                                                      | 恐惧症                                                       |
+| peri-pet-ia                                                  | 剧情突变，命运的突变                                         | perip-pete-ia                                                | 情节突变                                                     |
+| alopec-ia                                                    | 脱发                                                         | a-mnes-ia                                                    | 健忘症                                                       |
+| hypp-mnes-ia                                                 | 记忆力减低                                                   | an-aem-ia                                                    | 贫血症                                                       |
+| an-em-ia                                                     | 贫血症                                                       | an-orex-ia                                                   | 食欲缺乏 厌食症                                              |
+| **glycos-ur-ia** <br />【ˌglaɪkəʊ'sjʊərɪə】                  | 糖尿病<br />**`glycos-`** = glucose, glycose, 表示“糖”。源自希腊语 glukus "sweet."<br/>**`ur-`** = urine, 表示“尿”。源自拉丁语 urina "urine."<br />the presence of abnormally high levels of sugar in the urine | **glucos∙e** <br />【ˈɡluːkoʊs】                             | **gluc-甜 + -ose，构词形式 glucos-**。<br />**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物”<br/>**`glucos-`** = glucose, glycose, 表示“糖”。源自希腊语 glukus "sweet." |
+| **glycos-yl-ation**<br />【glaɪkəsɪ'leɪʃən】                 | 糖基（苷）化（作用）<br/>**`glycos-`** = glucose, glycose, 表示“糖”。源自希腊语 glukus "sweet."<br/>**`-yl`** 表示“...基”。<br/>**`-ation`** 表名词，“行为、动作、状态、过程、结果；物品”等。<br />the process by which sugars are chemically attached to proteins to form glycoproteins<br />糖蛋白糖与蛋白质化学结合形成糖蛋白的过程 | hypo-glyc-em-ia                                              | 低血糖                                                       |
+| hemat-ur-ia                                                  | 血尿症                                                       | acid-em-ia                                                   | 酸血症                                                       |
+| dys-kines-ia                                                 | 运动障碍，动作困难                                           | dys-phag-ia                                                  | 咽下困难，吞咽困难                                           |
+| dys-phon-ia                                                  | 发声困难，言语障碍                                           | dys-toc-ia                                                   | 难产                                                         |
+| hypo-therm-ia                                                | 低体温                                                       | a-chromat-ops-ia                                             | 全色盲                                                       |
+| a-dynam-ia                                                   | 体力缺乏 无力症                                              | a-lex-ia                                                     | 失读症                                                       |
+| ambly-op-ia                                                  | 弱读                                                         | a-ment-ia                                                    | 智力缺陷                                                     |
+| de-ment-ia                                                   | 痴呆                                                         | ex-ophthalm-ia                                               | 突眼症                                                       |
+| in-somn-ia                                                   | 失眠症                                                       | para-phas-ia                                                 | 语言错乱                                                     |
+
+
+
+## rhe-,rrhex,rrhea-= to flow, 表示“流” {35}
+
+古希腊人认为风湿病是由多余的液体流入关节引起韧带肿胀，所以命名为 rheumatism。源自希腊语 rhein "to flow," rheuma "stream, humor of the body."
+
+| 单词                           | 解释                        | 单词                                                         | 解释                                                         |
+| ------------------------------ | --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                |                             |                                                              |                                                              |
+| rhinorrhea <br />[,rainə'ri:ə] | n. 鼻液溢（词根rhino-表鼻） | logorrhea<br /> [,lɔgə'riə]                                  | n.多言癖（词根logo-表说）                                    |
+| hemorrhea                      | 大出血（词根hemo-表血       | **hemo-rrh-oid-s**                         <br />【ˈhɛməˌrɔɪdz】 | **`hemo-`** 表示“血”。源自希腊语 haima (词干 haimat-) "blood."<br/>**`-oid`** = form, 表示“…之物”，在几何学上表示“…形”；作形容词后缀，表示“如…的”。‘o’为希腊语中的连词符，id=eidos, 希腊语，表示“样貌、影像”<br />piles(piles有表示堆积的意思)painful swollen veins at or near the anus |
+| menorrhea                      | n.月经（词根meno-表month）  | gonorrhea <br />[,ɡɒnə'rɪə]                                  | n.淋病（词根gon-表精子，源自错误的认知），那现在明白-rrhea表啥了吧？ |
+|                                |                             |                                                              |                                                              |
+
+
+
+## pneumon- = lung, 表示“肺”{19}
+
+> pneumon- 
+> = lung, 表示“肺”。源自希腊语 pnein "to breatoe," pneuma "breath, wind, spirit."
+
+
+
+| 单词                               | 解释                                                         | 单词           | 解释                                                         |
+| ---------------------------------- | ------------------------------------------------------------ | -------------- | ------------------------------------------------------------ |
+| **pneumonia**<br />【njuːˈməʊniə】 | **`pneumon-`** <br/>= lung, 表示“肺”。源自希腊语 pnein "to breatoe," pneuma "breath, wind, spirit."<br/>**`-ia`** <br/>表名词，表示“某种病”。<br />**Pneumonia** is a serious disease which affects your lungs and makes it difficult for you to breathe. | pneumato-meter | 肺活量计                                                     |
+| pneumon-ic                         | 肺的，肺炎的                                                 | pneumon-ectomy | 肺切除术                                                     |
+| pneumon-itis                       | 肺炎.....                                                    | pneumo-coccus  | 肺炎球菌                                                     |
+| pneumo-coniosis                    | 肺尘埃病                                                     | pneumo-rrhagia | 肺出血<br />**`-rrhagia`** = burst, 表示“破裂”。源自希腊语 rhegnunai "to burst forth." |
+| pneumo-bacillus                    | 肺炎杆菌                                                     |                |                                                              |
+
+
+
+
 
 ### placebo（安慰剂）
 
