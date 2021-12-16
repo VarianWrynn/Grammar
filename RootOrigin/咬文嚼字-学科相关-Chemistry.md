@@ -2,6 +2,10 @@
 
 @(TOEFL)[托福, TOEFL, 词根词缀,咬文爵字,学科相关]
 
+[toc]
+
+
+
 
 
 **chemistry（化学）：古阿拉伯人的炼金术**
@@ -20,7 +24,7 @@
 
 
 
-### 1. -ium[1] 
+### 1. -ium<sup>[1] </sup>表示金属元素
 
 **`-ium`**表示金属元素。1811 年瑞典化学家 [Berzelius](https://en.wikipedia.org/wiki/J%C3%B6ns_Jacob_Berzelius) 建议，为统一化学元素的命名起见，凡金属元素一律用拉丁词根命名，用 **`-um`** 为词尾。以后所发现的新金属元素，都遵照了这个建议。
 
@@ -41,7 +45,7 @@
 | **hel-ium**<br />【ˈhiːliəm】                                | 1868 年法国的**杨森**利用分光镜观察太阳表面，发现一条新的黄色谱线，并认为是属于太阳上的某个未知元素，故名氦（**helium**）。<br />a chemical element. Helium is a very light gas that does not burn, often used to fill balloons and to freeze food. | **cerium**<br />【ˈsɪriəm】                          | 化学元素铈（**cerium**）也是以谷物女神的名字命名的。<br />a chemical element. Cerium is a silver-white metal used in the production of glass and ceramics . |
 | **lith-ium**<br />【ˈlɪθiəm】                                | **`lith-`** 表示化学元素“锂”，因锂元素发现于石头中而得名。源自希腊语 lithos "stone."<br />a chemical element. Lithium is a soft, very light, silver-white metal used in batteries and alloys . | **cadm-ium**<br />【ˈkædmiəm】                       | 镉元素（**cadmium**）以卡德摩斯的名字命名。这是因为镉元素是从菱锌矿（**cadmia**）中发现的，而菱锌矿最早是在底比斯城附近发现的，故采用底比斯城的古名 **Cadmia**（卡德摩斯之城）来命名。 |
 | **german-ium**<br />【dʒɜːrˈmeɪniəm】                        | **锗**。来自其发现者 19 世纪德国科学家 Clemens Alexander Winkler 以祖国 Germany 命名的金属元素。<br /> chemical element. Germanium is a shiny grey element that is similar to a metal (= is a metalloid ) . | **irid-ium**<br />【ɪˈrɪdiəm】                       | a chemical element. Iridium is a very hard yellow-white metal, used especially in making alloys . |
-| **holm-ium**<br />【ˈhoʊlmiəm】                              | Holmium 1 - 来自 **Holmia**,***瑞典首都 Stockholm 拉丁名字***，该稀土元素发现者 19 世纪瑞典化学家 Per TeodorCleve 以此命名，以纪念他的家乡。 | Palladium<br />【pəˈleɪdiəm】                        | 英语单词 **palladium** 就来自帕拉斯的名字，表示“守护神”。著名化学家 Wollaston 用它来命名他新发明的金属元素钯。 |
+| **holm-ium**<br />【ˈhoʊlmiəm】                              | Holmium 1 - 来自 **Holmia**,***瑞典首都 Stockholm 拉丁名字***，该稀土元素发现者 19 世纪瑞典化学家 Per TeodorCleve 以此命名，以纪念他的家乡。 | **Palladium**<br />【pəˈleɪdiəm】                    | 英语单词 **palladium** 就来自帕拉斯的名字，表示“守护神”。著名化学家 Wollaston 用它来命名他新发明的金属元素钯。 |
 |                                                              |                                                              |                                                      |                                                              |
 
 
@@ -50,7 +54,9 @@
 
 
 
-#### -ium 名词后缀，构成身体器官或生物学等词汇，这些词复数形式一般是-ia形式。
+#### -ium<sup>[2]</sup> 名词后缀
+
+ium<sup>[2]</sup> 名词后缀，构成身体器官或生物学等词汇，这些词复数形式一般是-ia形式。
 
 | 单词                                                         | 解释                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
