@@ -119,6 +119,14 @@ mammal - baby一词来自babe，原为babe的指小词，一度指“玩具娃�
 
 
 
+| 单词                         | 解释                                                         |
+| ---------------------------- | ------------------------------------------------------------ |
+| **lard**<br />【lɑːrd】      | n. 猪油<br/>vt. 涂加猪油, 夹杂, 润色<br /><img src="./intensifyImg/image-20211217154045104.png" alt="image-20211217154045104" style="zoom: 33%;" /><br /> - 来自拉丁语 lardum,猪油，熏肉。后仅指猪油。 |
+| **crumb**<br />【krʌm】      | n. 碎屑, 面包屑; 少许<br/>vt. 捏碎, 弄碎<br /><img src="./intensifyImg/image-20211217154606929.png" alt="image-20211217154606929" style="zoom:50%;" /><br />来自古英语cruma, 面包屑，碎片。可能同crisp, 卷的， 脆的。<br /><br />在IT界，尤其是网站设计里面，Crumb就是navigator导航栏。具体缘由参阅《Don't make me think》。 |
+| **crumble**<br />【ˈkrʌmbl】 | crumb【面包屑】 + -le, 表反复。<br />v. （使）破碎, 成碎屑; 坍塌; 崩溃<br/>n. 酥皮水果甜点<br/><img src="./images/image-20211217160415707.png" alt="image-20211217160415707" style="zoom: 50%;" /><br /> |
+
+
+
 ### pickle   泡菜, 腌菜; 盐卤汁; 困境; 讨厌鬼
 
 <img src="./images/image-20211216124509964.png" alt="image-20211216124509964" style="zoom: 55%;" />
