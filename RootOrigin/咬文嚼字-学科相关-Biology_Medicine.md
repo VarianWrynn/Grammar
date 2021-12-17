@@ -244,6 +244,130 @@ acne【ˈækni】（痤疮）：acme【ˈækmi】（顶点）的误写。
 
 
 
+
+
+## ine / in<sup>1</sup> {51} 表形容词 "....的"
+
+also *-in*, adjectival word-forming element, Middle English, from Old French *-in*/*-ine*, or directly from Latin suffix *-inus*/*-ina*/*-inum* "of, like," forming adjectives and derived nouns, as in *divinus*, *feminus*, *caninus*; 
+
+> 这个词根可以看出我对拉丁(古罗马)词根有多陌生。。。。
+
+| 单词                          | 解释                                                         | 单词                               | 解释                                                         |
+| ----------------------------- | ------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------------ |
+| **bov-ine**<br />【ˈboʊvaɪn】 | a. (似)牛的, 迟钝的n. 牛科动物 ： bov-牛 + -ine<br />**`bov-`** = ox, 表示“牛”。源自拉丁语 bos (词干 bov-) "ox, bull, cow."<br/>更多同源词...<br/>**`-ine`** 表形容词，“…的”。 | aquil-ine                          | 似鹰的，钩状的                                               |
+| asin-ine                      | 驴的，愚蠢的                                                 | can-ine                            | 犬齿，                                                       |
+| carp-ine                      | 山羊的                                                       | columbine                          | 鸽似的                                                       |
+| elephat-ine                   | 象的，巨大的，粗苯的                                         | equ-ine                            | 马的                                                         |
+| leonine                       | 狮子的，狮子般的                                             | lup-ine                            | 狼的，凶残的                                                 |
+| pisc-ine                      | 鱼的，鱼族的                                                 | porc-ine                           | 猪的，猪似的                                                 |
+| serpent-ine                   | 蛇的，层层卷绕的，阴险的，迂回的                             | vultur-ine                         | 秃鹫似的，贪婪的，掠食的                                     |
+| sibyll-ine                    | 女巫的，预言性的                                             | hirc-ine                           | 山羊的，羊膻味的                                             |
+| mur-ine                       | 鼠科的                                                       | viper-ine                          | 毒蛇的                                                       |
+| vulp-ine                      | 狐狸的，狐狸似的，诡计多端的                                 | zebr-ine                           | 斑马的，像斑马的                                             |
+| petal-ine                     | 花瓣的，花瓣状的                                             | **alkal∙ine**  <br />【ˈælkəlaɪn】 | **`alkal-`** <br/>表示“碱”，源自阿拉伯语 al-qaliy (the ashes)。al-是阿拉伯语中的定冠词 "the"。<br/><br />碱性的;含碱的（Something that is **alkaline** contains an alkali or has a pH value of more than 7.） |
+| caul-ine                      | 茎的，茎生的                                                 | a-mar-anth-ine                     | 不凋的，不死的，紫红色的                                     |
+| hyacinth-ine                  | 风信子的，紫青色的                                           | hyal-ine                           | 玻璃似的，透明的                                             |
+| sangu-ine                     | 血红色的，满怀希望的，乐观的                                 | nerv-ine                           | 神经的，有镇静作用的                                         |
+| sup-ine                       | 仰卧的，掌心向上的，懒散的                                   | saturn-ine                         | 沉默寡言的，阴沉的，铅中毒的                                 |
+|                               |                                                              |                                    |                                                              |
+| femin-ine                     | 女性的，阴性的                                               | infant-ine                         | 小孩似的                                                     |
+| ex-sangu-ine                  | 失血的，贫血症的                                             | sacchar-ine                        | 糖的，含糖的，极甜的                                         |
+| sal-ine                       | 盐的，苦涩的，                                               | bacul-ine                          | 棍棒的，鞭刑的                                               |
+| inter-nec-ine                 | 相互残杀的，两败俱伤的                                       | per-egr-ine                        | 流浪的，移居的，漫游的，外国的，一样的                       |
+| asbest-ine                    | 石棉的，不燃性的                                             | figual-ine                         | 陶土的                                                       |
+| estuar-ine                    | 河口的，港口的                                               | pont-ine                           | 桥的，与桥有关的                                             |
+| river-ine                     | 河的，河边的，                                               | pendul-ine                         | 悬垂的                                                       |
+
+
+
+### alkali（碱）：古阿拉伯人从灰烬中提取的物质
+
+<img src="./images/Blog+Asset-960w.png" alt="img" style="zoom: 67%;" />
+
+在中世纪时，阿拉伯人就掌握了从生长于海边盐碱地上的藜科植物**saltwort**（猪毛草）中提取碱的方法。他们焚烧这种植物，从灰烬中获得碱类物质。
+
+<img src="./images/image-20211217162632015.png" alt="image-20211217162632015" style="zoom: 80%;" /><img src="./images/image-20211217162655858.png" alt="image-20211217162655858" style="zoom:67%;" />
+
+在阿拉伯语中，这种来自灰烬的碱被称为***al-qali***，其中**al**是定冠词，**qali**就是“灰烬”的意思。
+
+英语单词alkali就源自阿拉伯语**al-qali**，表示“碱”。
+
+- **alkali**：['ælkəlaɪ] 
+
+  - n.碱
+  - adj.碱性的
+
+- **alkaline**：['ælkəlaɪn] adj.碱性的，碱的
+
+- **alkaloid**：['ælkə'lɔɪd] n. 生物碱；植物碱基
+
+  <img src="./images/image-20211217162838764.png" alt="image-20211217162838764" style="zoom:50%;" /> 
+
+
+
+## -[ine  / -in<sup>2</sup>](https://www.etymonline.com/word/-ine?ref=etymonline_crossreference#etymonline_v_42197) 表名词，“状态，药物，化学物品”等  {39}+{65}
+
+- 有两种意思，其中一种是 chemical suffix [-ine](https://www.etymonline.com/word/-ine?ref=etymonline_crossreference#etymonline_v_42197)
+
+> word-forming element in chemistry, often interchangeable with [-in](https://www.etymonline.com/word/-in?ref=etymonline_crossreference#etymonline_v_42359) (2), though modern use distinguishes them; early 19c., from French *-ine*, the suffix commonly used to form words for derived substances, hence its extended use in chemistry. It was applied unsystematically at first (as in [aniline](https://www.etymonline.com/word/aniline?ref=etymonline_crossreference)), but now has more restricted use.
+
+| 单词                                   | 解释                                                         | 单词                                                 | 解释                                                         |
+| -------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------ |
+| **Caffe-ine**<br />【ˈkæfiːn】         | 咖啡因，咖啡碱<br />**Caffeine** is a chemical substance found in coffee, tea, and cocoa, which affects your brain and body and makes you more active. | **coca-ine**                      <br />【koʊˈkeɪn】 | coca n. [古柯](https://baike.baidu.com/item/%E5%8F%A4%E6%9F%AF/2772401?fr=aladdin), 古柯叶，南美经济作物<br />a powerful drug that some people take illegally for pleasure and can become addicted to. Doctors sometimes use it as an anaesthetic . |
+| morph-ine                              |                                                              | **penicillin**<br />【ˌpenɪˈsɪlɪn】                  | 青霉素;盘尼西林                                              |
+| adrenal-ine                            | **`adrenal-`** 表示“肾上腺”。复合词根：**`ad-`**（to）+ **`reno-`**（肾）+**al-**（...的)。<br />肾上腺分泌的一种激素及神经传导物质，能使心跳加快，让人在兴奋、恐惧、紧张或愤怒时精力猛增。 | **vacc-ine**                                         | **`vacc-`** = bull, 表示“牛”。源自拉丁语 vacca "cow.<br />牛痘苗，疫苗 |
+| medic-ine                              |                                                              |                                                      |                                                              |
+|                                        |                                                              | nectar-ine[^3]<br />【ˈnektəriːn】                   | 油桃(桃的变种，果皮光滑)                                     |
+| anti-febr-ine                          |                                                              | dopam-ine                                            | compound organic chemical, 1959, from *DOPA,* the amino acid (from first letter of elements of *dioxyphenylalanine*), + [amine](https://www.etymonline.com/word/amine?ref=etymonline_crossreference). |
+| chlor-ine                              |                                                              | curarine                                             |                                                              |
+| iod-ine                                |                                                              | epi-nephr-ine                                        |                                                              |
+|                                        |                                                              | vasel-ine                                            |                                                              |
+| chol-ine                               |                                                              | fluor-ine                                            |                                                              |
+| **mescal-ine**     <br />【ˈmeskəlɪn】 | 墨斯卡林，仙人球毒碱(从仙人球中提取的致幻剂)<br />a drug obtained from a type of cactus , that affects people's minds and makes them see and hear things that are not really there | **aspir-in**<br />【ˈæsprɪn】                        | 阿司匹林,一种解热镇痛药品的商标名称。<br />a drug used to reduce pain, fever and inflammation |
+| dis-cip-l-ine                          | **`dis-`**分开 + **`cip-`**抓住 + **`-l-`** + **`-ine`**。引申词义训练，必要的纪律，惩罚。 | doctr-ine                                            | = to teach, 表示“教”。源自拉丁语 docere "to teach."          |
+| fam-ine                                | fam-来自拉丁语fames,饥饿，饥荒                               | rout-ine                                             | **route** n. 路径, 途径, 路线 vt. 确定路线, 按规定路线发送。<br />常规;正常顺序;生活乏味;无聊;(演出中的)一套动作，一系列笑话(等) |
+| mar-ine                                | 舰队，水兵                                                   |                                                      |                                                              |
+
+[^3]: nectar（甘露）：神的饮品。希腊神话众神饮用的琼浆玉液叫做nektar，由nek-（死亡）和-tar（战胜）组成，字面意思就是“战胜死亡”，据说神仙们饮用后可以永葆美貌并长生不老。英语单词nectar就来来源于此。nectar：['nektə] n.花蜜，甘露，琼浆玉液，神酒，美味的饮料 <br>nectarous：['nektərəs] adj.甘美的，神酒似的
+
+nectary：['nekt(ə)rɪ] n.（植物）蜜腺，蜜管
+
+
+
+### penicillin 青霉素
+
+penicillin - 1928年春的一天，英国细菌学家弗莱明（**Sir Alexander Fleming**, 1881-1955）在伦敦圣玛丽医院（St. Mary's Hospital）的实验室里观察到他所培养的葡萄球菌被一种特异青霉菌penicillium notatum所污染。
+
+这种霉菌极有可能是从窗外飘进来的。随着青霉菌的迅速繁殖，金黄色的葡萄球菌不仅不能生长发育，而且不断地被消灭。这显示青霉菌能分泌一种杀灭葡萄球菌或防止其生长的物质。他把这种物质取名为penicillin。
+
+以后英国病理学家佛洛里（**Howard Walter Florey**, 1898-1968）和德裔英籍生物化学家钱恩（**Ernst Boris Chain**, 1906-1979）根据弗莱明的发现，将**penicillin**分离、提纯，并首次进行了临床试验，从而肯定了它的治疗价值。为此三人合得1945年诺贝尔生理学或医学奖。
+
+**penicillin**的发现标志着抗生素纪元的开始，它拯救了千百万人的生命，解除了无数人的痛苦。尽管弗莱明发现**penicillin**完全出于偶然，但他的名字将永远和**penicillin**联系在一起。
+
+**penicillin**一词是发现者根据可用以提取青霉素等抗生素的青霉菌之拉丁名称***pēnicillium***杜撰的，汉语最初将它音译为“盘尼西林”，但如今人们常称之为“青霉素”。
+
+- The doctor prescribed some penicillin to fight my infection. (NED) 为了治疗我的感染，医生给我开了一些青霉素。
+- She has a penicillin allergy. 她对青霉素过敏。
+
+<img src="./images/image-20211217163310133.png" alt="image-20211217163310133" style="zoom:67%;" />
+
+
+### aspirin 阿司匹林：一种解热镇痛药品的商标名称
+
+阿司匹林的学名叫做乙酰水杨酸，是一种历史悠久的解热镇痛药，诞生于1899年3月6日。
+
+在德语中，乙酰水杨酸是***acetylierte spirsäure***，冗长而拗口，不方便记忆。于是，一位德国化学家Heinrich Dreser利用acetylierte（乙酰[ **xiān**]）的第一个字母a、spirsäure（水杨酸）的前四个字母spir以及表示化学制品的后缀**`-in`**，创造了aspirin这个新词，用作一种乙酰水杨酸药品的商标名。
+
+由于这个商标名易于发音和记忆，很快就得到广泛应用。人们去药店买药时，不会说要买“乙酰水杨酸”，而是直接说买**aspirin**，哪怕要买的药品并非aspirin这个品牌。就这样，aspirin这个词就从一个商标名演变成了一种药品名称。
+
+- aspirin：['æsprɪn] n.阿司匹林
+
+- The doctor prescribed aspirin for my arthritis pain. (CWR) 医生为我的关节炎疼痛开了阿斯匹林。
+
+- As aspirin prevents the formation of blood clots, it is also used to treat heart attack and stroke victims. (CID) 由于阿斯匹林可以防止血块的形成，它也被用于治疗心脏病和中风患者。
+
+  
+
 ##  -ia：表名词，某种疾病 {125}
 
 | 单词                                                         | 解释                                                         | 单词                                                         | 解释                                                         |
