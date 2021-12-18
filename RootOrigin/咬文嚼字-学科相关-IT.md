@@ -350,3 +350,22 @@ As [Anthony Prince](https://www.quora.com/profile/Anthony-Prince) pointed out in
 - **purity**：['pjʊrəti] n. 纯度；纯洁；纯净；纯粹
 - **purify**：['pjʊrɪfaɪ] v. 净化；（使）变纯净
 - **purge**：[pɝdʒ] v. 净化；清洗；通便n. 净化；泻药
+
+
+
+##  Babel v.s Babble
+
+**Babel【ˈbeɪbl】** 
+
+> 嘈杂声(尤指讲多种语言).the sound of many voices talking at one time, especially when more than one language is being spoken
+
+源出基督教《圣经》。据其首卷《创世记》所载，Babel原为一城市名。大洪水后，诺亚的后代拟在此建一高塔直通天庭，上帝怒其狂妄，使建塔者突操不同之语言，彼此互不相通，此通天塔因此终未建成，而人类则散居世界各地。这段神话似乎意在说明人类语言纷杂的原因。
+
+**babel**一词到了英语中也据此被赋予了“嘈杂混乱的地方”、“嘈杂声”、“空想的计划”等义。该词的终极词源是阿卡得语(Akkadian) bab-ili，其义为gate of the gods（神门）。阿卡得语乃古巴比伦王国的一种语言。但是**babel**却是从希伯来语借来的。其实《圣经》中的Babel与**Babylon【ˈbæbəˌlɑn】**（巴比伦）指的乃是同一个城市。只是**Babylon**一词通过希腊语进入英语，所以词形不同，其引申义也截然不同，它常用以喻指“奢华淫靡的城市”。
+
+英语另有一词**babble【ˈbæbl】**，究其根源和**babel**并无任何联系。该词系一拟声词，仿婴儿牙牙学语声构成，许多语言中都有类似拟声词。但有的辞书（如《牛津英语词典》）认为**babble**的一些词义可能系与**babel**相联系而受影响的，比如**babble**在用作名词时除了指“（婴孩）咿呀学语声”、“潺潺流水声”，也指“模糊不清的谈话”及“嘈杂的谈话声”；用作动词时，则表示“模糊不清地说”或“唠唠叨叨地说”。
+
+- The convention became a babel of conflicting opinions. (FWF) 会议变成了一阵乱哄哄的争吵。
+- We could hear the babble of a brook. (FWF) 我们可以听到小溪的潺潺流水声。
+- We listened to Isabel's childish babble as she played. (CID) 我们听着伊莎贝尔玩耍时发出的童稚的咿呀声
+- I have no idea what she was babbling about. 我不知道她在唠叨些什么。
