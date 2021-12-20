@@ -24,7 +24,7 @@
 
 
 
-### 1. -ium<sup>[1] </sup>表示金属元素
+## 1. -ium<sup>[1] </sup>表示金属元素
 
 **`-ium`**表示金属元素。1811 年瑞典化学家 [Berzelius](https://en.wikipedia.org/wiki/J%C3%B6ns_Jacob_Berzelius) 建议，为统一化学元素的命名起见，凡金属元素一律用拉丁词根命名，用 **`-um`** 为词尾。以后所发现的新金属元素，都遵照了这个建议。
 
@@ -54,7 +54,7 @@
 
 
 
-#### -ium<sup>[2]</sup> 名词后缀
+## -ium<sup>[2]</sup> 名词后缀
 
 ium<sup>[2]</sup> 名词后缀，构成身体器官或生物学等词汇，这些词复数形式一般是-ia形式。
 
@@ -69,7 +69,7 @@ ium<sup>[2]</sup> 名词后缀，构成身体器官或生物学等词汇，这�
 
 
 
-### 2. hydr- = water, 表示“水”
+## 2. hydr- = water, 表示“水”
 
 **hydr- = water**, 表示“水”，来源于希腊语。***表示化学元素“氢(hydrogen)”，因为氢燃烧后的产物是水***，法国化学家拉瓦锡便用拉丁文把它命名为“水的生成者”。源自希腊语 hudor "water."
 
@@ -77,7 +77,7 @@ ium<sup>[2]</sup> 名词后缀，构成身体器官或生物学等词汇，这�
 
 
 
-### 3.  -ite<sup>1</sup> 名词后缀：和化学相关(源自法语) {54}
+## 3.  -ite<sup>1</sup> 名词后缀：和化学相关(源自法语) {54}
 
 **`-ite`** 名词后缀，源自法语。和化学相关，如：矿物、岩石、炸药等。
 
@@ -91,7 +91,7 @@ ium<sup>[2]</sup> 名词后缀，构成身体器官或生物学等词汇，这�
 
 
 
-#### 3.1 grain / core / maize (颗粒)
+### 3.1 grain / core / maize (颗粒)
 
 **corn**乃本族词，来自古英语。在英国**corn**统指“谷类”，在英格兰指“小麦”，在苏格兰和爱尔兰则指“燕麦”。17世纪英国殖民者来到美洲大陆看见当地玉米，就把它称作**Indian corn**。由于当时玉米为新英格兰地区种植的唯一粮食作物，所以后来人们逐渐地把修饰性形容词Indian省略了，corn就这样成了玉米的美国名称，而英国英语则仍沿用**maize**。在美国英语口语中**corn**也指“威士忌酒”，因为美国威士忌酒多用玉米酿成。
 
@@ -100,7 +100,7 @@ ium<sup>[2]</sup> 名词后缀，构成身体器官或生物学等词汇，这�
 - Buy peanuts and corn chips for the party. (CID) 给晚会买些花生和玉米片。
 - The chickens are raised on a diet of corn and other grains. (OCD) 这些鸡是用玉米和其他谷类饲养的。
 
-#### 3.2 **pomegranate**（石榴）：有许多颗粒的水果。
+### 3.2 **pomegranate**（石榴）：有许多颗粒的水果。
 
 英语单词pomegranate（石榴）来自拉丁语pomum granatum，字面意思就是“有许多颗粒的水果”，由pome（水果）+ grenate（颗粒、纹理）构成。石榴得此名称是因为它切开后里面含有大量颗粒状的石榴籽。
 
@@ -112,7 +112,7 @@ ium<sup>[2]</sup> 名词后缀，构成身体器官或生物学等词汇，这�
 
 
 
-### 4. -ite<sup>2</sup> 形容词、名词、动词后缀，表示“属于或和...相关”（来自古希腊语）{38}
+## 4. -ite<sup>2</sup> 形容词、名词、动词后缀，表示“属于或和...相关”（来自古希腊语）{38}
 
 > 来自拉丁语和希腊语。
 
@@ -134,7 +134,7 @@ ium<sup>[2]</sup> 名词后缀，构成身体器官或生物学等词汇，这�
 
 
 
-### 5. -ase = enzyme【ˈenzaɪm】, 表示“...酶”。{31}
+## 5. -ase = enzyme【ˈenzaɪm】, 表示“...酶”。{31}
 
 
 
@@ -150,7 +150,7 @@ ium<sup>[2]</sup> 名词后缀，构成身体器官或生物学等词汇，这�
 
 
 
-##### [Catalyst vs. Enzyme](https://www.diffen.com/difference/Catalyst_vs_Enzyme)
+### [Catalyst vs. Enzyme](https://www.diffen.com/difference/Catalyst_vs_Enzyme)
 
 **`cata-`** 表示“向下，相反，离开”。源自希腊语 kata "down."
 
@@ -172,18 +172,54 @@ l**`yst-`** = break down, 表示“裂开，分解，溶解”。源自希腊语
 
 
 
-##### agent
+### agent
 
-![image-20211020150252431](F:/Lee/Githubs/Grammar/RootOrigin/images/image-20211020150252431.png)<img src="F:/Lee/Githubs/Grammar/RootOrigin/images/image-20211021122109143.png" alt="image-20211021122109143" style="zoom:50%;" />
+![image-20211020150252431](./images/image-20211020150252431.png)<img src=".\images\image-20211021122109143.png" alt="image-20211021122109143" style="zoom:50%;" />
 
 - 我推测 ~~agent是catalyst的口语化表达~~
 - agent可以是任何产生（化学和生物）反应的溶剂
 - 而catalyst是特质产生化学反应的催化剂。
 - 实际上我在google上看到了 catalyst agent的表达
 
-### 7. 其他
 
-#### 1. [ammonia](https://mp.weixin.qq.com/s?__biz=MzA4NTQ4NzIzNg==&mid=2651801153&idx=1&sn=f3c49ec59712d9ff612cb1ed11980260&chksm=842cddaab35b54bcc04beb866207c8ef4a614d3bfe5d25a2b7d45a7806e3b77fa31fd3b66e35&scene=178&cur_album_id=1297162942844207107#rd)
+
+## 6.**`-yl`** 表示“...基”{18}
+
+| 单词                                         | 解释                                                         | 单词                                                | 解释                                                         |
+| -------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------ |
+| **alk-yl**<br />【ælkɪl】                    | 烷基（的）；烃基（的）<br />**`alk-`** 表示“烃”。<br/>describes a hydrocarbon group derived from an alkane , e . g . the ethyl group | **acet-yl**                        <br />【æsɪtɪl】 | 乙酰基<br />acet- <br/>表示“醋酸、乙酸”，并进一步抽象出含义“乙，二”。源自拉丁语 acetum "vinegar."<br/> the organic group of acetic acid (CH3CO-) |
+| **meth-yl**<br />【ˈmeθəl】                  | **`meth-`** 表示“甲，一”，提取自单词 methylene“亚甲基”。源自希腊语 methu "wine."<br/>**`-yl`** 表示“...基”。<br />the univalent radical CH3- derived from methane（甲烷衍生的一价CH3自由基） | **meth-ane**<br />【ˈmeθeɪn】                       | 甲烷;沼气 <br />**`meth-`** 表示“甲，一”，提取自单词 methylene“亚甲基”。源自希腊语 methu "wine."<br/>-**`ane`** 表示“...烷”。<br />a gas without colour or smell, that burns easily and is used as fuel. Natural gas consists mainly of methane . |
+| **glycos-yl-ation**<br />【glaɪkəsɪ'leɪʃən】 | 糖基（苷）化（作用）<br/>**`glycos-`** = glucose, glycose, 表示“糖”。源自希腊语 glukus "sweet."<br/>**`-yl`** 表示“...基”。<br/>**`-ation`** 表名词，“行为、动作、状态、过程、结果；物品”等。<br />the process by which sugars are chemically attached to proteins to form glycoproteins<br />糖蛋白糖与蛋白质化学结合形成糖蛋白的过程 |                                                     |                                                              |
+
+
+
+## 7.**`-ose`** 表示“碳水化合物” {13}
+
+> **`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物”
+
+| 单词                             | 解释                                                         | 单词 | 解释 |
+| -------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **glucos∙e** <br />【ˈɡluːkoʊs】 | **gluc-甜 + -ose，构词形式 glucos-**。<br />**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物”<br/>**`glucos-`** = glucose, glycose, 表示“糖”。源自希腊语 glukus "sweet." |      |      |
+|                                  |                                                              |      |      |
+|                                  |                                                              |      |      |
+
+
+
+## -ane 化学名词后缀，表示“...烷”。
+
+| 单词                                          | 解释                                                         | 单词                                        | 解释                                                         |
+| --------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------------------------ |
+| **meth-yl **                 <br />【ˈmeθəl】 | **`meth-`** 表示“甲，一”，提取自单词 methylene“亚甲基”。源自希腊语 methu "wine."<br/>**`-yl`** 表示“...基”。<br />the univalent radical CH3- derived from methane（甲烷衍生的一价CH3自由基） | **meth-ane**              <br />【ˈmeθeɪn】 | 甲烷;沼气 <br />**`meth-`** 表示“甲，一”，提取自单词 methylene“亚甲基”。源自希腊语 methu "wine."<br/>-**`ane`** 表示“...烷”。<br />a gas without colour or smell, that burns easily and is used as fuel. Natural gas consists mainly of methane . |
+| **eth-ane**             <br />【ˈiːθeɪn】     | 乙烷(无色无味的可燃气体)<br />**`eth-`** 表示“乙，二”。<br />a gas that has no colour and no smell and burns very easily . It is obtained from petroleum and natural gas and is used as a fuel . |                                             |                                                              |
+|                                               |                                                              |                                             |                                                              |
+
+
+
+
+
+## 其他
+
+### 1. [ammonia](https://mp.weixin.qq.com/s?__biz=MzA4NTQ4NzIzNg==&mid=2651801153&idx=1&sn=f3c49ec59712d9ff612cb1ed11980260&chksm=842cddaab35b54bcc04beb866207c8ef4a614d3bfe5d25a2b7d45a7806e3b77fa31fd3b66e35&scene=178&cur_album_id=1297162942844207107#rd)
 
 氨是一种无色气体，含有强烈的刺激气味，极易溶于水，是许多食物和肥料的重要成分。英语中表示氨的单词是ammonia，源自古埃及神话中阿蒙神的名字Ammon。
 
@@ -197,9 +233,9 @@ l**`yst-`** = break down, 表示“裂开，分解，溶解”。源自希腊语
 
 
 
-#### 2. plumb 古罗马垂直的铅块
+### 2. plumb 古罗马垂直的铅块
 
-##### 古罗马的灭亡可能与铅(plumb)有关
+#### 古罗马的灭亡可能与铅(plumb)有关
 
 在英语中，表示“水管工”的单词是**plumber**，由**`plumb`**（铅）+**`er`**（人）组成，字面意思就是“铅制品工人”。水管与铅制品有什么关系呢？原来，这是因为在古罗马时期，人们广泛用铅来制作水管。
 
@@ -213,11 +249,11 @@ l**`yst-`** = break down, 表示“裂开，分解，溶解”。源自希腊语
 
 
 
-##### 吃蘑菇超人的超级玛利亚是plumber
+#### 吃蘑菇超人的超级玛利亚是plumber
 
 在拉丁语中，***plumbum***表示“铅”，由此衍生出英语单词**plumb**（铅）和词根**`plumb-`**（铅）。由于古罗马的上下水管道都是用铅制成的，因此安装、维修这些管道的工人在英语中就被称为**plumber**（铅制品工人）了，而单词**plumbing**既可以表示“铅工业”，也可以表示“水管工业”。
 
-##### 铅锤plummet
+#### 铅锤plummet
 
 古人还发现铅的比重较大，特别适合用来确定垂直线，不容易因为风、水流等偏离垂直方向，所以英语单词**plumb**除了表示“铅”以外，还可以表示“**垂直状态、垂直的、使垂直**”等含义。单词**plummet**指用来确定垂直线的铅锤或铅坠，是**plumb**的指小形式，字面意思就是“小铅块”。
 
@@ -225,7 +261,7 @@ l**`yst-`** = break down, 表示“裂开，分解，溶解”。源自希腊语
 
 
 
-##### 像铅块一样临风不动 aplomb
+#### 像铅块一样临风不动 aplomb
 
 英语单词**aplomb**由**a**（on，位于，处于）和**plomb**（=plumb，垂直的）组成，字面意思就是“像铅垂那样处于垂直状态”。由于铅垂不易受外部因素影响而左右乱动，所以**aplomb**引申出“**沉着、泰然自若**”的含义。比如：
 
@@ -233,7 +269,7 @@ l**`yst-`** = break down, 表示“裂开，分解，溶解”。源自希腊语
 
 <img src="./images/image-20211115103722131.png" alt="image-20211115103722131" style="zoom:67%;" />
 
-##### 铅块投入湖水中 plunge
+#### 铅块投入湖水中 plunge
 
 英语单词**plunge**（投入、跳入）其实也与**plumb**同源。它来自拉丁语，由词根**`plumb-`**（铅）和动词后缀组成，字面意思就是“将铅坠投入水中”。由于在法语中发生了音变，导致它的拼写发生了较多变化。
 
@@ -247,7 +283,7 @@ Reference:
 
 
 
-#### 3. Alcohol  （酒精）：古代中东妇女用来画眼影的锑粉
+### 3. Alcohol  （酒精）：古代中东妇女用来画眼影的锑粉
 
 长久以来，阿拉伯、波斯、新疆等地的妇女就已经发现锑粉是一种极好的化妆品。她们用从锑石中精炼提纯的锑粉涂在眼圈附近，不仅能使眼睛更漂亮，还能消除眼疲劳和红肿的功效。阿拉伯妇女喜欢用锑粉画出浓重的眼影，埃及艳后克娄巴特拉的妆容便是典型。
 
@@ -267,7 +303,7 @@ Reference:
 - I could smell the alcohol on his breath from ten feet away! (CID) 我在10英尺之外就能闻到他呼吸中的酒味。
 - The doctor told me to keep off alcohol. 医生叫我别沾酒。
 
-#### 4. aroma（芬香）：从芬香植物中萃取的油膏
+### 4. aroma（芬香）：从芬香植物中萃取的油膏
 
 古人很早就开始尝试从芬香植物中萃取精油和药膏，用于保健、提神、治疗、防腐、杀菌等多种用途。在公元前3000年时，古埃及的“医学与治疗之神”伊姆茶提普就使用从植物中萃取的油和膏药治疗疾病。古埃及人在制作木乃伊时还广泛使用芳香精油做为防腐剂和化妆品。考古学家曾经在公元前5世纪的米索不达米亚文明古墓中发现了用来蒸馏植物的器具。
 
