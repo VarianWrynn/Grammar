@@ -145,13 +145,13 @@ A **larva** is an insect at the stage of its life after it has developed from an
 
 
 
-## 
+<img src="./images/1200px-Chicken_egg_diagram.svg.png" alt="Amnion - Wikipedia" style="zoom: 50%;" />
 
-|      |      |      |      |
-| ---- | ---- | ---- | ---- |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
+| 单词                       | 解释                                                         | 单词 | 解释 |
+| -------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **amnion**<br />【æmnɪən】 | **`amnion-`** 表示“羊膜”，源自希腊语 amnion "membrane around a fetus"。<br /><br />1 . the inner of the two membranes enclosing the embryo of a bird , reptile , or mammal and its surrounding fluid . <br/>2 . the fluid - filled sac within which the embryo of a bird , reptile , or mammal develops |      |      |
+|                            |                                                              |      |      |
+|                            |                                                              |      |      |
 
 
 

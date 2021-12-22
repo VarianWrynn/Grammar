@@ -369,3 +369,29 @@ As [Anthony Prince](https://www.quora.com/profile/Anthony-Prince) pointed out in
 - We could hear the babble of a brook. (FWF) 我们可以听到小溪的潺潺流水声。
 - We listened to Isabel's childish babble as she played. (CID) 我们听着伊莎贝尔玩耍时发出的童稚的咿呀声
 - I have no idea what she was babbling about. 我不知道她在唠叨些什么。
+
+
+
+## mass 弥撒与群众
+
+mass - 英语里有两个mass。
+
+用作宗教术语的mass指天主教的圣体圣事仪式，汉语作“弥撒”。在这种仪式结束时神父总要用拉丁语说：“Ite, missa est”，相当于英语“Go, it is the dismissal”或“Go, you are dismissed”。显然，这是神父遣散全体参与者的用语。
+
+到了公元8世纪，其中missa一词开始被用以指整个弥撒仪式，进入中世纪英语作masse，最后演变为mass。可见mass原来的含义为dismissal（解散，遣散），而汉语“弥撒”则为拉丁语missa之音译，而绝非译自英语。若再进一步追根溯源的话，我们可发现missa派生自拉丁动词mittere 'to send'（派遣），英语里的mission（使团，使节）和missionary（传教士）也是源自该拉丁词。
+
+另一个mass是普通词，作“块”、“堆”、“群众”等义解，其词源和意为“弥撒”的mass截然不同。它源自希腊语mâza 'barley cake'（大麦饼），由法语masse 'kneaded dough'（揉好的面团）演变而来。出于同源的还有amass（积聚）和massive（大而重的）等词。
+
+例　
+
+- The priest says two Masses each day. 神父一天做两次弥撒。
+- Catholics usually go to Mass on Sunday. (NED) 天主教徒通常在星期天做弥撒。
+- The mass of the people support the political and economic reforms of the government. 多数人支持政府的政治和经济改革。
+- The forest is a mass of colour (= full of colour) in autumn. (CID) 秋季的森林色彩斑斓。
+
+
+
+**词源：**
+
+1. 来自拉丁语 missa,解散，遣散，词源同 mission,emit.宗教词义弥撒来自弥撒仪式后的解散语”Ite,missa est”,即走吧，解散了，ite,走，离开，词源同 exit,missa,解散，词源同 emit,est,是，词源同 is,essence.
+2. 来自拉丁语 massa,大块，面团，来自 PIE*mag,揉，捏，词源同 make,massage.引申词义团，块，堆，以及用于物理学术语物质质量，原子质量等。
