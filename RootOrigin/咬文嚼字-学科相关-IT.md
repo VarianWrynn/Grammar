@@ -395,3 +395,14 @@ mass - 英语里有两个mass。
 
 1. 来自拉丁语 missa,解散，遣散，词源同 mission,emit.宗教词义弥撒来自弥撒仪式后的解散语”Ite,missa est”,即走吧，解散了，ite,走，离开，词源同 exit,missa,解散，词源同 emit,est,是，词源同 is,essence.
 2. 来自拉丁语 massa,大块，面团，来自 PIE*mag,揉，捏，词源同 make,massage.引申词义团，块，堆，以及用于物理学术语物质质量，原子质量等。
+
+
+
+### Lucifer 路法西
+
+> 《以赛亚书》第14章第12节:
+>
+> How you have fallen from heaven, O morning star, son of the dawn！You have been cast down to the earth, you who once laid low the nations!
+
+路西法（Lucifer）是一个宗教传说的人物。“Lucifer”原先只是[基督教](https://baike.baidu.com/item/基督教/222408)与[犹太教](https://baike.baidu.com/item/犹太教/88496)的名词，出现于《以赛亚书》第14章第12节，意思为“明亮之星”，用来影射[古巴比伦](https://baike.baidu.com/item/古巴比伦/884630)的君王[尼布甲尼撒](https://baike.baidu.com/item/尼布甲尼撒/82569)。经过后世传播，成为了基督教中的堕落天使，虽然无法确认是从何时开始将路西法进行[拟人化](https://baike.baidu.com/item/拟人化)。
+
