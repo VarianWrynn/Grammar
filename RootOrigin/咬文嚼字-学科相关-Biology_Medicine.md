@@ -356,6 +356,20 @@ penicillin - 1928年春的一天，英国细菌学家弗莱明（**Sir Alexander
 
   
 
+### -osis  医学词根，表示“病理状况”{130}
+
+> -osis 
+> 医学词根，表示“病理状况”，复数形式 -oses。
+
+| 单词                                                         | 解释                                                         | 单词                                                        | 解释                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| **halit-osis **                             <br />【ˌhælɪˈtoʊsɪs】 | **`halit-`** = breathe, 表示“呼吸”，来自拉丁语。<br/>**`-osis`** 医学词根，表示“病理状况”，复数形式 -oses。<br />a condition in which the breath smells unpleasant | **acid-osis**                         <br />【ˌæsəˈdoʊsəs】 | **`acid`** n. 酸, 酸类物质, 尖刻, 迷幻药 a. 酸的, 酸性的, 尖刻的, 敏锐的<br/>**`-osis`** 医学词根，表示“病理状况”，复数形式 -oses。<br />abnormally high acidity (excess hydrogen-ion concentration) of the blood and other body tissues |
+| **`parasit∙osis`**<br />【ˌpærəsaɪ'təʊsɪs】                  | **`parasite`** <br/>n. 寄生生物, 寄生虫, 食客<br />a parasitic disease or infestation | **pollin∙osis**<br />【ˌpɑləˈnosɪs】                        | **`pollen`** n. 花粉 vt. 传授花粉给<br /> seasonal rhinitis resulting from an allergic reaction to pollen |
+| **psych∙osis**  <br />【saɪˈkoʊsɪs】                         | **`psych-`** = soul, 表示“灵魂，心理，精神”。源自希腊语 psykhe "spirit, soul."<br />a serious mental illness that affects the whole personality | **toxic∙osis**<br />【tɒksɪ'kəʊsɪs】                        | **`toxic-`** = poison, 表示“毒”。源自希腊语 toxon "bow."<br/>any disease or condition caused by [poisoning](https://www.collinsdictionary.com/zh/dictionary/english/poisoning) |
+| **zoo∙nos∙is**<br />【zəʊ'ɒnəsɪs】                           | **`-osis`** 医学词根，表示“病理状况”，复数形式 -oses。<br/>**`zoo-`** = animal, 表示“动物”。源自希腊语 zoon, zoion "living being, animal."<br/>**`nos-`** = disease，表示“疾病”。源自希腊语nosos "disease, sickness, malady."<br />an animal disease that can be transmitted to humans（人畜（兽）共患病） |                                                             |                                                              |
+
+
+
 ##  -ia：表名词，某种疾病 {125}
 
 | 单词                                                         | 解释                                                         | 单词                                                         | 解释                                                         |
