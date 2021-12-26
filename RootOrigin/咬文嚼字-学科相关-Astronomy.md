@@ -2,11 +2,17 @@
 
 @(TOEFL)[托福, TOEFL, 词根词缀,咬文爵字,学科相关]
 
+
+
+[toc]
+
+
+
 ## Astronomy
 
-![image-20210927113546301](F:\Lee\Githubs\Grammar\RootOrigin\images\image-20210927113546301.png)
+![image-20210927113546301](./images/image-20210927113546301.png)
 
-<img src="F:\Lee\Githubs\Grammar\RootOrigin\images\image-20210923103700689.png" alt="image-20210923103700689" style="zoom:67%;" />
+<img src="./images/image-20210923103700689.png" alt="image-20210923103700689" style="zoom:67%;" />
 
 ###  **`astr-`** / `aster-`（星）
 
@@ -39,6 +45,16 @@
 > - Natural disasters such as the drought two years ago have left the region devastated. (LLA) 自然灾害，如两年前的旱灾，使那个地区一片荒芜。
 > - Their first date was a disaster. 他们的第一次约会就彻底失败了。
 
+
+
+| 单词                                    | 解释                                                         | 单词 | 解释 |
+| --------------------------------------- | ------------------------------------------------------------ | ---- | ---- |
+| **Sirius**<br />【ˈsɪrɪəs】<br />天狼星 | the brightest star in the sky after the sun,<br /> lying in the constellation Canis Major. <br />It is a binary star whose companion, <br />Sirius B, is a very faint white dwarf. <br />Distance: 8.6 light-years<br />（它是一颗双星，其伴星天狼星B是一颗<br />非常微弱的白矮星。距离：8.6光年） |      |      |
+|                                         |                                                              |      |      |
+|                                         |                                                              |      |      |
+
+
+
 ### Mercury  水星 （神使墨丘利）
 
 #### 神使
@@ -47,7 +63,7 @@
 
 墨丘利（***Mercury***）是古罗马神话中主神朱庇特的儿子，等同于古希腊神话的赫耳墨斯（***Hermes***），负责为众神传递信息。他的形象一般是头戴一顶插有双翅的帽子，脚穿飞行鞋，手握魔杖，行走如飞。
 
-<img src="F:\Lee\Githubs\Grammar\RootOrigin\images\image-20210923103526165.png" alt="image-20210923103526165" style="zoom:67%;" />
+<img src="./images/image-20210923103526165.png" alt="image-20210923103526165" style="zoom:67%;" />
 
 墨丘利（Mercury）是罗马神话中为众神传递信息的使者，等同于希腊神话的赫耳墨斯（hermes）。他是主神朱庇特的儿子，是商业、交通旅游和体育运动的神，还是小偷和骗子所崇拜的保护神。他的形象一般是头戴一顶插有双翅的帽子，脚穿飞行鞋，手握魔杖，行走如飞。
 
@@ -109,6 +125,8 @@
 
 - Venus：['vinəs] n. 金星；维纳斯
 
+
+
 ### Earth 地球
 
 
@@ -137,16 +155,18 @@
 
 伊俄的名字 **Io** 在希腊语中就是“流浪”的意思，英语单词 **ion**（离子）与此同源。在天 文学上，**Io** 被用来命名木星的第一颗卫星。在化学中，元素锾（Ionium）的命名也源于此。
 
-- Io：[,aɪ 'o] n. 木卫一，伊俄 
-- Ionia：[ai'əunjə] n. 爱奥尼亚 
-- Ionian：[ai'əunjən] n.爱奥尼亚人 adj.爱奥尼亚的，爱奥尼亚人的 
-- Ionium：[aɪ'onɪəm] n. 锾（一种化学元素，第 90 号元素钍的放射性同位素）
+- **Io**：[,aɪ 'o] n. 木卫一，伊俄 
+- **Ionia**：[ai'əunjə] n. 爱奥尼亚 
+- **Ionian**：[ai'əunjən] 
+  - n.爱奥尼亚人 
+  - adj.爱奥尼亚的，爱奥尼亚人的 
+- **Ionium**：[aɪ'onɪəm] n. 锾（一种化学元素，第 90 号元素钍的放射性同位素）
 
 
 
 #### (2): Ganymede（木卫三）：被宙斯掳走的美少年伽倪墨得斯
 
-木卫三是伽利略所发现的四颗木星卫星中第三靠近木星的卫星，是太阳系中体积最大的 卫星，比水星还大。天文学家用希腊神话中被宙斯掳走的美少年伽倪墨得斯（**Ganymede**） 来命名它。
+木卫三是伽利略所发现的四颗木星卫星中第三靠近木星的卫星，是太阳系中体积最大的卫星，比水星还大。天文学家用希腊神话中被宙斯掳走的美少年伽倪墨得斯（**Ganymede**） 来命名它。
 
 希腊神话中，伽倪墨得斯（**Ganymede**，亦可写作 **Ganymedes**）原本是特洛伊城（Troy） 的创建者特罗斯（Tros）的第三个儿子，是远近闻名的美少年。
 
@@ -164,8 +184,8 @@
 
 卡利斯托的名字 Callisto 来自希腊语 kallistos，是 kalos（美丽的）的最高级形式，意思 就是“最美丽的”，由此可见卡利斯托的确美貌非凡，难怪宙斯也为她动心。英语词根 **`cal-`**/**`call-`** （优美的）便来源于此，含有该词根的单词还有 calligraphy（书法）等。
 
-- Callisto：[kə'listəu] n.木卫四，卡利斯托
-- calligraphy：[kə'lɪɡrəfi] n. 书法；笔迹
+- **Callisto**：[kə'listəu] n.木卫四，卡利斯托
+- **calligraphy**：[kə'lɪɡrəfi] n. 书法；笔迹
 
 ### Saturn 土星 （农神萨图恩）
 
@@ -218,3 +238,30 @@
 - Another communications satellite was launched. 又有一颗通信卫星发射升空。
 - At one time, most East European countries were satellites of the Soviet Union. (LLA) 大多数东欧国家一度是苏联的卫星国。
 
+## Ascendant [əˈsendənt] 运星
+
+**ascendant**（运星）：西方占星术中的上升星座。
+
+在西方占星术中，影响人的性格和命运的除了
+
+- “太阳星座”（出生时太阳所处的黄道十二宫位置）
+- “月亮星座”（出生时月亮所处的黄道十二宫位置）外，还有一个重要的星座，那就是
+- “上升星座”（ascendant sign）。
+
+所谓“上升星座”，指的是出生时东方地平线上升起的第一个星座。单词**ascendant**是动词**ascend**（上升）的形容词，字面意思就是“上升的”。
+
+由于占星术认为，出生时上升的这个星座对人的性格和命运具有支配性影响，它的地位比其他星座更加优越，因此单词**ascendant**一词便从“上升的”衍生出“优越的、支配性的”等含义。
+
+- **ascend**：[ə'send] v.上升，攀爬
+- **ascendant**：[ə'send(ə)nt] adj.上升的，优越的，支配性的n.优势，支配地位，运星
+- **ascendancy**：[ə'sɛndənsi] n.优势，支配地位
+
+| a.scend /əˈsend/ | v. 上升;升高;登高 |      |
+| ---------------- | ----------------- | ---- |
+| a.scent          |                   |      |
+| con.de.scens.ion |                   |      |
+| de.scend         |                   |      |
+| de.scent         |                   |      |
+| tran.scend       |                   |      |
+| ascens.ion       |                   |      |
+| a.scens.ive      |                   |      |
