@@ -207,7 +207,7 @@ l**`yst-`** = break down, 表示“裂开，分解，溶解”。源自希腊语
 
 
 
-## 6.**`-yl`** 表示“...基”{18}
+## 7.**`-yl`** 表示“...基”{18}
 
 | 单词                                         | 解释                                                         | 单词                                                | 解释                                                         |
 | -------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------ |
@@ -217,15 +217,44 @@ l**`yst-`** = break down, 表示“裂开，分解，溶解”。源自希腊语
 
 
 
-## 7.**`-ose`** 表示“碳水化合物” {13}
+## 8. -ose
+
+
+
+### **`-ose`**<sup>1</sup> 表示“碳水化合物” {13}
 
 > **`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物”
 
-| 单词                             | 解释                                                         | 单词 | 解释 |
-| -------------------------------- | ------------------------------------------------------------ | ---- | ---- |
-| **glucos∙e** <br />【ˈɡluːkoʊs】 | **gluc-甜 + -ose，构词形式 glucos-**。<br />**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物”<br/>**`glucos-`** = glucose, glycose, 表示“糖”。源自希腊语 glukus "sweet." |      |      |
-|                                  |                                                              |      |      |
-|                                  |                                                              |      |      |
+| 单词                           | 解释                                                         | 单词                             | 解释                                                         |
+| ------------------------------ | ------------------------------------------------------------ | -------------------------------- | ------------------------------------------------------------ |
+| **visc∙ose**<br />【ˈvɪskoʊz】 | **`visc-`** = poison, virus, 表示“毒，病毒”。源自拉丁语 virus "poison, sap of plants, slimy liquid, a potent juice"。<br/>**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物”<br />a chemical made from cellulose , used to make fibres which can be used to make clothes, etc（黏胶） | **glucos∙e** <br />【ˈɡluːkoʊs】 | **gluc-甜 + -ose，构词形式 glucos-**。<br />**`-ose`** 表示“碳水化合物”；“水解蛋白质的衍生物”<br/>**`glucos-`** = glucose, glycose, 表示“糖”。源自希腊语 glukus "sweet." |
+| galact∙ose                     | galact- <br/>= milk, 表示“奶，乳”，lact- 是 galact- 的 ga- 脱落后的形式。<br/>更多同源词...<br/>-ose <br/>表示“碳水化合物”；“水解蛋白质的衍生物” | lact∙ose                         | lact- <br/>= milk, 表示“奶，乳”，lact- 是 galact- 的 ga- 脱落后的形式。<br/>更多同源词...<br/>-ose <br/>表示“碳水化合物”；“水解蛋白质的衍生物” |
+| sacchar∙ose                    | sacchar- <br/>= sugar, 表示“糖”。<br/>-ose <br/>表示“碳水化合物”；“水解蛋白质的衍生物” | xyl∙ose                          | xyl- <br/>= wood，表示“木头”。<br/>-ose <br/>表示“碳水化合物”；“水解蛋白质的衍生物 |
+| sucr∙ose                       | sucr∙ose  [词根树]<br/>sucr- <br/>= sugar, 表示“糖”。<br/>-ose <br/>表示“碳水化合物”；“水解蛋白质的衍生物” | malt∙ose                         | malt- <br/>= malt, 表示“麦芽”。源自古英语 mealt "malt."<br/>更多同源词...<br/>-ose <br/>表示“碳水化合物”；“水解蛋白质的衍生物” |
+| visc∙ose                       | visc- <br/>= poison, virus, 表示“毒，病毒”。源自拉丁语 virus "poison, sap of plants, slimy liquid, a potent juice"。<br/>更多同源词...<br/>-ose <br/>表示“碳水化合物”；“水解蛋白质的衍生物” | fruct∙ose                        | fruct- <br/>= fruit, 表示“果实”。原始含义也表示“享受”，古时候资源匮乏，为了“享受”，必须“精打细算，勤俭节约”。源自拉丁语 frux "fruit," frui "to enjoy," 和 fructus "enjoyment, produce."<br/>更多同源词...<br/>-ose <br/>表示“碳水化合物”；“水解蛋白质的衍生物” |
+|                                |                                                              |                                  |                                                              |
+
+#### viscos∙ity 【vɪˈskɑːsəti】
+
+> **`viscose`**  n. 粘胶, 纤维胶
+> **`-ity`**  表名词，指具备某种性质。
+
+**Viscosity** is the quality that some liquids have of being thick and sticky. （（液体的）黏性，黏稠度)
+
+- **low viscosity:** 低粘度
+- **blood viscosity**: 血液粘度
+- **apparent viscosity**: 表观粘度
+- **oil viscosity**: 滑油粘度
+
+
+
+### -ose <sup>2</sup> 表形容词,"多....的" {47}
+
+| 单词     | 解释             | 单词    | 解释               |
+| -------- | ---------------- | ------- | ------------------ |
+| glob-ose | 球状的           | mor-ose | 阴郁的，闷闷不乐的 |
+| nod-ise  | 有节的，结节多的 | pil-ose | 有毛的，毛多的     |
+|          |                  |         |                    |
 
 
 

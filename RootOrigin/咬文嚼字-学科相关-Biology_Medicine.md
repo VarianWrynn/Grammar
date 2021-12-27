@@ -349,14 +349,32 @@ penicillin - 1928年春的一天，英国细菌学家弗莱明（**Sir Alexander
 由于这个商标名易于发音和记忆，很快就得到广泛应用。人们去药店买药时，不会说要买“乙酰水杨酸”，而是直接说买**aspirin**，哪怕要买的药品并非aspirin这个品牌。就这样，aspirin这个词就从一个商标名演变成了一种药品名称。
 
 - aspirin：['æsprɪn] n.阿司匹林
-
 - The doctor prescribed aspirin for my arthritis pain. (CWR) 医生为我的关节炎疼痛开了阿斯匹林。
-
 - As aspirin prevents the formation of blood clots, it is also used to treat heart attack and stroke victims. (CID) 由于阿斯匹林可以防止血块的形成，它也被用于治疗心脏病和中风患者。
 
-  
 
-### -osis  医学词根，表示“病理状况”{130}
+
+
+### vaccine 疫苗
+
+vacc-
+
+> =bull, 表示*牛*，来源于拉丁语**vacca**.
+
+-ine
+
+> 表名词，“状态，药物，化学物品”等
+
+琴纳（Edward Jenner,18世纪英国医生）将用于人体接种的牛痘苗称为vaccine virus，其中vaccine来自拉丁语vaccinus（母牛的），原本是个形容词，后来演变为名词。不仅可用来表示用于预防天花的牛痘苗，还可以表示任何一种用于接种的疫苗。
+
+- vaccinate: `/'væksɪneɪt/`  vt.给……接种疫苗vi.接种疫苗
+- vaccination ：[,væksɪ'neɪʃən] n.接种疫苗
+
+
+
+
+
+## -osis  医学词根，表示“病理状况”{130}
 
 > -osis 
 > 医学词根，表示“病理状况”，复数形式 -oses。
@@ -425,6 +443,23 @@ penicillin - 1928年春的一天，英国细菌学家弗莱明（**Sir Alexander
 | pneumon-itis                       | 肺炎.....                                                    | pneumo-coccus  | 肺炎球菌                                                     |
 | pneumo-coniosis                    | 肺尘埃病                                                     | pneumo-rrhagia | 肺出血<br />**`-rrhagia`** = burst, 表示“破裂”。源自希腊语 rhegnunai "to burst forth." |
 | pneumo-bacillus                    | 肺炎杆菌                                                     |                |                                                              |
+
+
+
+## immuno- 表示“免疫”
+
+> immuno- 41
+> 表示“免疫”，由 im-（否定） + muni-（公共的）组成，字面含义“不接触公共的（东西）”。源自拉丁语 munus "duty, work, gift."
+>
+> im-,不，非，-mun,公共的，履行公共服务的，词源同 common,communicate.即免除公共责任或义务，后引申词义免疫的，受保护的。
+
+
+
+| 单词     | 解释 | 单词 | 解释 |
+| -------- | ---- | ---- | ---- |
+| im∙mun∙e |      |      |      |
+|          |      |      |      |
+|          |      |      |      |
 
 
 

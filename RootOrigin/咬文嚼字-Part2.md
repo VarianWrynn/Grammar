@@ -169,21 +169,6 @@ anim-（生命）：代表生命之源的灵魂
 - equanimity：[,ɛkwə'nɪməti] n.（心情）平静坦然
 
 
-## chaos （混沌）：混沌之神卡俄斯
-
-古希腊神话的第一部分是创世阶段，即以神话方式解释世界的来源。在这一阶段出现的神祇通常称为“原始神”或“老神”，他们分别是世界某一部分的拟人化，后来被第二代的泰坦神族推翻。
-
-卡俄斯（Chaos）是希腊神话中最早的的神灵，代表宇宙形成之前模糊一团的景象。根据古希腊著名历史学家赫西奥德（Hesiod）的《神谱》和早期希腊神话记载：宇宙之初只有卡俄斯，祂是一个无边无际、一无所有的虚空。随后祂依靠无性繁殖从自身内部诞生了大地女神、深渊神、黑暗神、黑夜女神和爱神等五大创世神，世界由此开始。
-
-卡俄斯（Chaos）在希腊语中拼写为khaos，本意是“虚空、裂开”，由词干kha（空洞）和名词词尾-os构成。该词在拉丁语中拼写变为chaos，并经由法语进入英语，形成了英语单词chaos。现在，chaos常常被用来表示“混乱、混沌”，该含义源自赫西奥德的说法。他将chaos描述秩序诞生之前的宇宙，与秩序诞生之后的宇宙cosmos（希腊语为Kosmos）相对应。从chaos衍生出形容词chaotic就是“混乱的”之意。
-
-与chaos同源的单词还有chasm（裂口、深坑），它源自希腊语khasma。另外，常见单词gas（气体）也与chaos同源。它来自荷兰语，而在荷兰语中，字母g的发音十分接近希腊语中的kh。
-
-- chaos： ['keɪɒs] n.混沌、混乱
-- cosmos：['kɑzmos] n.宇宙，和谐，秩序
-- chaotic： [keɪ'ɒtɪk] adj.混乱的、无秩序的
-- chasm：['kæzəm] n. 峡谷；裂口；分歧；深坑
-- gas：[ɡæs] n. 气体；瓦斯；汽油；毒气
 
 
 
@@ -301,22 +286,7 @@ anim-（生命）：代表生命之源的灵魂
 
   在封建时期，贵族家中，只有长子有权继承爵位，那么其他儿子们如何养家糊口呢？为 了解决这个问题，贵族常常会分给他们一些地产，作为他们将来的生活来源。这种封地就被 称为 **appanage**，字面意思就是“食物供给、养家糊口之物”。
 
-## hydr-（水）：九头蛇海德拉
 
-海德拉（**[Hydra](https://en.wikipedia.org/wiki/Lernaean_Hydra)**）是希腊神话中巨大的的九头蛇，是希腊神话中最强悍的怪物之父提丰（***Typhon***）和女首蛇身怪爱克特娜（***Echidina***）交配所生。赫拉克勒斯要完成的第二项艰巨任务就是杀死九头蛇海德拉。它吞食田地，蹂躏人畜，无恶不作，所吐出来的毒气还使得当地成为的瘟疫沼泽。海德拉的血液和呼出的气息都有毒。并且它有九个头，砍掉每一个头都会再生，而且中间的那一个头还是永生不死的，让赫拉克勒斯大伤脑筋，还好后来他的侄子交给他一个火把，让他每砍掉一个头就用火把烧伤口，让他再也长不出头来。而最后一个头在砍下之后，赫拉克勒斯就把它的头用大石头压着，让它再也不能作怪，最后还把身上所有的箭都沾上了海德拉的毒血，成为赫拉克勒斯后来的武器。
-在希腊语中，海德拉的名字**Hydra**是***hydros***（水蛇）的阴性形式，而后者来自名词***hydor***（水）。希腊词根和英语词根**`hydr-`**（水）就来源于此。英语中用**hydra**来命名水螅，因为它头部拥有很多触手，形状与传说中的九头蛇很像。
-
-<img src="./images/image-20210924152845355.png" alt="image-20210924152845355" style="zoom:67%;" />
-
-- hydr-：水
-- hydra：['haɪdrə] n.水螅，九头蛇，难以根除的祸害。
-- hydrant：['haɪdrənt] n. 消防栓；水龙头；给水栓
-- hydrate：['haɪdret] n. 水合物；氢氧化物vt. 使成水化合物vi. 与水化合
-- hydration：[haɪ'dreʃən] n. 水合作用
-- hydraulic：[haɪ'drɔlɪk] adj. 液压的；水力的；水力学的
-- dehydrate：[di'haɪdret] vt. 使…脱水vi. 脱水；去水
-- dehydration： [,dihaɪ'dreʃən] n. 脱水
-- carbohydrate： [,kɑrbo'haɪdret] n. 碳水化合物；糖类
 
 ## orthogonal
 
@@ -325,48 +295,9 @@ Authorization is [orthogonal](https://docs.microsoft.com/en-us/aspnet/core/secur
 Used to describe two things that are independent of each other. One does not imply the other.
 > Common sense and intelligence are orthogonal. I've seen plenty of smart people with no common sense.
 
-## mnemonic /nɪ'mɑnɪk/  (Nemesis:报应女神)
-
-```
-git -c diff.mnemonicprefix=false -c core.quotepath=false --no-optional-locks push -v --tags --set-upstream origin Work_From_Office:Work_From_Office
-```
 
 
-mnemonic（记忆的）：**记忆女神莫涅莫绪涅**。
 
-莫涅莫绪涅（Mnemosyne）是**希腊神话**中的记忆女神。她是天神乌拉诺斯和大地女神盖亚的女儿，十二泰坦神之一。她是宙斯的第五个妻子，和宙斯一起生了九个缪斯女神。她通常被描绘成一个支着下巴沉思的女子；有时她在画笔下表现为一个接近成年的女性，发饰多珍珠和宝石，用右手的两个前指持着耳垂。
-
-莫涅莫绪涅的名字`Mnemosyne`来自希腊语**mneme**（记忆），英语单词**mnemonic**、**amnesia**也来源于此。
-
-- mnemonic：[nɪ'mɒnɪk] adj.记忆的，助记的，记忆术的
-- mnemonics：[ni'mɑnɪks] n. 记忆术
-- amnesia：[æm'niʒə] n.健忘症，失忆症
-- amnestic：['æmnəstɪk] adj. 遗忘的；记忆缺失的（等于amnesiac）
-
-
-## incubus & succubus
-
-`suc-,`在下，`-cub`,躺，词源同 ***concubine***; 
-
-***incubus*** `/ɪŋkjəbəs/`: 即躺在下面，用于指传说中吸男人阳气的女淫妖。参照汉语“男上女下”。
-
-***incubus（梦魇）*** `/sʌkjʊbəs/`：民间传说中与人梦中交合的梦淫妖。
-
-在中世纪的西方民间传说中，梦淫妖会在人的睡梦中与人交合，乘机吸收其精气。以男性形象出现的男妖称为***incubus***，以女性形象出现的女妖称为***succubus***。女子梦魇时往往会以为是被梦淫妖压身，所以incubus演变成“梦魇”和“重担”之意，而succubus逐渐用来表示“淫妇、娼妓”。
-
-**incubus**来自拉丁文incubare，由**in（upon，在其上）+cubare（横卧）**构成，字面意思是“**横卧于其上**”；
-而**succubus**来自拉丁文succubare，由**sub（under，在其下）+cubare（横卧）**构成，字面意思是“**横卧于其下**”。
-英语词根cub就来源于拉丁文cubare（横卧）。
-> incubus ['ɪŋkjʊbəs] n.梦魇。本指传说中和睡梦中的妇女行房事的男魔鬼，词根cub-,cumb-表示to lie in bed即躺着，与日耳曼词源的hip臀部同源，前缀in-表into,on,upon，incubus是one lying upon。对比succubus ['sʌkjʊbəs] n.女妖，suc-=sub-表under，one lying beneath，那一定是with man了。
-
-- incubus： ['ɪŋkjʊbəs] n.梦魇，沉重的负担
-- succubus： ['sʌkjʊbəs] n.女妖，女梦淫妖，妓女
-- incubate： ['ɪŋkjʊbeɪt] v.孵化，培养n.孵育物
-- cubicle： ['kjuːbɪk(ə)l] n.小卧室，小房间
-
-A man tempter and the counterpart to a Succubus. He is thought to seek sexual intercourse with sleeping women. The Incubus (as well as Succubus) were thought to be fallen angels, looking for revenge. Demons, witches and deformed children were the supposed outcome of intercourse with an Incubus (succubus). Merlin is thought to be the outcome of such an interaction.
-
-> If you wake at night with extreme vaginal pains, you have probably had an encounter with an Incubus.
 
 
 ## rgds
@@ -400,18 +331,23 @@ john
 
 
 
-## vaccine
+## die v.s dice
 
-vacc-
 
-> =bull, 表示*牛*，来源于拉丁语**vacca**.
 
--ine
+1.die [daɪ] v.死亡；凋零；熄灭，n.冲模；骰子（其它词源）。
 
-> 表名词，“状态，药物，化学物品”等
+相信与否，die并不是严格意义上的英语单词！古英语里只有名词death没有动词die，他们用starve [stɑːv] v.（使）饿死来表示死亡（后starve专指饿死）。793年后从维京人那里借用了die这个单词，所以，没有维京海盗，就没有今天的“狗带”。 
 
-琴纳（Edward Jenner,18世纪英国医生）将用于人体接种的牛痘苗称为vaccine virus，其中vaccine来自拉丁语vaccinus（母牛的），原本是个形容词，后来演变为名词。不仅可用来表示用于预防天花的牛痘苗，还可以表示任何一种用于接种的疫苗。
 
-- vaccinate: `/'væksɪneɪt/`  vt.给……接种疫苗vi.接种疫苗
-- vaccination ：[,væksɪ'neɪʃən] n.接种疫苗
 
+2.dice [daɪs] n. 骰子，vi. 掷骰子。
+
+前边说了The die is cast.骰子已掷出喻无法回头木已成舟，那dice和die n.骰子什么关系呢？dice是die的复数。不让人省心。不过想想的mouse老鼠的复数是mice，而louse虱子的复数是lice，penny美分；便士的复数是pence也就释然了。其实这里的-ce就是原本复数-s的轻化。
+
+
+
+die的词源说明：
+
+1 - 来自 PIE*dheu,离开，死亡，词源同 dead,death.
+2 - 来自拉丁语 datum,给予，词源同 date,donate.原指掷骰子，后指骰子。
