@@ -176,7 +176,12 @@ being帮助其他修饰成分做成了主语宾语的主干成分。
 ## 5.  Seem / appear 的一些用法记录
 
 - Her main occupation **[seems](https://mp.weixin.qq.com/s/U-24KvVutORhH_0CHYBNmg)** to be shopping. 逛街购物似乎是她的主要消遣。
+
 - It **appears** you have attempted to use the **intransitive verb** *occurred* in a **passive voice** construction. Consider writing the sentence in the active voice
+
+- She's always dieting but she never **seems** to lose any weight.
+
+  > Please can we get off the subject of **dieting**.
 
 
 
