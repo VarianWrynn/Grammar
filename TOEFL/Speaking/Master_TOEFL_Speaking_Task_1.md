@@ -18,6 +18,13 @@ New TOEFL Speaking Guide by BestMyTest, Dennis.
 
 
 
+#### structure your response
+
+1.  You main idea or your main opinion. 
+2. 
+
+
+
 ### 2 question styles from the old TOEFL task 2
 
 <img src="./img/image-20211107204351209.png" alt="image-20211107204351209" style="zoom:67%;" />
@@ -30,7 +37,7 @@ New TOEFL Speaking Guide by BestMyTest, Dennis.
 
 
 
-**Structure of the Speaking Template**:
+
 
 
 
