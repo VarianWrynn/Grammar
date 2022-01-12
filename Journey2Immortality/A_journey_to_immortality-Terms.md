@@ -9,13 +9,13 @@
 
 ### **Lower realm:**
 
-| Chinese| English |
-| :-------- | --------:|
-| 练气|   Qi Condensation|
-| 巩基|   Foundation Establishment|
-| 结丹|   Core Formation|
-| 元婴|   Nascent Soul |
-| 化神|   Deity Transformation|
+| Chinese| English |  |
+| :-------- | --------:| --------- |
+| 练气|   Qi Condensation|  |
+| 巩基|   Foundation Establishment|  |
+| 结丹|   Core Formation|  |
+| 元婴|   Nascent Soul |  |
+| 化神|   Deity Transformation|  |
 
 
 
@@ -31,29 +31,15 @@
 
  [Cultivators at the higher realm could fly through the skies](https://www.wuxiaworld.com/novel/rmji/rmji-chapter-127) and visit the Immortal realm with a lifespan as long as that of heaven and earth.
 
-**Nascent:**
+#### **Nascent:** 【ˈnæsnt】
+
+> **`nasc-`** = born, 表示“出生的”。源自拉丁语 gnasci, nasci "to be born."<br/>**`-ent`** 表示形容词，“…的”。<br/>词源说明(童理民)  <br/>1 - 来自拉丁语 nasci,出生，来自 PIE*gen,生育，词源同 gene,natal,native.
 
 The adjective *nascent* describes the birth or beginning of something, like a civilization, a trend, an idea, or an action. If your idea for a time machine is *nascent*, it needs a lot more work before you'll be ready to travel to ancient Egypt.
 
 
 
-**-ent:表示形容词，“...的"**
-
-| advert-ent               | af.fer.ent           | al.flu.ent         | ambi.ent                 |
-| ------------------------ | -------------------- | ------------------ | ------------------------ |
-| 注意的、留意的           | 传入的               | 丰富的、赋予的     | 周围的                   |
-| **ambi.val.ent**         | **anci.ent**         | **ap.par.ent**     | **de.cad.ent**           |
-| 矛盾的、模棱两可的       | 古代的、古老的       | 清晰可见的、显然的 | 衰微的，颓废的           |
-| **dec.ent**              | **de.cumb.ent**      | **de.fer.ent**     | **de.fic.ient**          |
-| 有分寸的、得体的、大方的 | 匍生的、匍匐的       | 传送的、输出的     | 不充分的、有缺陷的       |
-| **de.flu.ent**           | **con.cup.is`c`ent** | **confid.ent**     | **con.flu.ent**          |
-| 向下流的                 | 欲望强烈的；色欲强的 | 有信心的           | 合流的，汇合的，融合性的 |
-| **con.gru.ent**          | **conniv.ent**       | **con.sent.i.ent** | **nasc.ent**             |
-| 适合的、一致的，和谐的   | 会接的、靠合的       | 同意的、无异议的   |                          |
-
-
-
-**nat-,nai-: =born,表示出生的**
+#### **nat-,nai-: =born,表示出生的**
 
 | nasc.ence          | nasc.ent               | re.nasc.ent    | ad.nat.e         |
 | ------------------ | ---------------------- | -------------- | ---------------- |
@@ -66,7 +52,7 @@ The adjective *nascent* describes the birth or beginning of something, like a ci
 
 
 
-**Deity**【ˈdeɪəti】:
+#### **Deity**【ˈdeɪəti】:
 
 A *deity* is a supernatural being, like a god or goddess, that is worshipped by people who believe it controls or exerts force over some aspect of the world.
 
@@ -87,5 +73,3 @@ A *deity* is a supernatural being, like a god or goddess, that is worshipped by 
 - divine： [dɪ'vaɪn] adj. 神圣的；非凡的；天赐的v. 占卜；预言；用占卜勘探
 
 
-
-## The State of Yue’s cultivation world
