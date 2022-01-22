@@ -398,6 +398,37 @@ GraphQL is not a framework, but a [technology-implementation-agnostic](https://d
 **agnostic `/æɡˈnɑːstɪk/`**: A person who believes that it is not possible to know whether God exists or not.  (不可知论者（认为上帝存在与否是不可知的）
 
 
+
+#### agnostic（不可知论）：处于有神论和无神论之间的哲学学说
+
+> **`a-`**,非，没有，**`-gn`**,知道，词源同 can,know.此处用于宗教义，认为上帝不存在。
+>
+> **`a-`**  加在单词前，表示“在…的”；表示“不、无、非”；表示“加强”。源自希腊语 a-, an- "not."
+> **`gnost-`** = know, 表示“知道”。源自拉丁语 (g)noscere "to get to know."
+> **`-ic`** 表名词，“人或学科”。
+
+英语单词**agnostic**最早在1869年由英国哲学家托马斯•亨利•赫胥黎 (**[Thomas Henry Huxley](https://en.wikipedia.org/wiki/Thomas_Henry_Huxley)**, 1825-1895) 在一次聚会上首次提出来的，用于描述他的哲学思想。
+
+<img src="./img/image-20220122155933417.png" alt="image-20220122155933417" style="zoom:80%;" /> 金刚狼？
+
+他认为，除感觉或现象而外，世界本身是无法认识的，“物质实体”和上帝、灵魂一样，都是不可知的。他以**agnostic**一词表示像他本人那样的“不可知论者”。**agnostic**源于希腊语的***ágnōstos***，其原意是“不知道的”（**unknowing**），“不可知的”（**unknowable**），含义则为“我不知道是不是存在着上帝”。
+
+> **agnostic**由否定前缀**`a`**加上希腊语中表示“知道”的单词**`gnostos`**复合而成，字面意思就是“不知道”。这种哲学否认认识世界或彻底认识世界的可能性。
+
+在Huxely那里，不可知论者是指对基督教神学教条表示怀疑，但又拒绝无神论，主张把上帝是否存在这一类问题搁置起来的人。这种哲学学说就是**`agnosticism`**（“不可知论”）。
+
+<img src="./img/image-20220122160131740.png" alt="image-20220122160131740" style="zoom:67%;" /> 
+
+- **agnostic**：[æg'nɒstɪk] adj.不可知论的n.不可知论者
+- **agnosticism**：[æɡ'nɒstɪsɪzəm] n.不可知论
+- She likes to keep an open mind in religious matters and so refers to herself as an agnostic. (LLA) 在宗教问题上她愿意听取不同的意见，所以称自己为不可知论者。
+- I'm agnostic about whether there really is a hell. (CID) 我不知是否真的有地狱。
+
+
+
+
+
+
 ### 6.20 wait v.s await:
 
 First, there is no noun form for 'await'. Await is used only as a verb and requires an object. It is often used in more **`formal`** or **serious** writing and speaking. It takes the place of “to wait for.”
