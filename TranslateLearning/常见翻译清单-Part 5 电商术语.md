@@ -17,6 +17,7 @@
 |[Back Order](https://virtocommerce.com/glossary/what-is-backorder)| Allowing to backorder means giving your customers an option to still purchase your products even when you don’t have enough in stock – creating backordered items. Backorders are really common in retail.<br/><br>中文：延期交货；缺货后补；欠交订单 |
 
 
+
 ## 2. Stock vs Inventory
 
 - Inventory is a raw material used for making the product, work in progress goods, and finished product. In other words, the inventory includes finished product ready to sell, work in progress goods which are not fully converted, and raw material which is required to create the product. 
@@ -25,9 +26,12 @@
 -  From an **analyst’s point of view**, it matters a lot what is stock and what is inventory because both things give a different view of the company’s financials.
 
 
+
 ## 3. References & Connection
 
 1. [Difference Between Stock vs Inventory](https://www.educba.com/stock-vs-inventory/)
+
+
 
 ## 4. 文档修订记录
 

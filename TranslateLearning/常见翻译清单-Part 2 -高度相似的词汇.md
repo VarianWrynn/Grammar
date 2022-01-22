@@ -7,14 +7,45 @@
 
 
 
-## 6.  高度相似的词汇
+## 高度相似的词汇
 
-### 6.1 relative vs related vs relevant
+
+
+## 关系三连
+
+
+
+### pertinent v.s relevent
+
+Muhammed’s question: “I have a beef about the use of **‘**pertinent**’** versus **‘**relevant.’ Please throw some light on this so I can understand and use these words properly in a pertinent way!”
+
+*BizWritingTip* response: According to the dictionary, *relevant* means “having a bearing on the matter at hand.” *Pertinent* means “relevant to the matter at hand.”
+
+Although the definitions seem similar and many thesauruses interchange these words, there is a subtle difference. When something is *relevant*, it has something to do with the topic. When something is *pertinent*, it means it is significant. It will have an impact on the decision or the outcome.
+
+**Examples**:
+
+Her holiday experience was relevant to our decision on where to vacation next. (We took her experience into consideration.)
+We are working with a tight budget so cost information is pertinent. (Financial information is essential.)
+
+I think of *relevant* information as being nice to know. *Pertinent* information is need to know.
+
+
+
+**Reference:**
+
+1. [Word Choice – Pertinent Versus Relevant](https://ontariotraining.net/word-choice-pertinent-versus-relevant/#:~:text=Although%20the%20definitions%20seem%20similar,the%20decision%20or%20the%20outcome.)
+
+
+
+### relative vs related vs relevant
 
 
 Get map and ship-confirm relevant data
 
-### 6.2 Associated v.s Related
+
+
+### Associated v.s Related
 
 `be associated with`  v.s `be related to`  
 
@@ -23,7 +54,7 @@ Get map and ship-confirm relevant data
 
 后来去[Google](https://opentextbc.ca/dbdesign01/chapter/chapter-8-entity-relationship-model/)了一下，觉得` be associated with`更妥当点。
 
-<img src="./img/1603769012730.png" alt="How attributes are represented in an ERD" style="zoom:80%;" />
+<img src="./img/1603769012730.png" alt="How attributes are represented in an ERD" style="zoom:99%;" /> 
 
 
 
@@ -45,7 +76,7 @@ Get map and ship-confirm relevant data
 
 - **截图**：
 
-<img src="./img/1603769045029.png" alt="Alt text" style="zoom:80%;" />
+<img src="./img/1603769045029.png" alt="Alt text" style="zoom:9%;" /> 
 
 
 
@@ -53,6 +84,10 @@ https://integrator.io/pg/marketplace/google
 
 - **Wayfair**:
 >  "message": "Purchase Order: CS266877285 for this Ship Notice **is not associated with** provided Supplier ID: 3215",
+
+
+
+
 
 ### 6.3 Type v.s Category (类型与类别)
 
