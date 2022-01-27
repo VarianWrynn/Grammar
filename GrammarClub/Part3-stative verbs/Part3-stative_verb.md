@@ -25,13 +25,15 @@
 
 - **action verb**: 行为动词;  动作动词;  实义动词
 
+**动词的语义分类(动态、静态、延续、短暂、终结性、非终结性）与时态有着密不可分的关系，直接影响动词时态的选用。**例如，静态动词（或者动词的静态意义）不可用进行体。延续性动态动词不可以用一般现在时表示说话时发生的事件。
+
 ## 2. 我的女神
 
 当年上高中的时候，我刚学会了现在**完成进行时**，表示过去做一件事情，现在还在做，将来还会做。于是兴奋之余，课堂上给女神递了个小纸条，上面写着:
 > I have been loving you for 3 years.
 
 半响，女神冷冷的递回一张纸条,赫然写着:
-> 动词love是静态动词，没有ing形式
+> 动词love是 静态 / 短暂性动词，没有ing形式
 
 看了很久我没看懂，于是我又问她如果要改成正确的要怎么改，她说：
 > **I wish you have been my love since 3 years ago**.
@@ -45,6 +47,8 @@
 一晃多年，她去大学当了老师，我每个月都要去看守所签到，这里的小姐姐个个都是人才，说话又好听，超喜欢在里面的感觉。
 
 <img src="./3fb444276892bab5d4573a40a036fb13.gif" alt="3fb444276892bab5d4573a40a036fb13" style="zoom:80%;" />
+
+
 
 ## 3. 静态动词
 
@@ -76,7 +80,7 @@
 
 You know, we really don't advise lyrics for grammar points. It's a song, the writers do things to suit the music not grammar.
 
-The point here is that "love" is a **stative verb**. If you look at the British Council Learn English site [here](http://learnenglish.britishcouncil.org/en/grammar-reference/stative-verbs), you'll see that stative verbs are *"not usually used in the continuous form, even when we are talking about temporary situations or states ..."*\
+The point here is that "love" is a **stative verb**. If you look at the British Council Learn English site [here](http://learnenglish.britishcouncil.org/en/grammar-reference/stative-verbs), you'll see that stative verbs are *"not usually used in the continuous form, even when we are talking about temporary situations or states ..."*
 So strictly speaking, you are correct, but as suzi says, we can sometimes use them to** stress** that the action (even of a stative verb) is - or has been - in progress, and this is actually one of the trends in the way the use of English is developing.
 
 If you look at [this](http://forum.wordreference.com/showthread.php?t=2771585) grammatically related thread, is very informative on the point you're querying here.
@@ -86,6 +90,12 @@ Then, as suzi also says, people who write poetry or music lyrics use all kinds o
 [Ed: if you want to find out more, there's a Polish research paper on it [here](http://ifa.amu.edu.pl/psicl/files/38/10Smiecinska.pdf) (pdf file): 'Stative Verbs and the Progressive Aspect in English', Joanna Smiecinska, Poznan Studies in Contemporary Linguistics 38, 2002/2003 pp 187-195.]
 
 ### 4.1 语法是对语言的抽象
+
+**love是不可持续动词  那要表示持续的爱怎么表达，用have been my love for ten years**
+
+爱，作名词也可做动词，作动词的时候一般用作短暂性动词，因为爱是一瞬间的事，不可能持续，但是用于状态，也就是表示一个爱的状态的时候还是要用延续性动词，也就是变为现在进行时的时态。
+
+表示情绪性的都是短暂性动词，love, hate, like, remember...不过， 有个广告却故意用了 I'm loving it, 以违反常规文法达到广告目的要表示持续的爱 可以这样说I always love you; I have always loved you
 
 语法是对语言的抽象，是从日常用语中凝练出来的公式规则。但语言五花八门，并不断演化，所以语法规则肯定无法涵盖所有的语言现象。
 
@@ -101,9 +111,11 @@ Then, as suzi also says, people who write poetry or music lyrics use all kinds o
 
 参考：[You are being rude. Being 到底是个什么东西？](https://zhuanlan.zhihu.com/p/26797446)
 
+**动词的语义分类(动态、静态、延续、短暂、终结性、非终结性）与时态有着密不可分的关系，直接影响动词时态的选用。**例如，静态动词（或者动词的静态意义）不可用进行体。延续性动态动词不可以用一般现在时表示说话时发生的事件。
+
 ### 5.1 态的概念
 
-<img src="./image-20211123092050634.png" alt="image-20211123092050634" style="zoom:80%;" />
+<img src="./image-20211123092050634.png" alt="image-20211123092050634" style="zoom:80%;" /><img src="./Image.png" alt="Image" style="zoom: 90%;" />
 
 
 
