@@ -11,11 +11,11 @@
 
 
 
-## 关系三连
+### 关系三连
 
 
 
-### pertinent v.s relevent
+#### pertinent v.s relevent
 
 Muhammed’s question: “I have a beef about the use of **‘**pertinent**’** versus **‘**relevant.’ Please throw some light on this so I can understand and use these words properly in a pertinent way!”
 
@@ -38,14 +38,14 @@ I think of *relevant* information as being nice to know. *Pertinent* information
 
 
 
-### relative vs related vs relevant
+#### relative vs related vs relevant
 
 
 Get map and ship-confirm relevant data
 
 
 
-### Associated v.s Related
+#### Associated v.s Related
 
 `be associated with`  v.s `be related to`  
 
@@ -89,7 +89,7 @@ https://integrator.io/pg/marketplace/google
 
 
 
-### 6.3 Type v.s Category (类型与类别)
+### Type v.s Category (类型与类别)
 
 Products can be broadly classified into **`product types`**, such as **Software** and **Hardware**. 
 
@@ -104,7 +104,7 @@ A `product type` can be further organized into several `categories`. For example
 6. [Topic: Product Categories vs Product Types  (Read 2885 times)](https://forum.virtuemart.net/index.php?topic=85099.0)
 
 
-### 6.4 Compromised
+### Compromised
 <img src="./img/1603769061014.png" alt="@||360x0" style="zoom: 80%;" />
 
 Wikepedia关于数据库审计两处提到了**Compromised**
@@ -271,7 +271,7 @@ Connections, imports, exports, and lookups are [all stand-alone resource compone
 
 ### 6.12 Wrong v.s Incorrect
 
-<img src="./img/1612344059567.png" alt="@||360x0" style="zoom:80%;" />
+<img src="./img/1612344059567.png" alt="@||360x0" style="zoom:80%;" /> 
 
 
 
@@ -543,12 +543,15 @@ Locale seems to be used less often, and it is not interchangeable with the word 
 
 ### 6.23 [Braces, brackets and parentheses](https://www.cis.upenn.edu/~matuszek/General/JavaSyntax/parentheses.html)
 
+<img src="./img/Image.png" alt="Image" style="zoom:80%;" /> 
+
 The following terminology is used in American English (British English may be different.)
 
-| { }<br /> | Braces ("curly braces") Braces are used to group statements and declarations. The contents of a class or interface are enclosed in braces. Method bodies and constructor bodies are enclosed in braces. Braces are used to group the statements in an if statement, a loop, or other control structures. |
-| --------- | ------------------------------------------------------------ |
-| [ ]       | Brackets ("square brackets") Brackets are used to index into an array. |
-| ( )       | Parentheses Parentheses are used for two purposes: (1) to control the order of operations in an expression, and (2) to supply parameters to a constructor or method. |
+| 符号 | 描述                                                         |
+| ---- | ------------------------------------------------------------ |
+| {}   | **Braces** ("curly braces") Braces are used to group statements and declarations. The contents of a class or interface are enclosed in braces. Method bodies and constructor bodies are enclosed in braces. Braces are used to group the statements in an if statement, a loop, or other control structures. |
+| [ ]  | **Brackets** ("square brackets") Brackets are used to index into an array. |
+| ( )  | **Parentheses** Parentheses are used for two purposes: (1) to control the order of operations in an expression, and (2) to supply parameters to a constructor or method. |
 
 ### 6.24  endogenous v.s  endigence v.s endigence
 
