@@ -1,5 +1,9 @@
 # kangroo与volcano的复数形式
 
+[toc]
+
+## 由一道引出
+
 
 
 <img src="./img/image-20220207173105200.png" alt="image-20220207173105200" style="zoom: 25%;" /> <img src="./img/image-20220207173147434.png" alt="image-20220207173147434" style="zoom:50%;" />
