@@ -163,19 +163,134 @@ being帮助其他修饰成分做成了主语宾语的主干成分。
 
 
 
-## 3. 独立主格
+## 3. 独立主格语非谓语
 
-
+> **独立主格结构=独立的主语+非谓语**
 
 Thirty-two per cent of all women are over-weight, the main culprits being the fats and sugar. (CCE) 百分之三十二的妇女超重，脂肪和糖是罪魁祸首。
 
+### 1. 独立主格结构的基本概念
+
+独立主格是一个名词或代词（作为逻辑主语），加上一个形容词、副词、介词短语、分词、不定式等在句中作状语。它有以下三个特点：
+
+1. 独立主格结构的逻辑主语与句子的主语不同，它独立存在。
+2. 名词或代词与后面的形容词、副词、介词短语、分词、不定式等存在**逻辑上**的主谓关系。
+3. 独立主格结构一般用**逗号**与主句分开，但与主句之间不能使用任何**连接词**。
+
+### 2. 独立主格结构的基本形式
+
+1. **名词（代词）+现在分词**
+   - The question being settled, we went home. 问题解决之后，我们就回家了。
+   - We shall play the match tomorrow, **weather permitting**. 明天假设天气好，我们就进行比赛。
+   - The monitor being ill, we’d better put the meeting off. 班长病了，我们最好还是延期开会吧。
+2. **名词（代词）+过去分词**
+   - **The job finished**, we went home. 工作结束后我们就回家了。
+   - **The last bus having gone**, we had to walk home. 最后一班公车已经走了，我们必须走路回家。
+   - **More time given**, we should have done the job much better. 如果给我们更多的时间，我们会把工作做得更好。
+3. **名词（代词）+不定式**
+   -  Nobody to come tomorrow, we will have to put off the meeting till next week. 如果明天没有人来，我们将把会议推迟到下周。
+   - So many people to help him, he is sure to succeed. 有如此多的人来帮助他，他一定会成功的。
+4. **名词（代词）+介词短语**
+   - The soldiers dashed in, **rifle in hand**. 士兵们端着枪冲了进来。
+   - A girl came in, **book in hand**. 一个少女进来了，手里拿着书。
+   - He was waiting, **his eyes on her back**. 他在等着，眼睛望着她的背影。
+5. **名词（代词）+形容词或副词**
+   - He sat in the front row, his mouth **half open**. 他坐在前排，嘴半开着。
+   - She sat at the table, collar **off**, head **down**, and pen **in position**, ready to begin the long letter. 她坐在桌前，衣领已解掉，头低了下来，拿好钢笔，准备开始写一封长信。
+6. **There being +名词（代词）**
+   - **There being *nothing* else to do**, we went home. 没有别的事可做，我们就回家了。
+   - **There being no further *business***, I declare the meeting closed. 没有再要讨论的事了，我宣布散会。
+7. It being +名词（代词）
+   - It being **Christmas**, the government offices were closed. 由于圣诞节的缘故，政府机关都休息。
+   - It being a **holiday**, all the shops were shut. 由于今天是假日，所有商店都关门了。
 
 
 
+### 3. 比较：独立主格结构与由**介词 with 引出的复合结构**:
 
-**Reference:**
+- Don’t sleep **with the windows open**. 别开着窗睡觉。
+- He stood before his teacher **with his head down**. 他低着头站在老师面前。
+- He was lying on the bed **with all his clothes on**. 他和衣躺在床上。
+- She came in **with a book in her hand**. 她手里拿着一本书走了进来。
+- He fell asleep with the **lamp burning**. 他没熄灯就睡着了。
+- I won’t be able to go on holiday with my **mother being ill**. 因为妈妈有病，我无法去度假。
+- He sat there with his **eyes closed**. 他闭目坐在那儿。
+- All the afternoon he worked with the door locked. 整个下午他都锁着门在房里工作。
+- I can’t go out with all these clothes to wash. 要洗这些衣服，我无法出去了。
+
+
+
+### 4. 英语独立主格结构的用法
+
+​	独立主格结构主要表示**谓语动词发生的时间、原因、条件或伴随情况等**，相当于一个状语从句或并列句。
+
+1.  **用作时间状语**
+
+   The work done (=After the work had been done), we went home. 工作完成后，我们就回家了。
+
+2. **用作条件状语**
+
+   Weather permitting (=If weather permits), they will go on an outing to the beach tomorrow. 如果天气允许的话，他们将在明天组织一次海滨小游。
+
+3. **用作原因状语**
+
+   An important lecture to be given tomorrow (=As an important lecture will be given tomorrow), the professor has to stay up late into the night. 因为明天要发表一个重要的演讲，教授不得不熬夜到很晚。
+
+4. **用作伴随状语**
+
+   He was lying on the grass, his hands crossed under his head (=and his hands were crossed under his head).他躺在草地上，两手交叉枕在脑后。
+
+5. **表示补充说明**
+
+   - A hunter came in, his face red with cold (=and his face was red with cold). 一个猎人走了进来，他的脸冻得通红。
+   - We redoubled our efforts, each man working like two. 我们加倍努力，一个人干两个人的活。
+
+注：
+
+- 独立主格结构表示时间、条件或原因时，相当于一个状语从句，一般放在句首，表示原因时还可放在句末；
+- 表伴随状况或补充说明时，相当于一个并列句，通常放于句末。
+
+
+
+### 5.  使用独立主格结构的几点注意
+
+1. 当状语从句的主语与主句的主语不是指同一个对象时，可用独立主格结构取代状语从句，但不再保留连词。如：
+   - After class was over (=Class being over / Class over), the students soon left the classroom.下课后，学生很快离开了课室。
+2. 在下列两种情况下，独立主格结构中的being（或having been）不能省略：
+   -  独立主格的逻辑主语是代词时。如：
+     -  It being Sunday, we went to church.因为是星期天，我们去了做礼拜。
+   - 在There being＋名词的结构中。如：
+     -  There being no bus, we had to go home on foot.因为没有公共汽车，所以我们不得不步行回家。
+3. 在“名词（或代词）＋介词短语”构成的独立主格结构中，一般不用形容词性物主代词和冠词。如：
+   - Miss Smith entered the classroom, book in hand.史密斯先生走进了课室，手里拿着一本书。
+   - 比较with的复合结构：Miss Smith entered the classroom, with a book in his hand.
+4. 独立主格结构没有所有格形式。如：
+   -  The chief-editor arriving, we began the meeting. 主编来了，我们开始开会。
+   - 比较动名词复合结构：The chief-editor’s arriving made us very surprised.
+5.  独立主格结构作时间或原因状语时，可用完成时，**表示该动作发生在谓语之前**。如：
+   - The listeners having taken their seats, the concert began.听众坐好后，音乐会开始了。
+   - Tom having been late over and over, his boss was very disappointed.由于汤姆一再迟到，他的老板非常失望。
+
+
+
+### 6. 思维导图
+
+<img src="image-20220228110552375.png" alt="image-20220228110552375" style="zoom:80%;" />
+
+<img src="./image-20220228110922546.png" alt="image-20220228110922546" style="zoom:67%;" /> 
+
+<img src="./image-20220228111034077.png" alt="image-20220228111034077" style="zoom:80%;" /> 
+
+
+
+<img src="./image-20220228111104138.png" alt="image-20220228111104138" style="zoom:80%;" />
+
+
+
+### 7. Reference
 
 1. [独立主格结构的用法讲解--知乎](https://zhuanlan.zhihu.com/p/99343581)
+1. [深入了解独立主格和非谓语动词作状语之间的恩怨情仇](https://baijiahao.baidu.com/s?id=1662754579644478744&wfr=spider&for=pc)
 
 
 
@@ -213,6 +328,7 @@ Thirty-two per cent of all women are over-weight, the main culprits being the fa
 | :-------- | :--------| :------ |:------ |:------ |
 | v1.0 |   建立| 新建文档 |2021-3-25  | Lee|
 | v1.1 | 新增 | 增加Seem的用法 |2021-11-23 | Lee |
+| v1.2 | 新增 | 新增独立主格章节的描述 |2022-2-28 | Lee |
 
 
 *变化状态：建立，修改，增加，删除
