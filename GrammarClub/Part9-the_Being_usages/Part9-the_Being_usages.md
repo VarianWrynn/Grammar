@@ -167,6 +167,18 @@ being帮助其他修饰成分做成了主语宾语的主干成分。
 
 
 
+Thirty-two per cent of all women are over-weight, the main culprits being the fats and sugar. (CCE) 百分之三十二的妇女超重，脂肪和糖是罪魁祸首。
+
+
+
+
+
+**Reference:**
+
+1. [独立主格结构的用法讲解--知乎](https://zhuanlan.zhihu.com/p/99343581)
+
+
+
 ## 4. 符合with结构的句子
 
 
