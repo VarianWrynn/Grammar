@@ -10,11 +10,9 @@
 
 
 
-## 初中英语中主动形式表被动意义
 
 
-
-###  一、某些系统动词
+##  一、某些系统动词
 
 某些系动词，如feel， look， seem， appear， taste， sound， smell， prove， remain等用主动形式表示被动意义;
 
@@ -30,30 +28,56 @@
 
 
 
-### 二、表示主语由内在品质或性能
+- **Why say "The book sells well." instead of ”The book is sold well."？**
+
+  > This is a little tricky. I think the definition of sell is slightly different in these cases.  
+  >
+  > The book sells. = The book is in demand and people want to buy it. 
+  >
+  > The book is sold (**by someone**) = The passive version of "Someone sells the book."  
+  >
+  > If you say "The book is sold well," it's like saying "Someone sold the book well," which means they did a really good job selling the book. This is an awkward sentence though.
+
+  > "The book is sold well" would refer to the fact that the distributor is doing a really good job selling the book and it was hence 'sold well' by him/her. The book 'is' currently being sold well.  "
+  >
+  > The book sells well" past tense would be: the book sold well. Another present tense way to say this sentence would be: the book is selling well.
+
+- Air conditioners sell well in the summer months.
+
+  Air conditioners sell well in the summer months.
+
+  Air conditioners are sold well in the summer months.
+
+  Those two sentences have slightly different meanings. "air conditioners sell (adverb)" describes if they are selling. "air conditioners are sold (adverb)" describes the skills of the person selling them, or the method they are using to do the selling.
+
+  With that said, "Air conditioners are sold well in the summer months" does not work. You could say "***Air conditioners are sold well by the sales team***", although it sounds a little constructed. You would probably want to use a present voice construction. "**Our sales team does a great job of selling air conditioners during the summer.**"
+
+
+
+## 二、表示主语由内在品质或性能
 
 表示主语由内在品质或性能，使得主语得以实现或不能实现，用主动表示被动，常见的这类动词有：write， read， clean， sell， wash， cook， open， close， lock等。
 
 
 
-####  1. 同well， badly， easily等副词连用。如：
+###  1. 同well， badly， easily等副词连用。如：
 
 - The cloth washes easily. 这布很好洗。　　
 - The book sells well. 那本书很畅销。　　
 - The pen writes smoothly. 这支笔很好写
 
-####  2. 谓语动词用否定式。如：
+###  2. 谓语动词用否定式。如：
 
 - The window won’t open. 这扇窗开不了。　　
 - The door won’t lock. 这门锁不上。
 
-####  3. 主语+谓语(blow， wear等) +主补。如：
+###  3. 主语+谓语(blow， wear等) +主补。如：
 
 - The door blew open. 门被风吹开了。
 
 
 
-###  三、某些日常用语于进行时态时，可用主动形式表示被动意义
+##  三、某些日常用语于进行时态时，可用主动形式表示被动意义
 
 某些日常用语，如：cook， bake， make， print， pack， build， work out等动词用于进行时态时，可用主动形式表示被动意义。如：　　
 
@@ -61,40 +85,40 @@
 - The book is printing. 那本书正在印刷中。　　
 - The plan is working out. 计划正在制订。
 
-### 四、不定式
+## 四、不定式
 
 不定式在下列情况下用主动形式表示被动意义：
 
-#### 1. 在“be+形容词+fit to do”句型中。
+### 1. 在“be+形容词+fit to do”句型中。
 
 - 　English words are difficult to remember. 英语单词很难记。
 
   > 注：常用于此句型形容词有easy， hard， difficult， heavy， light， comfortable等。
 
-#### 2. 在作补语的形容词后作状语的不定式
+### 2. 在作补语的形容词后作状语的不定式
 
 - We found the book easy to understand. 我们觉得这本书的容易懂。
 
-#### 3. 在This /That /These /Those be后的名词后的不定式。
+### 3. 在This /That /These /Those be后的名词后的不定式。
 
 - This is a difficult problem to solve. 这是一个很难解决的问题。
 
-#### 4. 在“there be/have/with sth. to do(有……要……) ”结构中
+### 4. 在“there be/have/with sth. to do(有……要……) ”结构中
 
 - I have a lot of work to do. 我有许多事要做。
 
-#### 5. 在“疑问代词+不定式”结构
+### 5. 在“疑问代词+不定式”结构
 
  - The question is what to do next. 问题是接下来做什么。
 
-#### 6. 在“be to blame/seek/let”结构中
+### 6. 在“be to blame/seek/let”结构中
 
 - The house is to let. 此房出租。
 - He is to blame for this. 他因此事应受到责备
 
 
 
-### 五、在表示“需要”句子用主动形式表示被动含义
+## 五、在表示“需要”句子用主动形式表示被动含义
 
 在表示“需要”的need、 want、 require、及be worth后的动词-ing形式，用主动形式表示被动含义。如：
 
@@ -103,7 +127,7 @@
 
 
 
-### 六 所遇记录
+## 六 所遇记录
 
 | 原句                                                         | 修改后                                                       | Remark               |
 | :----------------------------------------------------------- | ------------------------------------------------------------ | -------------------- |
@@ -111,3 +135,12 @@
 |                                                              |                                                              |                      |
 |                                                              |                                                              |                      |
 
+
+
+
+
+## 7 Reference
+
+1. [Why say "The book sells well." instead of ”The book is sold well."？](https://hinative.com/en-US/questions/312687)
+2. [Something sells well](https://ell.stackexchange.com/questions/22184/something-sells-well)
+3. [主动形式表被动意义](https://www.yixuela.com/article/84.html)
