@@ -6,22 +6,6 @@
 
 
 
-
-* [文法俱乐部9 \- being的用法记录](#文法俱乐部9---being的用法记录)
-  * [1\. 表达进行时态 表明动作正在发生](#1-表达进行时态-表明动作正在发生)
-    * [1\.1 旋元佑的说法](#11-旋元佑的说法)
-  * [2\. being\+ adj 做主/宾语。](#2-being-adj-做主宾语)
-    * [2\.1  主语](#21--主语)
-    * [2\.2 宾语](#22-宾语)
-    * [2\.3  being \+ adj 是名词性，动名词（gerund)](#23--being--adj-是名词性动名词gerund)
-  * [3\. 独立主格](#3-独立主格)
-  * [4\. 符合with结构的句子](#4-符合with结构的句子)
-  * [6\. References &amp; Connection](#6-references--connection)
-  * [7\. 文档修订记录](#7-文档修订记录)
-
-
-
-
 ## 1. 表达进行时态 表明动作正在发生
 
 
@@ -301,6 +285,10 @@ Thirty-two per cent of all women are over-weight, the main culprits being the fa
 
 
 ## 5.  Seem / appear 的一些用法记录
+
+<img src="./image-20220401112228553.png" alt="image-20220401112228553" style="zoom:80%;" /> 
+
+- You seem pretty nervous.
 
 - Her main occupation **[seems](https://mp.weixin.qq.com/s/U-24KvVutORhH_0CHYBNmg)** to be shopping. 逛街购物似乎是她的主要消遣。
 
