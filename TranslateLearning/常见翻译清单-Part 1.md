@@ -103,9 +103,15 @@
 ## 4. 法规法条相关
 
 - **国会和各州的立法机关出台的规定叫“法律（law）”**
+
 - **政府机构出台的规定叫“规章（regulation）”**
-> 引用自《灰色企业家2：法规是怎样积重难返的？--精英日课4》（万维钢，2020-9-7）
->  Clyde Wayne Crews Jr., [How Many Rules And Regulations Do Federal Agencies Issue?](https://www.forbes.com/sites/waynecrews/2017/08/15/how-many-rules-and-regulations-do-federal-agencies-issue/#732b5d321e64) forbes.com Aug 15, 2017.
+
+  > 引用自《灰色企业家2：法规是怎样积重难返的？--精英日课4》（万维钢，2020-9-7）
+  > Clyde Wayne Crews Jr., [How Many Rules And Regulations Do Federal Agencies Issue?](https://www.forbes.com/sites/waynecrews/2017/08/15/how-many-rules-and-regulations-do-federal-agencies-issue/#732b5d321e64) forbes.com Aug 15, 2017.
+
+- [Laws vs. Regulations: What’s the Difference?](https://www.mamhca.org/assets/1/7/Laws_vs_regulations.pdf):
+  -  Laws go through the bill process before becoming established as a law. A bill has to be written, sponsored by a legislator, debated and passed through both the *House of Representatives* and the *Senate* after various committee and budget hearings before going to the Executive to be signed into law. A regulation is created by a **governmental agency,** often to actually implement a given law, and does not have to go through the bill process described above. With regulations, an agency holds a public hearing and after that hearing makes a decision on either adopting, changing or rejecting the regulation.
+  - Laws are also rules that govern everyone equally, while regulations only effect those who deal directly with the agency who is enforcing them. In other words, a law can govern the action of both the DEP and the FBI, but the DEP cannot write regulations that would be enforceable to the FBI.
 
 ### 4.1 法规法条与法规遵守翻译
 
@@ -120,22 +126,35 @@
 
 说明:
 1. 根据这篇文章[Facebook Lenses](https://stratechery.com/2018/facebook-lenses/),可以推断的出来，***DGRP***是一种**Regulation**，不是**Compliance**,也不称呼**Law**(Regulation是Law的具体实现，算是Law的子集)
-> of course neither company wants to incur the costs entailed in such significant **regulation**, which will absolutely restrict the amount of information they can collect. (当然，两家公司都不想承担此类重大监管所需的成本，这将绝对限制他们可以收集的信息量。)
+
+   > of course neither company wants to incur the costs entailed in such significant **regulation**, which will absolutely restrict the amount of information they can collect. (当然，两家公司都不想承担此类重大监管所需的成本，这将绝对限制他们可以收集的信息量。)
+
 2. 实际上GDRP就是**(the European Union’s) General Data Protection Regulation**的缩写，可以参考阅读这篇文章[Open, Closed, and Privacy](https://stratechery.com/2018/open-closed-and-privacy/)
+
 3. 那么法律(Law)与法规(Regulation)的区别在哪呢？可以参考这篇文章[Difference Between Law and Regulation](https://www.differencebetween.com/difference-between-law-and-vs-regulation/),总结出如下三点：
-> 1. Laws originate in the legislative assembly whereas regulations originate in administrative agencies and departments.(法律起源于立法议会，而法规则来自行政机构和部门)
->  <br>
-> 2.  Regulations are subordinate to the laws though they are enforceable just like law. (法规与法律一样具有强制执行效力，但是法规却服从与法律)
->  <br>
-> 3. Regulations are introduced to help in the implementation of laws. （法规的引入是为了帮助法律的实施，to make the implementation of these laws easier）
+
+   > - Laws originate in the legislative assembly whereas regulations originate in administrative agencies and departments.(法律起源于立法议会，而法规则来自行政机构和部门)
+   >   <br>
+   > - Regulations are subordinate to the laws though they are enforceable just like law. (法规与法律一样具有强制执行效力，但是法规却服从与法律)
+   >    <br>
+   > - Regulations are introduced to help in the implementation of laws. （法规的引入是为了帮助法律的实施，to make the implementation of these laws easier）
+
 4. 根据[Differences: Acts and Regulations](https://www.slp.wa.gov.au/faq.nsf/Web/Topics/C39627DF9C3527E348256CA8000DCBE5)文章，大意是**Regulation,Rules,Code**是Act的具体实现，而Act是由国会(Parliament)通过的法案。
-5. 那么**law**和**act**的区别，[](https://law.stackexchange.com/questions/16660/what-is-the-difference-between-a-law-and-an-act)文章给出了非常详细的解释：
+
+5. 那么**law**和**act**的区别，[What is the difference between a law and an act?](https://law.stackexchange.com/questions/16660/what-is-the-difference-between-a-law-and-an-act) 文章给出了非常详细的解释：
+
+   > An "**act**" is a single enacted bill proposed in a single legislative session approved in a single Presidential assent. 
+   >
+   > A **law**, in contrast, can be the result of multiple acts approved in multiple Presidential assents at different times and then codified into a single statute.
+
 6. **Compliance** 单从字面比较难以理解（顺从是什么鬼），但是结合这里上下文，可以看的出来，是当前企业购买了审计产品，并设置好了策略，进而实现了regulation的各项规定，因此可以翻译为成功地**实施了法规/法条**的过程（**是否合规的意思**）。
-> 实际上[牛津字典](https://dictionary.cambridge.org/dictionary/english/compliance)对 compliance的第一条解释是：
->  
-> The act of obeying an order, rule, or request. 
->  
-> 那么针对法律的compliance是可以翻译为合规的意思。**compliance audit** 就是 合规性审计。
+
+   > 实际上[牛津字典](https://dictionary.cambridge.org/dictionary/english/compliance)对 compliance的第一条解释是：
+   >
+   > The act of obeying an order, rule, or request. 
+   >
+   > 那么针对法律的compliance是可以翻译为合规的意思。**compliance audit** 就是 合规性审计。 
+
 
 
 ### 4.2 法规名称翻译
@@ -177,6 +196,24 @@
 #### 小结：
 1. Graded:等级； Classification:分类。
 2. 关于法规法条的设计，参考这篇文章[dbAudit专项记录–法规法条](https://www.evernote.com/l/ALr2spaNAbJImoyNLosUqjzL-ehlXfm0Q7A/)
+
+
+
+### 4.4 Infographics
+
+#### Bill v.s Law:
+
+<img src="./img/Difference-Between-Act-and-Bill-infographic.jpg" alt="Difference Between Act and Bill" style="zoom:67%;" /> 
+
+
+
+#### Law v.s Act
+
+<img src="./img/image-20220411145218666.png" alt="image-20220411145218666" style="zoom: 73%;" /> 
+
+
+
+> [2021年6月](https://mp.weixin.qq.com/s/xOb5pLne4Z9HgdSg9FuZKg)，参议院通过了《美国创新与竞争方案》（the U.S. Innovation and Competition **Act**）；2022年2月，众议院通过了《2022美国竞争法案》（the America Competes **Act** of 2022）。可以说，这两个方案都是针对中国量身定制的。（注：法案还未实施，后文会提及具体审批节点）
 
 
 
@@ -296,20 +333,13 @@ Github is a **cloud-based [host service](https://medium.com/swlh/things-about-gi
 
 [Infographics](https://www.educba.com/stock-vs-inventory/): A picture or diagram or a group of pictures or diagrams showing or explaining information.
 
-## 8. 邮件用词记录
-
-- **Escalation process**:  Maybe we should agree on an 'escalation process' to see how or when we will contact BP directly to resolve some open issues. 
-- Thanks guys for **reaching out directly to** XXX.  Actually, I asked Lee to **copy in** XXX **`for his awareness`** and yet to formally escalate the issue to him because it is impacting small number of orders only.  Apologize for causing some panic on your end without prior notice.
-- Looking forward to hearing back. Cheers.
-- I found an order example from the list that ~~which~~ was not **manually fulfilled** and **`a comparison of` how it should have run with Automations**, please take a look.
-- Thanks for **sending this `over`**. (Send this over to me ?).
-- Thanks for your patience.
-- Hi xxx, **Just keeping you ~~update~~ updated here**.
-- I will **`be in touch`** today.
 
 
-## 9. References & Connection
+
+## 8. References & Connection
 1. [Laws and Regulations - sciencedirect. ](https://www.sciencedirect.com/topics/computer-science/laws-and-regulation)
+
+1. [Laws vs. Regulations: What’s the Difference?](https://www.mamhca.org/assets/1/7/Laws_vs_regulations.pdf)
 
 2. [What is the difference between a law and an act? -  StackExchange](https://law.stackexchange.com/questions/16660/what-is-the-difference-between-a-law-and-an-act)
 
@@ -322,7 +352,7 @@ Github is a **cloud-based [host service](https://medium.com/swlh/things-about-gi
 5. [常见外贸术语](https://www.evernote.com/l/ALrJb00sTXhFqJ7Sv7F7Wwi33x3UjE774Cw/)
 
 
-##  10. 文档修订记录
+##  9. 文档修订记录
 
 | 版本号|     变化状态|   简要说明|  日期	|   变更人/参与者   |
 | :-------- | :--------| :------ |:------ |:------ |
