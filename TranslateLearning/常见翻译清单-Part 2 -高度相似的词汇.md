@@ -103,26 +103,10 @@ A `product type` can be further organized into several `categories`. For example
 
 ## 文案与提示
 
-#### 1. Compromised
-
-<img src="./img/1603769061014.png" alt="@||360x0" style="zoom: 80%;" />
-
-Wikepedia关于数据库审计两处提到了**Compromised**
-
->......Verizon Business’ caseload of 90 confirmed breaches involving 285 million **compromised** records during 2008—75 percent of all breached records came from **`compromised` database servers.**
-> 
-> In addition, since targeted attacks frequently result in attackers gaining privileged user credentials, monitoring of privileged activities is also an effective way to identify **`compromised` systems.**
-
-------------------
-Facebook网站的**[hacked](https://m.facebook.com/hacked)**地址，就是**Report Compromised Account**。（My Account Is Compromised)
-> If you believe your account **has been compromised by another person or a virus**（如果您认为您的帐户已被他人或病毒入侵）, please click the "My Account Is Compromised" button below. We'll help you log back into your account so that you can regain control.
-
-- **References:**
- 1. [Facebook-Report Compromised Account](https://m.facebook.com/hacked)
- 2. [Database activity monitoring -- Wikipedia](https://en.wikipedia.org/wiki/Database_activity_monitoring)
 
 
 #### 2. If Any(如果有的话)
+
 We need to make sure that non-admins can be restricted to viewing specific channels. For example, a Costco sales rep should only be able to view the data for the Costco channel (plus their other channels, **`if any`**)
 
 eg:
@@ -183,13 +167,7 @@ In that case, *wrong* isn't all that more "harsh" than *incorrect*, because it's
 1. [Wrong or incorrect? -- Stackexchange](https://ell.stackexchange.com/questions/13087/wrong-or-incorrect)
 
 
-
-#### 5. 独立的组件:Stand-alone(而不是independent)
-
-Connections, imports, exports, and lookups are [all stand-alone resource components](https://docs.celigo.com/hc/en-us/articles/360019292691) in integrator.io, and therefore each resource can be used in multiple flows without the need to make a copy of the same object every time. This is only true if you want to use identical resources in multiple flows.
-
-
-[standalone/independent -- wordreference.com](https://forum.wordreference.com/threads/standalone-independent.3598145/)
+https://forum.wordreference.com/threads/standalone-independent.3598145/)
 
 
 
@@ -210,6 +188,20 @@ Connections, imports, exports, and lookups are [all stand-alone resource compone
 [这篇中国人写书籍提到](https://books.google.com.hk/books?id=EB4PKgzNb1YC&pg=PA499&lpg=PA499&dq=fuzzy%20query%20vs%20exact%20query%20precisely%20query&source=bl&ots=_pf3gUexSK&sig=ACfU3U1YKfvGRNU7_KahGD0BD3G8UNB6aw&hl=zh-CN&sa=X&redir_esc=y&sourceid=cndr#v=onepage&q=fuzzy%20query%20vs%20exact%20query%20precisely%20query&f=false)：
 
 > Queries include **`exact query, fuzzy query and wildcard queries`**
+
+
+
+
+
+##  5.2 Scarce （缺乏的) v.s Scare (恐惧)
+
+- **Scarce /skeə(r)s/ **
+
+  > Before the arrival of recorded music, what [used to be scarce](https://eriktorenberg.substack.com/p/build-personal-moats) was the actual music itself. 
+
+- **Scare /skeə(r)/**
+
+  > scare the shit out of sb / scare sb shitless.
 
 
 

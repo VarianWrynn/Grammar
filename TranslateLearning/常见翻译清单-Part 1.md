@@ -217,23 +217,54 @@
 
 
 
-## 5.  奇怪的知识又增加了
+## 5.  计算机常用术语记录
 
-### 5.1 Variation [`ˌveriˈeɪʃn`]
+### Variation [`ˌveriˈeɪʃn`]
 
 - [A variation of an export is a looup](https://docs.celigo.com/hc/en-us/articles/360019292691-Introduction-to-integrator-io). (Lookups 是导出的一种变体)
 - A change, especially in the amount or level of sth. （数量、水平等的）变化，变更，变异
 - A thing that is different from other things in the same general group. (变异的东西；变种；变体)
 
-###  5.2 Scarce v.s Scare
 
-- **Scarce /skeə(r)s/ **
-> Before the arrival of recorded music, what [used to be scarce](https://eriktorenberg.substack.com/p/build-personal-moats) was the actual music itself. 
 
-- **Scare /skeə(r)/**
- >  scare the shit out of sb / scare sb shitless.
 
-### 5.3 Curation /ˌkjuːˈreɪʃən/ 策展/策划
+
+### 独立的组件:Stand-alone(而不是independent)
+
+Connections, imports, exports, and lookups are [all stand-alone resource components](https://docs.celigo.com/hc/en-us/articles/360019292691) in integrator.io, and therefore each resource can be used in multiple flows without the need to make a copy of the same object every time. This is only true if you want to use identical resources in multiple flows.
+
+[standalone/independent -- wordreference.com](
+
+
+
+
+
+### Compromised
+
+<img src="F:\Lee\Githubs\Grammar\TranslateLearning\img\1603769061014.png" alt="@||360x0" style="zoom: 80%;" />
+
+Wikepedia关于数据库审计两处提到了**Compromised**
+
+>......Verizon Business’ caseload of 90 confirmed breaches involving 285 million **compromised** records during 2008—75 percent of all breached records came from **`compromised` database servers.**
+>
+>In addition, since targeted attacks frequently result in attackers gaining privileged user credentials, monitoring of privileged activities is also an effective way to identify **`compromised` systems.**
+
+------------------
+
+Facebook网站的**[hacked](https://m.facebook.com/hacked)**地址，就是**Report Compromised Account**。（My Account Is Compromised)
+
+> If you believe your account **has been compromised by another person or a virus**（如果您认为您的帐户已被他人或病毒入侵）, please click the "My Account Is Compromised" button below. We'll help you log back into your account so that you can regain control.
+
+- **References:**
+
+  1. [Facebook-Report Compromised Account](https://m.facebook.com/hacked)
+  2. [Database activity monitoring -- Wikipedia](https://en.wikipedia.org/wiki/Database_activity_monitoring)
+
+
+
+
+
+### Curation /ˌkjuːˈreɪʃən/ 策展/策划
 > n.	治疗；【IT】(对数字信息的)综合处理；策展
 
 **The action or process of selecting, organizing, and looking after the items in a collection or exhibition.** 
@@ -242,7 +273,7 @@ eg:
 > It’s important to know that moats change over time as conditions change. Before the arrival of recorded music, what used to be scarce was the actual music itself — required an in-person artist.  After recorded music, the music itself became abundant and [what became scarce was curation](https://eriktorenberg.substack.com/p/build-personal-moats), distribution, and self space. *护城河会随着条件的变化而变化。比如，录音技术诞生之前，稀缺的是音乐本身，你想听音乐，就需要有一个艺术家给你现场表演。现在，音乐录音到处都是，稀缺的是策划、发行和个性的展示。*
 
 
-### 5.4  as-is / as it is (原样)
+### as-is / as it is (原样)
 
 > Edit merchant info including name, wms parameters, and schedules. [Any fields left off will be left as-is.](https://developers.cartrover.com/?version=latest#079c1875-9b93-4b23-9b43-736d928bdf44) （任何未完成的字段将按原样保留）。
 
@@ -255,7 +286,7 @@ eg:
 
 
 
-### 5.5 Schema
+### Schema
 
 [A schema defines](https://developer.akamai.com/blog/2019/04/08/graphql-101-what-why-and-how) the structure of objects and the relationship between them. 
 
@@ -282,15 +313,15 @@ Expected type ShipSpeed at value.shipSpeed.
 我想一开始看文档我是看不明白的，只有通过不断的调试，测试，观测，让系统自动给出**反馈**，才能解决问题。不仅仅解决问题，更重要的是通过这种方式我能不断感知到系统是如何运作，以及一些难以理解的术语，比如Sechema，到底是怎么回事。 一旦跨过去这道坎，后面对这个概念相关的领域就是一片坦途，感觉好简单，一如当年反复阅读和编程过几次C#委托之后的情况。
 
 
-### 7.5 on behalf of 
+### on behalf of 
 
 Are you signing up [on behalf of](https://zoom.us/activate?code=zDNPISAQHYi5ySD1TzFReva9kSpn3GNN1XnFC2PSRnM.AG.sMJNde8QoaYiAS8CsW8Be53GMZCyxkY-ayfrArrE09AX-puIibwdrIC-iuDLJj1g1qO-yk0oLod05tjRgqUDCR2XvyFHSoGCFm82UbPA049FUz8eePikGQpMj5hTc2WMST1vltcdnw.WzXAY31E0daePWIvrAyj5A.meCEnhxhcH7GZZA_&fr=signup) a primary or secondary (K-12) institution?
 
-### 7.6  Automate what should be automated
+### Automate what should be automated
 
 [Unparalleled](https://apilayer.com/) suite of productivity-boosting Web APIs & cloud-based micro-service applications for developers and companies of any size
 
-### 7.7 Criteria `[kraɪ'tɪriə]`
+### Criteria `[kraɪ'tɪriə]`
 
 #### 1. 不要误写成 **Crit`i`eria**
 
@@ -302,7 +333,7 @@ You can [specify certain criteria in a search condition](http://www.cs.toronto.e
 
 
 
-### 7.8 orchestration  /[ˌɔrkɪ'streɪʃn/
+### orchestration  /[ˌɔrkɪ'streɪʃn/
 
 In essence, this means Kubernetes is [a container orchestration engine](https://www.zhihu.com/question/22436320/answer/32477238), a platform designed to host and run containers across a number of nodes. 
 > Kubernetes是一个容器编排(管理)引擎
@@ -314,7 +345,8 @@ In essence, this means Kubernetes is [a container orchestration engine](https://
  > "the orchestration of the campaign needed tightening"
 
 
-### 7.9 Combination / combined 用法
+
+### Combination / combined 用法
 
 the combination of xxx and xxx;
 
@@ -322,16 +354,48 @@ the combination of xxx and xxx;
 - [The combination of massive reductions](https://frame.work/blog/in-defense-of-dumb-tvs) in panel costs, decreasing costs for embedded compute, and the ready availability of content platforms from Google, Roku, **and** others have made the term irrelevant.
 - Decreasing prices and decreasing margins on TVs **combined with** long replacement cycles have driven companies to take advantage of built-in smarts to enable a new revenue source: user data and advertising. 
 
-### 7.10 hosting service （托管服务）
+### hosting service （托管服务）
 
 Github is a **cloud-based [host service](https://medium.com/swlh/things-about-git-and-github-you-need-to-know-as-developer-907baa0bed79)** for Git repositories. 
 
 从这里可以看出，.NET的主机，其实就是托管的意思，如果不知道背后英文的意思，那么理解所谓的主机，在思维上会和传统上的主机练习在一起，形成隔阂，有点难以理解。
 
 
-### 7.11 Infographics
+### Infographics
 
 [Infographics](https://www.educba.com/stock-vs-inventory/): A picture or diagram or a group of pictures or diagrams showing or explaining information.
+
+
+
+### Dedicated Server 专用服务器
+
+<img src="./img/hosting-dedcated.jpg" alt="What is Web Hosting ? - Media For Hosting and Development" style="zoom:80%;" /> 
+
+> 专用服务器;独立服务器;独立主机;专属服务器;專用伺服器
+>
+> - He is checking with the engineers to make sure we are on our own dedicated server.
+
+A dedicated hosting service, dedicated server, or managed hosting service is a type of Internet hosting in which the client leases an entire server not shared with anyone else. [Wikipedia](https://en.wikipedia.org/wiki/Dedicated_hosting_service)
+
+
+
+#### **Shared Hosting**
+
+This is the most common (and also has lesser cost) form of hosting. Most of the websites you use and depend on a shared host. It simply means that the web hosting account is SHARED on a server with many other web hosting accounts. It is best for tiny businesses, whose websites have low to moderate traffic and CPU needs.
+
+#### **Dedicated Hosting**
+
+This may be regarded as the opposite of shared hosting. Dedicated hosting provides a site its terribly own server, thus no more sharing with anybody else. This means quicker speeds, a safer site, no impact from other sites, more customization options—all at a much higher price tag.
+
+#### Virtual Private Servers (VPS)
+
+VPS is just another form of shared hosting. But when you purchase VPS hosting, it simply means that you are sharing similar server with fewer users. Each section is reserved and that they act **severally** 【'sev(ə)rəli】 of one another.
+
+
+
+Reference:
+
+1. [What is Web Hosting ?](https://www.media4host.com/what-is-web-hosting/)
 
 
 
