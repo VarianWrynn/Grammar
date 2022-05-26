@@ -298,9 +298,20 @@ Thirty-two per cent of all women are over-weight, the main culprits being the fa
 
   > Please can we get off the subject of **dieting**.
 
+- I seem to have forgotten my password
+
+  <img src="./image-20220526100900646.png" alt="image-20220526100900646" style="zoom: 80%;" /> 
+
+  
+
+## 6. Otherwise用法
+
+- Often there are customers still depending on old functionality that could [otherwise](https://www.mailbox.my/blog/posts/why-enterprise-software-is-bloated/) be removed.
+- 
 
 
-## 6. References & Connection
+
+## 7. References & Connection
 1. [You are being rude. Being 到底是个什么东西？ - 英语思维的文章 - 知乎](https://zhuanlan.zhihu.com/p/26797446)
 2. [Being + 形容词 的用法如何理解？其中的 being 是什么词性？ - sapereaude的回答 - 知乎](https://www.zhihu.com/question/49311081/answer/255054419)
 3. [being正确的几种情况 - GMAT侯老的文章 - 知乎](https://zhuanlan.zhihu.com/p/70367055)
