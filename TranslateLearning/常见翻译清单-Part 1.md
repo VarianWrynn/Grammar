@@ -379,11 +379,11 @@ A dedicated hosting service, dedicated server, or managed hosting service is a t
 
 
 
-#### **Shared Hosting**
+#### Shared Hosting
 
 This is the most common (and also has lesser cost) form of hosting. Most of the websites you use and depend on a shared host. It simply means that the web hosting account is SHARED on a server with many other web hosting accounts. It is best for tiny businesses, whose websites have low to moderate traffic and CPU needs.
 
-#### **Dedicated Hosting**
+#### Dedicated Hosting
 
 This may be regarded as the opposite of shared hosting. Dedicated hosting provides a site its terribly own server, thus no more sharing with anybody else. This means quicker speeds, a safer site, no impact from other sites, more customization options—all at a much higher price tag.
 
@@ -396,6 +396,22 @@ VPS is just another form of shared hosting. But when you purchase VPS hosting, i
 Reference:
 
 1. [What is Web Hosting ?](https://www.media4host.com/what-is-web-hosting/)
+
+
+
+### Ad-hoc & Post-hoc
+
+- **Ad hoc** is a [Latin phrase](https://en.wikipedia.org/wiki/List_of_Latin_phrases) meaning literally 'to this'. In English, it typically signifies a solution for a specific purpose, problem, or task rather than a [generalized](https://en.wikipedia.org/wiki/Generalization) solution adaptable to collateral instances. (Compare with *[a priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)*.)
+- ***Post hoc*** (sometimes written as ***post-hoc***) is a Latin phrase, meaning "after this" or "after the event".
+  -  [Post-hoc](https://www.warp.dev/blog/problems-with-promotion-oriented-cultures) design documents written specifically to explain work to a promo-committee after the feature has been built
+
+
+
+**Reference：**
+
+1. [Ad hoc--维基百科](https://zh.m.wikipedia.org/zh-hans/Ad_hoc)
+2. [Ad hoc--Wikipedia](https://en.wikipedia.org/wiki/Ad_hoc)
+3. [Post hoc -- Wikipedia](https://en.wikipedia.org/wiki/Post_hoc)
 
 
 
