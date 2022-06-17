@@ -184,30 +184,33 @@ New member fees -- 3,320,776  charter fees--
 **Reference**
 1. http://www.answers.com/Q/What_does_the_saying_eyes_on_the_prize_mean
 2. https://en.wikipedia.org/wiki/Eyes_on_the_Prize
-3. jianqiaocidhttps://dictionary.cambridge.org/zhs/词典/英语/the
+
 
 
 ## Day11.  State v.s Status
 
-![@||300x0](./1587432112141.png) ![@||300x0](./1587432118909.png)
+<img src="./1587432112141.png" alt="@||300x0" style="zoom: 50%;" /> <img src="./1587432118909.png" alt="@||300x0" style="zoom: 50%;" />
 
 
 
 
-两者差不太多，state用起来可能更方便一些更通用一点；要区分的话，state表示一个确定的状态集中的某个状态（比如水的三态）。
- 
-status表示一种笼统的情形（比如你的生活状态、工作状态），不存在确定的状态集。
+两者差不太多，state用起来可能更方便一些更通用一点；要区分的话，**state**表示一个***确定***的状态集中的某个状态（比如水的三态）。
 
-state是这件事物本身的状态，例如房间是干净的还是脏的，或者这个项目是朝着目标有序前进的还是混乱的； 
+**status**表示一种笼统的情形（比如你的生活状态、工作状态），***不存在确定***的状态集。
 
-而status更多的描述的人为定义的，主观因素占有很大成分的，与特定情况有关的状态，例如房间分为标准房，豪华大床房这种，我其实完全可以改名豪华大床房是豪华情侣房，这个是有主观因素在里面的，不像干净还是脏这种是客观存在的。
+**state**是这件事物本身的状态，例如房间是干净的还是脏的，或者这个项目是朝着目标有序前进的还是混乱的； 
 
-或是解释为 state就是一组变量。status则是它们的心情。
+而**status**更多的描述的人为定义的，主观因素占有很大成分的，与特定情况有关的状态，例如房间分为标准房，豪华大床房这种，我其实完全可以改名豪华大床房是豪华情侣房，这个是有主观因素在里面的，不像干净还是脏这种是客观存在的。
 
-state：比较常用，各种状态都可以用它，但是它更着重于一种心理状态或者物理状态。
-Status：用在人的身上一般是其身份和地位，作“状态，情形”讲时，多指政治和商业。
+或是解释为 **state**就是一组变量。**status**则是它们的心情。
+
+**state**：比较常用，各种状态都可以用它，但是它更着重于一种心理状态或者物理状态。
+**Status**：用在人的身上一般是其身份和地位，作“状态，情形”讲时，多指政治和商业。
+
+
 
 ### 拓展  ajax中的State & Status
+
 ajax中`readyState`，`statusText`，`onreadystatechange`，`window.status`
 怎么一会state一会是status都晕乎了?
 
@@ -221,6 +224,21 @@ ajax中`readyState`，`statusText`，`onreadystatechange`，`window.status`
 1. https://www.cnblogs.com/likebeta/archive/2012/07/03/2574595.html
 2. https://blog.csdn.net/sym134/article/details/81066629
 
+
+
+### 其他
+
+<img src="./image-20220617155012145.png" alt="image-20220617155012145" style="zoom:80%;" /> 
+
+- statue 名词，译为：塑像、铸像、雕像。
+- stature 名词，译为：身高、名望
+- status 名词，译为：地位、身份、职位
+- state 名词，译为：状态、状况、情况；
+  形容词，译为：政府的、国家的；礼仪的、礼仪上的
+
+- statute n. 法规；法令；章程；条例
+
+  
 
 ## Day12.  an edge on
 
