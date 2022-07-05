@@ -27,6 +27,7 @@
 
 | 术语      |     定义 |   解释   |
 | :-------- | :--------| :------ |
+| **Auxiliary Verbs** | <img src="./img/image-20220705091629776.png" alt="image-20220705091629776" style="zoom:50%;" /> |  |
 | **Adverb** (副词)   |  英文的修饰语有形容词和副词这两种。形容词是用来修饰名词的修饰语，副词通常是用来修饰动词、形容词与副词的修饰语。[^1]  |  **`ad-`** pref. （表示运动，方向，变化，添加或加强语气）向；在，与； <br> **`verb`**:动词。  <br> 字面上即 修饰动词的词，引申词义**副词**  |
 |**Prepositions**（介系词）| 介系词的用法就是放在名词前面、与名词（称为它的受词（宾语））共同构成一个意义单元、称为介系词词组，当作修饰语使用。介系词词组这种修饰语可以当形容词或副词使用，是最有弹性、使用频率最高的一种修饰语。|介系词（prepositions），从造字来看是pre-加上position，意思是「放在前面的东西」。 |
 |**Particles**([介副词](https://www.evernote.com/l/ALqIa0bSt0RDcZ2NHFg70hAdYQl3qlfQ2B4/))|有一种词类，看起来和介系词一模一样，但是后面却没有受词（宾语），而是直接当做副词使用。这种词类称为介副词（particles），应该当作副词看待[^2]。<br><br> In grammar, a particle is a preposition such as 'into' or and adverb such as 'out' which can combine with a verb to form a phrasal verb.|小品词(与动词构成短语动词的副词或介词)|
